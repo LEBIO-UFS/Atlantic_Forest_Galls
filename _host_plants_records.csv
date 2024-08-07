@@ -1,0 +1,452 @@
+#article_code;phytophysiognomy_type;study_location;brazilian_states;protected_area;latitude;longitude;geographic_coordinate_quality
+#01;Montane forest;Reserva Particular do Patrimônio Natural Santuário Caraça, Catas Altas (MG);Minas Gerais;Yes;"20°6'0.67""S";"43°29'41.04""W";Informed
+#01;Montane forest;Parque Estadual do Rio Doce, Marliéria (MG);Minas Gerais;Yes;"19°42'23""S";"42°34'33""W";Informed
+#01;Montane forest;Antônio Dias (MG);Minas Gerais;No;"19°37'27""S";"42°52'07""W";Informed
+#01;Montane forest;Ipatinga (MG);Minas Gerais;No;"19°28'08""S";"42°32'12""W";Informed
+#01;Montane forest;Belo Oriente (MG);Minas Gerais;No;"19°11'25""S";"42°29'43""W";Informed
+#02;Restinga;Restinga da Barra de Maricá, Marica Lagoon, Maricá (RJ);Rio de Janeiro;Yes;"22°54'00""S";"42°53'23""W";Informed
+#02;Restinga;Restinga da Barra de Maricá, Marica Lagoon, Maricá (RJ);Rio de Janeiro;Yes;"22°57'34""S";"42°49'57""W";Informed
+#02;Restinga;Restinga da Barra de Maricá, Zacarias Beach, Maricá (RJ);Rio de Janeiro;Yes;"22°58'05""S";"42°54'00""W";Informed
+#02;Restinga;Restinga da Barra de Maricá, Zacarias Beach, Maricá (RJ);Rio de Janeiro;Yes;"22°57'37""S";"42°50'03""W";Informed
+#02;Restinga;Restinga de Carapebus, Carapebus Lagoon, Carapebus (RJ);Rio de Janeiro;Yes;"22°14'50""S";"41°35'26""W";Informed
+#02;Restinga;Restinga de Carapebus, Carapebus Lagoon, Carapebus (RJ);Rio de Janeiro;Yes;"22°13'05""S";"41°35'10""W";Informed
+#02;Restinga;Restinga de Carapebus, Praia Grande Road, Carapebus (RJ);Rio de Janeiro;Yes;"22°16'27""S";"41°38'41""W";Informed
+#02;Restinga;Restinga de Carapebus, Praia Grande Road, Carapebus (RJ);Rio de Janeiro;Yes;"22°15'09""S";"41°39'56""W";Informed
+#02;Restinga;Restinga de Itaipuaçu, Beira-Mar Avenue, Maricá (RJ);Rio de Janeiro;No;"22°58'14""S";"42°54'13""W";Informed
+#02;Restinga;Restinga de Itaipuaçu, Beira-Mar Avenue, Maricá (RJ);Rio de Janeiro;No;"22°58'13""S";"43°00'47""W";Informed
+#03;Restinga;Parque Nacional da Restinga de Jurubatiba, Macaé (RJ);Rio de Janeiro;Yes;"22°12'18""S";"41°29'56""W";Informed
+#04;Restinga;Área de Proteção Ambiental da Restinga de Grumari, Grumari (RJ);Rio de Janeiro;Yes;"23°02'50""S";"43°31'80""W";Informed
+#05;Secondary rainforest;Reserva Particular do Patrimônio Natural Fazenda Bulcão, Aimorés (MG);Minas Gerais;Yes;19°31'19''S;41°05'04''W;Informed
+#05;Secondary rainforest;Reserva Particular do Patrimônio Natural Fazenda Bulcão, Aimorés (MG);Minas Gerais;Yes;19°31'36''S;41°05'30''W;Informed
+#05;Secondary rainforest;Reserva Particular do Patrimônio Natural Fazenda Bulcão, Aimorés (MG);Minas Gerais;Yes;19°33'25''S;41°06'36''W;Informed
+#05;Secondary rainforest;Reserva Particular do Patrimônio Natural Fazenda Bulcão, Aimorés (MG);Minas Gerais;Yes;19°32'35''S;41°06'29''W;Informed
+#05;Secondary rainforest;Reserva Particular do Patrimônio Natural Fazenda Bulcão, Aimorés (MG);Minas Gerais;Yes;19°33'08''S;41°06'17''W;Informed
+#05;Secondary rainforest;Reserva Particular do Patrimônio Natural Fazenda Bulcão, Aimorés (MG);Minas Gerais;Yes;19°32'21''S;41°06'37''W;Informed
+#05;Secondary rainforest;Reserva Particular do Patrimônio Natural Fazenda Bulcão, Aimorés (MG);Minas Gerais;Yes;19°32'20''S;41°06'17''W;Informed
+#05;Secondary rainforest;Reserva Particular do Patrimônio Natural Fazenda Bulcão, Aimorés (MG);Minas Gerais;Yes;19°32'53''S;41°06'16''W;Informed
+#05;Secondary rainforest;Reserva Particular do Patrimônio Natural Fazenda Bulcão, Aimorés (MG);Minas Gerais;Yes;19°32'25''S;41°05'30''W;Informed
+#05;Secondary rainforest;Reserva Particular do Patrimônio Natural Fazenda Bulcão, Aimorés (MG);Minas Gerais;Yes;19°31'59''S;41°05'39''W;Informed
+#05;Secondary rainforest;Reserva Particular do Patrimônio Natural Fazenda Bulcão, Aimorés (MG);Minas Gerais;Yes;19°31'10''S;41°05'35''W;Informed
+#05;Secondary rainforest;Reserva Particular do Patrimônio Natural Fazenda Bulcão, Aimorés (MG);Minas Gerais;Yes;19°31'13''S;41°04'55''W;Informed
+#05;Secondary rainforest;Reserva Particular do Patrimônio Natural Fazenda Bulcão, Aimorés (MG);Minas Gerais;Yes;19°30'21''S;41°05'15''W;Informed
+#05;Secondary rainforest;Reserva Particular do Patrimônio Natural Fazenda Bulcão, Aimorés (MG);Minas Gerais;Yes;19°31'15''S;41°03'36''W;Informed
+#05;Secondary rainforest;Reserva Particular do Patrimônio Natural Fazenda Bulcão, Aimorés (MG);Minas Gerais;Yes;19°31'14''S;41°04'19''W;Informed
+#05;Secondary rainforest;Reserva Particular do Patrimônio Natural Fazenda Bulcão, Aimorés (MG);Minas Gerais;Yes;19°31'22''S;41°05'00''W;Informed
+#05;Secondary rainforest;Reserva Particular do Patrimônio Natural Fazenda Bulcão, Aimorés (MG);Minas Gerais;Yes;19°31'03''S;41°05'16''W;Informed
+#05;Secondary rainforest;Reserva Particular do Patrimônio Natural Fazenda Bulcão, Aimorés (MG);Minas Gerais;Yes;19°30'56''S;41°04'46''W;Informed
+#05;Secondary rainforest;Reserva Particular do Patrimônio Natural Fazenda Bulcão, Aimorés (MG);Minas Gerais;Yes;19°30'36''S;41°04'36''W;Informed
+#05;Secondary rainforest;Reserva Particular do Patrimônio Natural Fazenda Bulcão, Aimorés (MG);Minas Gerais;Yes;19°30'20''S;41°04'23''W;Informed
+#05;Secondary rainforest;Reserva Particular do Patrimônio Natural Fazenda Bulcão, Aimorés (MG);Minas Gerais;Yes;19°31'49''S;41°43'43''W;Informed
+#05;Secondary rainforest;Reserva Particular do Patrimônio Natural Fazenda Bulcão, Aimorés (MG);Minas Gerais;Yes;19°31'12''S;41°01'06''W;Informed
+#06;Secondary rainforest;Reserva Particular do Patrimônio Natural Fazenda Bulcão, Aimorés (MG);Minas Gerais;Yes;"19°31'19""S";"41°05'04""W";Informed
+#07;Secondary rainforest;Bertioga (SP);São Paulo;No;"23°51'16""S";"46°08'19""W";Informed
+#08;Secondary rainforest;Parque Estadual de Dois Irmãos, Recife (PE);Pernambuco;Yes;"08°7'30""S";"34°52'30""W";Informed
+#09;Secondary rainforest;Reserva Biológica Estadual da Praia do Sul, Ilha Grande, Angra dos Reis (RJ);Rio de Janeiro;Yes;"23°10'0.0""S";"44°17'0.0""W";Informed
+#10;Restinga;Parque Estadual Paulo César Vinha, Guarapari (ES);Espírito Santo;Yes;"20°33'0.0""S";40°23'0.0W;Informed
+#11;Seasonal semideciduous rainforest;Goiânia (GO);Goiás;No;"16°36'13""S";"49°15'41""W";Informed
+#12;High altitude wetlands;Reserva Municipal de Bonito, Bonito (PE);Pernambuco;Yes;"8°30'6.37""S";"35°43'17.79""W";Informed
+#12;High altitude wetlands;Brejo Madre de Deus (PE);Pernambuco;No;"8°11'40""S";"36°23'43""W";Informed
+#12;High altitude wetlands;Reserva Biológica de Serra Negra, Floresta (PE);Pernambuco;Yes;"8°39'31.32""S";"38°1'6.97""W";Informed
+#12;High altitude wetlands;Taquaritinga do Norte (PE);Pernambuco;No;"7°53'41.64""S";"36°2'53.38""W";Informed
+#12;High altitude wetlands;Triunfo (PE);Pernambuco;No;"7°52'14.14""S";"38°5'57.08""W";Informed
+#12;High altitude wetlands;Parque Municipal João Vasconcelos Sobrinho, Caruaru (PE);Pernambuco;Yes;"8°21'21.49""S";"36°1'43.86""W";Informed
+#13;Secondary rainforest;Ibateguara (AL);Alagoas;No;"08°30'0.0""S";"35°50'0.0""W";Informed
+#14;Dense alluvial rainforest;Reserva Ecológica de Saltinho, Tamandaré (PE);Pernambuco;Yes;"08°43'30""S";"35°10'40""W";Informed
+#14;Lowland dense rainforest;Parque Estadual de Dois Irmãos, Recife (PE);Pernambuco;Yes;"08°7'30""S";"34°52'30""W";Informed
+#14;Lowland dense rainforest;Reserva Ecológica de Carnijó, Jaboatão dos Guararapes (PE);Pernambuco;Yes;"08°08'42""S";"35°04'34""W";Informed
+#14;Lowland dense rainforest;Reserva Ecológica Mata de Duas Lagoas, Cabo de Santo Agostinho (PE);Pernambuco;Yes;"08°18'16""S";"34°58'17""W";Informed
+#14;Lowland dense rainforest;Refúgio Ecológico Charles Darwin, Igarassu (PE);Pernambuco;Yes;"07°48'47.58""S";"34°57'13.34""W";Informed
+#14;Lowland dense rainforest;Engenho Monjope, Igarassu (PE);Pernambuco;No;"07°54'32""S";"34°57'25""W";Informed
+#15;Restinga;Bertioga (SP);São Paulo;NE;" 23°48'11.02""S";" 46°2'30.61""W";Approximate
+#15;Restinga;Carapebus (RJ);Rio de Janeiro;NE;" 22°11'15.61""S";" 41°39'44.87""W";Approximate
+#15;Restinga;Cabo Frio (RJ);Rio de Janeiro;NE;" 22°53'15.52""S";" 42°2'5.23""W";Approximate
+#15;Restinga;Grumari (RJ);Rio de Janeiro;NE;" 23°2'57.95""S";" 43°32'0.90""W";Approximate
+#15;Restinga;Ilha Grande (RJ);Rio de Janeiro;NE;" 23°9'7.50""S";" 44°13'44.20""W";Approximate
+#15;Restinga;Jurubatiba (RJ);Rio de Janeiro;NE;" 22°12'2.11""S";" 41°30'38.74""W";Approximate
+#15;Restinga;Maricá (RJ);Rio de Janeiro;NE;" 22°55'6.96""S";" 42°49'2.38""W";Approximate
+#15;Restinga;Paraty (RJ);Rio de Janeiro;NE;" 23°13'13.65""S";" 44°43'7.56""W";Approximate
+#15;Restinga;Guarapari (ES);Espírito Santo;NE;" 20°40'30.09""S";" 40°30'37.44""W";Approximate
+#16;High altitude fields and Araucaria forests;Pró-Mata Research and Nature Conservation Center, São Francisco de Paula (RS);Rio Grande do Sul;Yes;"29°28'0.0""S";"50°13'0.0""W";Informed
+#16;High altitude fields and Araucaria forests;Três Estrelas Farm, São Francisco de Paula (RS);Rio Grande do Sul;No;"29°28'08""S";"50°12'38""W";Informed
+#16;High altitude fields and Araucaria forests;Três Cachoeiras Farm, São Francisco de Paula (RS);Rio Grande do Sul;No;"29°26'21""S";"50°16'21""W";Informed
+#17;NA;Ladeira do Amendoim, São Tomé das Letras (MG);Minas Gerais;No;"22°42'24""S";"44°58'57""W";Informed
+#17;NA;Cachoeira da Lua, São Tomé das Letras (MG);Minas Gerais;No;"21°42'11""S";"44°56'24""W";Informed
+#17;NA;Vale das Borboletas, São Tomé das Letras (MG);Minas Gerais;No;"22°42'24""S";"44°58'57""W";Informed
+#17;NA;Gruta do Sobradinho, São Tomé das Letras (MG);Minas Gerais;No;"21°39'24""S";"44°53'08""W";Informed
+#17;NA;Eubiose, São Tomé das Letras (MG);Minas Gerais;No;"21°43'0""S";"44°59'0""W";Informed
+#17;NA;Harmonia, São Tomé das Letras (MG);Minas Gerais;No;"21°43'24""S";"44°57'33""W";Informed
+#18;Subtropical Semideciduous Forest;Turvo State Park, Derrubadas (RS);Rio Grande do Sul;Yes;"27°8'0.0""S";"53°53'0.0""W";Informed
+#18;Restinga and Subtropical rainforest;Itapeva State Park, Torres (RS);Rio Grande do Sul;Yes;"29°20'0.0""S";"49°43'0.0""W";Informed
+#18;Subtropical mixed rainforest;National forest, São Franscisco de Paula (RS);Rio Grande do Sul;Yes;"29°26'0.0""S";"50°23'0.0""W";Informed
+#18;Dense subtropical rainforest;Maquiné river basin, Maquiné (RS);Rio Grande do Sul;Yes;"29°34'0.0""S";"50°16'0.0""W";Informed
+#18;Restinga and Subtropical rainforest;Itapuã State Park, Viamão (RS);Rio Grande do Sul;Yes;"30°04'0.0""S";"51°01'0.0""W";Informed
+#18;Subtropical Moist Forest;Morro Santana Wildlife Reserve, Porto Alegre (RS);Rio Grande do Sul;Yes;"30°01'0.0""S";"51°13'0.0""W";Informed
+#19;Montane dense rainforest;Estação Biológica de Santa Lúcia, Santa Teresa (ES);Espírito Santo;Yes;"19°58'11""S";"40°32'11""W";Informed
+#19;Dense rainforest;Reserva Biológica Augusto Ruschi, Santa Teresa (ES);Espírito Santo;Yes;"19°54'20""S";"40°33'44""W";Informed
+#19;Montane dense rainforest;Parque Natural Municipal São Lourenço, Santa Teresa (ES);Espírito Santo;Yes;"19°09'0.0""S";"40°36'00""W";Informed
+#20;High altitude fields;Brejo da Lapa, Itamonte (MG);Minas Gerais;No;"22°21'31""S";"44°44'14""W";Informed
+#20;High altitude fields;Cachoeira do Escorrega, Itamonte (MG);Minas Gerais;No;"22°13'13.75""S";"44°49'16.05""W";Informed
+#20;High altitude fields;Sítio Moana, Itamonte (MG);Minas Gerais;No;"22°14'23""S";"44°47'55""W";Informed
+#21;Restinga;Kutuca, Ilha da Marambaia,Mangaratiba (RJ) ;Rio de Janeiro;No;"23°3'59.17""S";"43°59'33.59""W";Informed
+#21;Restinga;Grande, Ilha da Marambaia,Mangaratiba (RJ);Rio de Janeiro;No;"23°3'27.08""S";"43°59'28.63""W";Informed
+#21;Restinga;Suja, Ilha da Marambaia,Mangaratiba (RJ)  ;Rio de Janeiro;No;"23°2'48.29""S";"43°58'28.69""W";Informed
+#21;Restinga;Caju, Ilha da Marambaia,Mangaratiba (RJ);Rio de Janeiro;No;"23°2'33.64""S";"43°57'46.12""W";Informed
+#21;Restinga;João Manoel, Ilha da Marambaia,Mangaratiba (RJ);Rio de Janeiro;No;"23°2'34.89""S";"43°57'35.75""W";Informed
+#21;Restinga;Sítio, Ilha da Marambaia,Mangaratiba (RJ);Rio de Janeiro;No;"23°4'4.85""S";"43°59'39.41""W";Informed
+#21;Restinga;Armação, Ilha da Marambaia,Mangaratiba (RJ);Rio de Janeiro;No;"23°3'38.64""S";"43°54'9.10""W";Informed
+#22;Seasonal semideciduous rainforest;Fazenda Monte Alegre, Telêmaco Borba (PR);Paraná;No;" 24°20'0.66""S";" 50°37'30.10""W";Approximate
+#23;Restinga;Parque Estadual da Costa do Sol, Saquarema (RJ);Rio de Janeiro;Yes;" 22°53'54.91""S";" 42°27'52.03""W";Approximate
+#23;Restinga;Parque Estadual da Costa do Sol, Araruama (RJ);Rio de Janeiro;Yes;" 22°52'31.72""S";" 42°20'29.78""W";Approximate
+#23;Restinga;Parque Estadual da Costa do Sol, Arraial do Cabo (RJ);Rio de Janeiro;Yes;" 22°58'4.52""S";" 42°1'34.49""W";Approximate
+#23;Restinga;Parque Estadual da Costa do Sol, Cabo Frio (RJ);Rio de Janeiro;Yes;" 22°53'15.52""S";" 42°2'5.23""W";Approximate
+#23;Restinga;Reserva Particular do Patrimônio Natural Fazenda Caruara,  São João da Barra (RJ);Rio de Janeiro;Yes;"21°45'25""S";"41°02'08""W";Informed
+#24;Coastal atlantic forest (Tabuleiro);Marcelo Trindade, Estação Ecológica Estadual de Guaxindiba, São Francisco de Itabapoana (RJ);Rio de Janeiro;Yes;"21°24'55""S";"41°04'38""W";Informed
+#24;Coastal atlantic forest (Tabuleiro);Colégio Agrícola, Estação Ecológica Estadual de Guaxindiba, São Francisco de Itabapoana (RJ);Rio de Janeiro;Yes;"21°23'56.1""S";"41°04'44""W";Informed
+#24;Coastal atlantic forest (Tabuleiro);Vera, Estação Ecológica Estadual de Guaxindiba, São Francisco de Itabapoana (RJ);Rio de Janeiro;Yes;"21°24'26""S";"41°04'59""W";Informed
+#24;Coastal atlantic forest (Tabuleiro);Abelha, Estação Ecológica Estadual de Guaxindiba, São Francisco de Itabapoana (RJ);Rio de Janeiro;Yes;"21°24'40.7""S";"41°04'53.7""W";Informed
+#24;Coastal atlantic forest (Tabuleiro);Charco, Estação Ecológica Estadual de Guaxindiba, São Francisco de Itabapoana (RJ);Rio de Janeiro;Yes;"21°24'59.7""S";"41°04'35.5""W";Informed
+#25;Restinga and Mangrove;Restinga da Marambaia, Rio de Janeiro (RJ);Rio de Janeiro;No;"23°02'56""S";"43°37'51""W";Informed
+#26;Restinga;Acaraí State Park, São Francisco do Sul (SC);Santa Catarina;Yes;"26°17'0.0""S";"48°33'0.0""W";Informed
+#27;NA;Sede Fazenda Califórnia, Bodoquena (MS);Mato Grosso do Sul;No;"20°42'18""S";"56°51'17.4""W";Informed
+#27;NA;Trilha da Gruta, Bodoquena (MS);Mato Grosso do Sul;No;"20°41'55.9""S";"56°52'49.4""W";Informed
+#28;Montane dense rainforest,  High-montane forest, High altitude fields;BR–485 (Headquarter – Maromba), Parque Nacional do Itatiaia (RJ);Rio de Janeiro;Yes;"22°25'49""S";"44°37'16""W";Informed
+#28;Montane dense rainforest,  High-montane forest, High altitude fields;Cachoeira Itaporani, Parque Nacional do Itatiaia (RJ);Rio de Janeiro;Yes;"22°25'40""S";"44°37'20""W";Informed
+#28;Montane dense rainforest,  High-montane forest, High altitude fields;Cachoeira Véu da Noiva, Parque Nacional do Itatiaia (RJ);Rio de Janeiro;Yes;"22°25'40""S";"44°37'12""W";Informed
+#28;Montane dense rainforest,  High-montane forest, High altitude fields;Lago Azul, Parque Nacional do Itatiaia (RJ);Rio de Janeiro;Yes;"22°27'01""S";"44°36'52""W";Informed
+#28;Montane dense rainforest,  High-montane forest, High altitude fields;Ecoarte–Lago Azul, Parque Nacional do Itatiaia (RJ);Rio de Janeiro;Yes;"22°27'01""S";"44°36'52""W";Informed
+#28;Montane dense rainforest,  High-montane forest, High altitude fields;Cachoeira Poranga, Parque Nacional do Itatiaia (RJ);Rio de Janeiro;Yes;"22°26'32""S";"44°36'44""W";Informed
+#28;Montane dense rainforest,  High-montane forest, High altitude fields;Três Picos (incluing Cachoeira Bela Vista), Parque Nacional do Itatiaia (RJ);Rio de Janeiro;Yes;"22°25'31""S";"44°35'01""W";Informed
+#28;Montane dense rainforest,  High-montane forest, High altitude fields;Centro de Visitantes, Parque Nacional do Itatiaia (RJ);Rio de Janeiro;Yes;"22°27'04""S";"44°6'37""W";Informed
+#28;Montane dense rainforest,  High-montane forest, High altitude fields;Casa 16, Parque Nacional do Itatiaia (RJ);Rio de Janeiro;Yes;"22°27'16""S";"44°36'20""W";Informed
+#28;Montane dense rainforest,  High-montane forest, High altitude fields;Hotel Donati (entrada–represa), Parque Nacional do Itatiaia (RJ);Rio de Janeiro;Yes;"22°26'36""S";"44°35'54""W";Informed
+#28;Montane dense rainforest,  High-montane forest, High altitude fields;Donati–Simon 1, Parque Nacional do Itatiaia (RJ);Rio de Janeiro;Yes;"22°26'19""S";"44°36'29""W";Informed
+#28;Montane dense rainforest,  High-montane forest, High altitude fields;Donati–Simon 2, Parque Nacional do Itatiaia (RJ);Rio de Janeiro;Yes;"22°26'22""S";"44°35'47""W";Informed
+#28;Montane dense rainforest,  High-montane forest, High altitude fields;Viúva Hansen, Parque Nacional do Itatiaia (RJ);Rio de Janeiro;Yes;"22°26'46""S";"44°36'05""W";Informed
+#28;Montane dense rainforest,  High-montane forest, High altitude fields;Barbosa Rodrigues–Mirante do Último Adeus, Parque Nacional do Itatiaia (RJ);Rio de Janeiro;Yes;"22°27'40""S";"44°36'15""W";Informed
+#28;Montane dense rainforest,  High-montane forest, High altitude fields;Barbosa Rodrigues (obelisk), Parque Nacional do Itatiaia (RJ);Rio de Janeiro;Yes;"22°27'09""S";"44°36'36""W";Informed
+#28;Montane dense rainforest,  High-montane forest, High altitude fields;Cachoeira do Pitu, Parque Nacional do Itatiaia (RJ);Rio de Janeiro;Yes;"22°26'14""S";"44°36'49""W";Informed
+#28;Montane dense rainforest,  High-montane forest, High altitude fields;Casa 33, Parque Nacional do Itatiaia (RJ);Rio de Janeiro;Yes;"22°24'01""S";"44°39'12""W";Informed
+#28;Montane dense rainforest,  High-montane forest, High altitude fields;Casa 25, Parque Nacional do Itatiaia (RJ);Rio de Janeiro;Yes;"22°26'42""S";"44°36'50""W";Informed
+#28;Montane dense rainforest,  High-montane forest, High altitude fields;Pedra do Camelo, Parque Nacional do Itatiaia (RJ) ;Rio de Janeiro;Yes;"22°26""17""S";"44°37'31""W";Informed
+#28;Montane dense rainforest,  High-montane forest, High altitude fields;Casa de Pedra, Parque Nacional do Itatiaia (RJ) ;Rio de Janeiro;Yes;"22°22'07""S";"44°42'43""W";Informed
+#28;Montane dense rainforest,  High-montane forest, High altitude fields;Agulhas Negras, Parque Nacional do Itatiaia (RJ);Rio de Janeiro;Yes;"22°23'06""S";"44°40'21""W";Informed
+#28;Montane dense rainforest,  High-montane forest, High altitude fields;Cachoeira do Aiuruoca, Parque Nacional do Itatiaia (MG);Minas Gerais;Yes;"22°21'08""S";"44°40'07""W";Informed
+#28;Montane dense rainforest,  High-montane forest, High altitude fields;Posto Marcão–Abrigo Rebouças, Parque Nacional do Itatiaia (RJ/MG);Rio de Janeiro and Minas Gerais;Yes;"22°22'27""S";"44°42'04""W";Informed
+#28;Montane dense rainforest,  High-montane forest, High altitude fields;Pedra do Altar, Parque Nacional do Itatiaia (RJ/MG);Rio de Janeiro and Minas Gerais;Yes;"22°22'27""S";"44°40'27""W";Informed
+#28;Montane dense rainforest,  High-montane forest, High altitude fields;Asa de Hermes, Parque Nacional do Itatiaia (RJ/MG);Rio de Janeiro and Minas Gerais;Yes;"22°22'33""S";"44°39'53""W";Informed
+#28;Montane dense rainforest,  High-montane forest, High altitude fields;Pedra do Sino, Parque Nacional do Itatiaia (RJ/MG);Rio de Janeiro and Minas Gerais;Yes;"22°22'13""S";"44°39'45""W";Informed
+#28;Montane dense rainforest,  High-montane forest, High altitude fields;Prateleiras, Parque Nacional do Itatiaia (RJ);Rio de Janeiro;Yes;"22°23'56""S";"44°40'16""W";Informed
+#28;Montane dense rainforest,  High-montane forest, High altitude fields;Travessia Ruy Braga, Parque Nacional do Itatiaia (RJ) ;Rio de Janeiro;Yes;"22°22'27""S";"44°42'04""W";Informed
+#28;Montane dense rainforest,  High-montane forest, High altitude fields;Água Branca–Ruy Braga, Parque Nacional do Itatiaia (RJ);Rio de Janeiro;Yes;"22°25'15""S";"44°38'26""W";Informed
+#28;Montane dense rainforest,  High-montane forest, High altitude fields;Travessia Serra Negra, Parque Nacional do Itatiaia (RJ/MG);Rio de Janeiro and Minas Gerais;Yes;"22°19'14""S";"44°36'43""W";Informed
+#28;Montane dense rainforest,  High-montane forest, High altitude fields;Morro do Couto, Parque Nacional do Itatiaia (RJ);Rio de Janeiro;Yes;"22°22'27""S";"44°42'05""W";Informed
+#28;Montane dense rainforest,  High-montane forest, High altitude fields;Pedra da Maçã, da Tartaruga and Assentada, Parque Nacional do Itatiaia (RJ);Rio de Janeiro;Yes;"22°23'55""S";"44°39'58""W";Informed
+#28;Montane dense rainforest,  High-montane forest, High altitude fields;Cinco Lagos, Parque Nacional do Itatiaia (RJ);Rio de Janeiro;Yes;"22°22'23""S";"44°40'43""W";Informed
+#28;Montane dense rainforest,  High-montane forest, High altitude fields;Ovos da Galinha, Parque Nacional do Itatiaia (MG);Minas Gerais;Yes;"22°21'52""S";"44°39'34""W";Informed
+#29;Tropical sub-evergreen cloud-forest;Sítio Cajueirinho, Ibiapina (CE);Ceará;No;"03°55'24""S";"40°53'22""W";Informed
+#30;NA;Pernambuco (PE);Pernambuco;NE;NA;NA;NA
+#30;NA;Itatiaia National Park (RJ);Rio de Janeiro;NE;" 22°30'19.06""S";" 44°33'59.56""W";Approximate
+#30;NA;Restinga de Bertioga State Park (SP);São Paulo;NE;" 23°47'45.06""S";" 46°1'23.16""W";Approximate
+#30;NA;Belo Horizonte (MG);Minas Gerais ;NE;" 19°55'8.59""S";" 43°56'19.21""W";Approximate
+#30;NA;Tiradentes (MG);Minas Gerais ;NE;" 21°6'34.62""S";" 44°10'4.28""W";Approximate
+#30;NA;Serra dos Órgãos National Park (RJ);Rio de Janeiro;NE;" 22°24'3.00""S";" 42°49'44.00""W";Approximate
+#30;NA;São Paulo (SP);São Paulo;NE;" 23°33'37.74""S";" 46°35'27.62""W";Approximate
+#30;NA;Nova Frigurbo (RJ);Rio de Janeiro;NE;" 22°16'57.68""S";" 42°32'4.93""W";Approximate
+#30;NA;Campos do Jordão (SP);São Paulo;NE;" 22°44'22.15""S";" 45°35'26.30""W";Approximate
+#30;NA;Maricá Environmental Protection Area (RJ);Rio de Janeiro;NE;" 22°55'1.17""S";"42°49'10.13""W";Approximate
+#30;NA;Serra do Barbosão (RJ);Rio de Janeiro;NE;" 22°41'49.25""S";" 42°45'25.95""W";Approximate
+#30;NA;Niterói (RJ);Rio de Janeiro;NE;" 22°53'4.84""S";" 43°6'17.67""W";Approximate
+#30;NA;Minas Gerais (MG);Minas Gerais ;NE;NA;NA;NA
+#31;Restinga;Restingas de Babitonga, Balneário Barra do Sul (SC);Santa Catarina;No;"26°26’0.0""S";"49°12’0.0""W";Informed
+#31;Restinga;Restingas de Babitonga, Itapoá (SC);Santa Catarina;No;"26°26’0.0""S";"49°12’0.0""W";Informed
+#32;Seasonal semideciduous rainforest;Sorocaba (SP);São Paulo;No;"23°34'53""S";"47°31'28""W";Informed
+#33;Seasonal semideciduous secondary rainforest;Canela (RS);Rio Grande do Sul;No;"29°22'58.1""S";"50°44'08.1""W";Informed
+#33;Seasonal semideciduous secondary rainforest;Canela (RS);Rio Grande do Sul;No;"29°22'50.4""S";"50°44'11.9""W";Informed
+#33;Seasonal semideciduous secondary rainforest;Canela (RS);Rio Grande do Sul;No;"29°22'50.2""S";"50°44'03.2""W";Informed
+#33;Seasonal semideciduous secondary rainforest;Canela (RS);Rio Grande do Sul;No;"29°22'44.1""S";"50°43'49.8""W";Informed
+#33;Seasonal deciduous secondary forest;Santa Tereza (RS);Rio Grande do Sul;No;"29°09'27.5""S";"51°41'34.6""W";Informed
+#33;Seasonal deciduous secondary forest;Santa Tereza (RS);Rio Grande do Sul;No;"29°09'45.8""S";"51°42'33.2""W";Informed
+#33;Seasonal deciduous secondary forest;Santa Tereza (RS);Rio Grande do Sul;No;"29°09'44.8""S";"51°42'32.8""W";Informed
+#33;Seasonal deciduous secondary forest;Santa Tereza (RS);Rio Grande do Sul;No;"29°09'47.8""S";"51°42'40.5""W";Informed
+#34;Restinga;Angra dos Reis (RJ);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Rio Grando Sul, Santa Catarina, Paraná, Rio Grande do Norte, Bahia, Amazonas, Mato Grosso do Sul, Roraima, Tocantins, Amapá, Pernambuco;NE;"23°0'36""S";"44°19'6""W";Informed
+#34;Restinga;Araruama (RJ);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Rio Grando Sul, Santa Catarina, Paraná, Rio Grande do Norte, Bahia, Amazonas, Mato Grosso do Sul, Roraima, Tocantins, Amapá, Pernambuco;NE;"22°52'35""S";"42°20'21""W";Informed
+#34;Restinga;Arraial do Cabo (RJ);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Rio Grando Sul, Santa Catarina, Paraná, Rio Grande do Norte, Bahia, Amazonas, Mato Grosso do Sul, Roraima, Tocantins, Amapá, Pernambuco;NE;"22°57'58""S";"42°1'44""W";Informed
+#34;Restinga;Bertioga (SP);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Rio Grando Sul, Santa Catarina, Paraná, Rio Grande do Norte, Bahia, Amazonas, Mato Grosso do Sul, Roraima, Tocantins, Amapá, Pernambuco;NE;"23°51'19""S";"46°8'22""W";Informed
+#34;Restinga;Cabo Frio (RJ);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Rio Grando Sul, Santa Catarina, Paraná, Rio Grande do Norte, Bahia, Amazonas, Mato Grosso do Sul, Roraima, Tocantins, Amapá, Pernambuco;NE;"22°52'43""S";" 42°1'12""W";Informed
+#34;Restinga;Canguaretama (RN);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Rio Grando Sul, Santa Catarina, Paraná, Rio Grande do Norte, Bahia, Amazonas, Mato Grosso do Sul, Roraima, Tocantins, Amapá, Pernambuco;NE;"6°22'58""S"; 35°7'30''W;Informed
+#34;Restinga;Carapebus (RJ);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Rio Grando Sul, Santa Catarina, Paraná, Rio Grande do Norte, Bahia, Amazonas, Mato Grosso do Sul, Roraima, Tocantins, Amapá, Pernambuco;NE;"22°11'13""S";"41°39'39""W";Informed
+#34;Restinga;Florianópolis (SC);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Rio Grando Sul, Santa Catarina, Paraná, Rio Grande do Norte, Bahia, Amazonas, Mato Grosso do Sul, Roraima, Tocantins, Amapá, Pernambuco;NE;"27°35'49""S";"48°32'58""W";Informed
+#34;Restinga;Guarapari (ES);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Rio Grando Sul, Santa Catarina, Paraná, Rio Grande do Norte, Bahia, Amazonas, Mato Grosso do Sul, Roraima, Tocantins, Amapá, Pernambuco;NE;"20°39'4""S";"40°30'24""W";Informed
+#34;Restinga;Itapoá (SC);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Rio Grando Sul, Santa Catarina, Paraná, Rio Grande do Norte, Bahia, Amazonas, Mato Grosso do Sul, Roraima, Tocantins, Amapá, Pernambuco;NE;"26°7'3""S";"48°37'0""W";Informed
+#34;Restinga;Linhares (ES);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Rio Grando Sul, Santa Catarina, Paraná, Rio Grande do Norte, Bahia, Amazonas, Mato Grosso do Sul, Roraima, Tocantins, Amapá, Pernambuco;NE;"19°23'27""S";"40°4'17""W";Informed
+#34;Restinga;Macaé (RJ);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Rio Grando Sul, Santa Catarina, Paraná, Rio Grande do Norte, Bahia, Amazonas, Mato Grosso do Sul, Roraima, Tocantins, Amapá, Pernambuco;NE;" 22°22'18""S";"41°47'9""W";Informed
+#34;Restinga;Madre de Deus (BA);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Rio Grando Sul, Santa Catarina, Paraná, Rio Grande do Norte, Bahia, Amazonas, Mato Grosso do Sul, Roraima, Tocantins, Amapá, Pernambuco;NE;"12°44'22""S";"38°37'17""W";Informed
+#34;Restinga;Mangaratiba (RJ);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Rio Grando Sul, Santa Catarina, Paraná, Rio Grande do Norte, Bahia, Amazonas, Mato Grosso do Sul, Roraima, Tocantins, Amapá, Pernambuco;NE;"22°57'35""S";"44°2'28""W";Informed
+#34;Restinga;Maricá (RJ);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Rio Grando Sul, Santa Catarina, Paraná, Rio Grande do Norte, Bahia, Amazonas, Mato Grosso do Sul, Roraima, Tocantins, Amapá, Pernambuco;NE;"22°55'9""S";"42°49'6""W";Informed
+#34;Restinga;Paranaguá (PR);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Rio Grando Sul, Santa Catarina, Paraná, Rio Grande do Norte, Bahia, Amazonas, Mato Grosso do Sul, Roraima, Tocantins, Amapá, Pernambuco;NE;"25°31'14""S";"48°30'34""W";Informed
+#34;Restinga;Parati (RJ);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Rio Grando Sul, Santa Catarina, Paraná, Rio Grande do Norte, Bahia, Amazonas, Mato Grosso do Sul, Roraima, Tocantins, Amapá, Pernambuco;NE;"23°13'0""S";"44°43'4""W";Informed
+#34;Restinga;Pelotas (RS);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Rio Grando Sul, Santa Catarina, Paraná, Rio Grande do Norte, Bahia, Amazonas, Mato Grosso do Sul, Roraima, Tocantins, Amapá, Pernambuco;NE;"31°46'34""S";"52°21'34""W";Informed
+#34;Restinga;Pontal do Paraná (PR);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Rio Grando Sul, Santa Catarina, Paraná, Rio Grande do Norte, Bahia, Amazonas, Mato Grosso do Sul, Roraima, Tocantins, Amapá, Pernambuco;NE;25°40'24''S;48°30'39''W;Informed
+#34;Restinga;Porto Alegre (RS);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Rio Grando Sul, Santa Catarina, Paraná, Rio Grande do Norte, Bahia, Amazonas, Mato Grosso do Sul, Roraima, Tocantins, Amapá, Pernambuco;NE;"30°01'58""S";"51°13'48""W";Informed
+#34;Restinga;Rio de Janeiro (RJ);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Rio Grando Sul, Santa Catarina, Paraná, Rio Grande do Norte, Bahia, Amazonas, Mato Grosso do Sul, Roraima, Tocantins, Amapá, Pernambuco;NE;"22°54'13""S";"43°12'35""W";Informed
+#34;Restinga;São Francisco de Itabapoana (RJ);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Rio Grando Sul, Santa Catarina, Paraná, Rio Grande do Norte, Bahia, Amazonas, Mato Grosso do Sul, Roraima, Tocantins, Amapá, Pernambuco;NE;"21°28'25""S";"41°7'13""W";Informed
+#34;Restinga;São Francisco do Sul (SC);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Rio Grando Sul, Santa Catarina, Paraná, Rio Grande do Norte, Bahia, Amazonas, Mato Grosso do Sul, Roraima, Tocantins, Amapá, Pernambuco;NE;"26°14'38""S";"48°38'18""W";Informed
+#34;Restinga;São João da Barra (RJ);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Rio Grando Sul, Santa Catarina, Paraná, Rio Grande do Norte, Bahia, Amazonas, Mato Grosso do Sul, Roraima, Tocantins, Amapá, Pernambuco;NE;"21°38'56""S";" 41°3'9""W";Informed
+#34;Restinga;Saquarema (RJ);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Rio Grando Sul, Santa Catarina, Paraná, Rio Grande do Norte, Bahia, Amazonas, Mato Grosso do Sul, Roraima, Tocantins, Amapá, Pernambuco;NE;"22°55'52""S";" 42°29'47""W";Informed
+#35;Submontane seasonal semideciduous forest;Área de Relevante Interesse Ecológico Floresta da Cicuta, Barra Mansa (RJ);Rio de Janeiro;Yes;"22°33'20""S";"44°05'00""W";Informed
+#36;Seasonal semideciduous rainforest;Altinópolis (SP);São Paulo;No;"21°00'0.0""S";"47°23'0.0""W";Informed
+#37;Restinga;Angra dos Reis (RJ);Rio de Janeiro;NE;"23°0'36""S";"44°19'6""W";Approximate
+#37;Restinga;Mangaratiba (RJ);Rio de Janeiro;NE;"22°57'35""S";"44°2'28""W";Approximate
+#37;Restinga;Rio de Janeiro (RJ);Rio de Janeiro;NE;"22°54'36.62""S";" 43°10'23.79""W";Approximate
+#37;Restinga;Maricá (RJ);Rio de Janeiro;NE;"22°52'0.0""S";"42°48'0.0""W";Approximate
+#37;Restinga;Carapebus (RJ);Rio de Janeiro;NE;"22°11'13""S";"41°39'39""W";Approximate
+#37;Restinga;Parque Nacional da Restinga de Jurubatiba, Macaé (RJ);Rio de Janeiro;Yes;"22°12'34""S";"41°31'05""W";Approximate
+#37;Restinga;Parque Estadual da Costa do Sol (RJ);Rio de Janeiro;Yes;" 22°58'4.52""S";" 42°1'34.49""W";Approximate
+#37;Restinga;Arraial do Cabo (RJ);Rio de Janeiro;NE;"22°57'58""S";"42°1'44""W";Approximate
+#37;Restinga;São João da Barra (RJ);Rio de Janeiro;NE;"21°38'56""S";" 41°3'9""W";Approximate
+#37;Restinga;Bertioga (SP);São Paulo;NE;"23°51'19""S";"46°8'22""W";Approximate
+#37;Restinga;Guarapari (ES);Espírito Santo;NE;"20°40'30.09""S";" 40°30'37.44""W";Approximate
+#38;NA;Aimorés (MG);Minas Gerais;NE;"19°30'01""S";"41°05'26""W";Approximate
+#38;NA;Serra do Caparaó, Alto do Caparaó (MG);Minas Gerais;NE;"20°25'41.02""S";" 41°48'23.69""W";Approximate
+#38;NA;Antônio Dias (MG);Minas Gerais;NE;"19°37'27""S";"42°52'07""W";Approximate
+#38;NA;Belo Horizonte (MG);Minas Gerais;NE;"19°55'8.59""S";" 43°56'19.21""W";Approximate
+#38;NA;Brumadinho (MG);Minas Gerais;NE;"20°7'53.43""S";"44°15'48.45""W";Approximate
+#38;NA;Itamonte (MG);Minas Gerais;NE;"22°17'17""S";"44°52'54""W";Approximate
+#38;NA;Januária (MG);Minas Gerais;NE;"15°29'2.26""S";"44°22'13.15""W";Approximate
+#38;NA;Parque Estadual do Itacolomi, Ouro Preto (MG);Minas Gerais;Yes;"20°24'30""S";"43°30'29""W";Approximate
+#38;NA;São Tomé das Letras (MG);Minas Gerais;NE;"21°43'56""S";"44°56'47""W";Approximate
+#38;NA;Serra do Ibitipoca, Lima Duarte (MG);Minas Gerais;NE;"21°41'56.4""S";"43°54'0.46""W";Approximate
+#38;NA;Viçosa (MG);Minas Gerais;NE;"20°45'55""S";"42°52'18""W";Approximate
+#39;NA;Jandaira (BA);Bahia;NE;"11°34'2.56""S";"37°46'59.53""W";Approximate
+#39;NA;Conde (BA);Bahia;NE;"11°48'26""S";"37°37'28""W";Approximate
+#39;NA;Esplanada (BA);Bahia;NE;"11°47'44.46""S";" 37°56'41.27""W";Approximate
+#39;NA;Mata de São Jodo (BA);Bahia;NE;"12°31'55.85""S";"38°17'45.74""W";Approximate
+#39;NA;São Sebastião do Passé (BA);Bahia;NE;"12°30'45.76""S";"38°29'27.05""W";Approximate
+#39;NA;Madre de Deus (BA);Bahia;NE;"12°44'16.42""S";"38°36'34.16""W";Approximate
+#39;NA;Salvador (BA);Bahia;NE;"12°52'30""S";"38°23'53""W";Approximate
+#39;NA;Itaparica (BA);Bahia;NE;"12°53'38""S";"38°40'17""W";Approximate
+#39;NA;Valença (BA);Bahia;NE;"13°22'28.94""S";"39°4'13.26""W";Approximate
+#39;NA;Camamu (BA);Bahia;NE;"13°56'56""S";"39°07'41""W";Approximate
+#39;NA;Itacaré (BA);Bahia;NE;"14°16'52""S";"38°59'50""W";Approximate
+#39;NA;Ilhéus (BA);Bahia;NE;"14°47'38.80""S";"39° 2'5.71""W";Approximate
+#39;NA;Una (BA);Bahia;NE;"15°17'28.39""S";"39°4'39.57""W";Approximate
+#39;NA;Belmonte (BA);Bahia;NE;"15°51'36.10""S";"38°52'48.15""W";Approximate
+#39;NA;Santa Cruz de Cabrália (BA);Bahia;NE;"16°16'52.75""S";"39°1'25.54""W";Approximate
+#39;NA;Porto Seguro (BA);Bahia;NE;"16°25'58.67""S";"39°5'18.89""W";Approximate
+#39;NA;Caravelas (BA);Bahia;NE;"17°44'5.66""S";"39°15'45.91""W";Approximate
+#39;NA;Nova Viçosa (BA);Bahia;NE;"17°53'53.60""S";"39°22'19.89""W";Approximate
+#40;Lowland dense rainforest;Parque Ecológico de Maracajá, Maracajá (SC);Santa Catarina;Yes;"28°52'51""S";"49°27'59""W";Informed
+#40;Lowland dense rainforest;Içara (SC);Santa Catarina;No;"28°47'27""S";"49°19'56""W";Informed
+#40;Lowland dense rainforest;Araranguá (SC);Santa Catarina;No;"29°02'21""S";"49°31'34""W";Informed
+#41;Araucaria forest, Dense rainforest;National Forest of São Francisco de Paula, São Francisco de Paula (RS);Rio Grande do Sul;Yes;"29°25'28""S";"50°23'08""W";Informed
+#41;Araucaria forest, Dense rainforest;Cambará do Sul (RS);Rio Grande do Sul;No;"29°10'29""S";"50°01'58""W";Informed
+#41;Araucaria forest, Dense rainforest;Serra da Bocaina National Park, São José do Barreiro (SP);São Paulo;Yes;"22°44'03""S";"44°36'59""W";Informed
+#41;Araucaria forest, Dense rainforest;Serra do Tabuleiro, São Bonifácio (SC);Santa Catarina;Yes;"27°49'01""S";"48°53'53""W";Informed
+#42;Restinga;Restingas of Vila de Trindade, Paraty (RJ);Rio de Janeiro;No;"23°13'0""S";"44°43'4""W";Informed
+#43;Lowland rainforest, sub-montane rainforest, and montane rainforest;Trilha Buracão, Reserva Biológica União, Rio das Ostras (RJ);Rio de Janeiro;Yes;"22°25'49.57""S";"42°2'7.31""W";Informed
+#43;Lowland rainforest, sub-montane rainforest, and montane rainforest;Trilha Lavapé, Reserva Biológica União, Rio das Ostras (RJ);Rio de Janeiro;Yes;"22°25'27.23""S";"42°2'43.75""W";Informed
+#43;Lowland rainforest, sub-montane rainforest, and montane rainforest;Trilha Interpretativa, Reserva Biológica União, Rio das Ostras (RJ);Rio de Janeiro;Yes;"22°24'59.57""S";"42°2'38.88""W";Informed
+#43;Lowland rainforest, sub-montane rainforest, and montane rainforest;Trilha Três Pontes, Reserva Biológica União, Rio das Ostras (RJ);Rio de Janeiro;Yes;"22°24'20.74""S";"42°1'39.65""W";Informed
+#44;NA;Aimorés (MG);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Bahia, Ceará, Pernambuco, Rio Grande do Norte, Sergipe, Alagoas, Paraíba, Rio Grande do Sul, Santa Catarina and Paraná;NE;"19°30'01""S";"41°05'26""W";Approximate
+#44;NA;Alto Limoeiro (ES);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Bahia, Ceará, Pernambuco, Rio Grande do Norte, Sergipe, Alagoas, Paraíba, Rio Grande do Sul, Santa Catarina and Paraná;NE;"20°28'26.00""S";"41°5'56.13""W";Approximate
+#44;NA;Anchieta (ES);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Bahia, Ceará, Pernambuco, Rio Grande do Norte, Sergipe, Alagoas, Paraíba, Rio Grande do Sul, Santa Catarina and Paraná;NE;"20°47'38.0""S";"40°38'48.7""W";Approximate
+#44;NA;Angra dos Reis (RJ);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Bahia, Ceará, Pernambuco, Rio Grande do Norte, Sergipe, Alagoas, Paraíba, Rio Grande do Sul, Santa Catarina and Paraná;NE;"23°0'36""S";"44°19'6""W";Approximate
+#44;NA;Aracruz (ES);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Bahia, Ceará, Pernambuco, Rio Grande do Norte, Sergipe, Alagoas, Paraíba, Rio Grande do Sul, Santa Catarina and Paraná;NE;"19°49'56""S";"40°15'18""W";Approximate
+#44;NA;Araruama (RJ);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Bahia, Ceará, Pernambuco, Rio Grande do Norte, Sergipe, Alagoas, Paraíba, Rio Grande do Sul, Santa Catarina and Paraná;NE;"22°52'35""S";"42°20'21""W";Approximate
+#44;NA;Arraial do Cabo (RJ);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Bahia, Ceará, Pernambuco, Rio Grande do Norte, Sergipe, Alagoas, Paraíba, Rio Grande do Sul, Santa Catarina and Paraná;NE;"22°57'58""S";"42°1'44""W";Approximate
+#44;NA;Babitonga (SC);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Bahia, Ceará, Pernambuco, Rio Grande do Norte, Sergipe, Alagoas, Paraíba, Rio Grande do Sul, Santa Catarina and Paraná;NE;"26°13'39""S";"48°41'04""W";Approximate
+#44;NA;Bananal (SP);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Bahia, Ceará, Pernambuco, Rio Grande do Norte, Sergipe, Alagoas, Paraíba, Rio Grande do Sul, Santa Catarina and Paraná;NE;"22°45'31""S";"44°17'35""W";Approximate
+#44;NA;Belmonte (BA);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Bahia, Ceará, Pernambuco, Rio Grande do Norte, Sergipe, Alagoas, Paraíba, Rio Grande do Sul, Santa Catarina and Paraná;NE;"15°51'25""S";"38°51'50""W";Approximate
+#44;NA;Bento Gonçalves (RS);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Bahia, Ceará, Pernambuco, Rio Grande do Norte, Sergipe, Alagoas, Paraíba, Rio Grande do Sul, Santa Catarina and Paraná;NE;"29°07'46""S";"51°31'28""W";Approximate
+#44;NA;Bertioga (SP);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Bahia, Ceará, Pernambuco, Rio Grande do Norte, Sergipe, Alagoas, Paraíba, Rio Grande do Sul, Santa Catarina and Paraná;NE;"23°51'19""S";"46°8'22""W";Approximate
+#44;NA;Bonito (PE);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Bahia, Ceará, Pernambuco, Rio Grande do Norte, Sergipe, Alagoas, Paraíba, Rio Grande do Sul, Santa Catarina and Paraná;NE;"08°30'11""S";"35°41'37""W";Approximate
+#44;NA;Caaporã (PB);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Bahia, Ceará, Pernambuco, Rio Grande do Norte, Sergipe, Alagoas, Paraíba, Rio Grande do Sul, Santa Catarina and Paraná;NE;"7°30'53""S";"34°55'47""W";Approximate
+#44;NA;Cabo Frio (RJ);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Bahia, Ceará, Pernambuco, Rio Grande do Norte, Sergipe, Alagoas, Paraíba, Rio Grande do Sul, Santa Catarina and Paraná;NE;"22°52'43""S";" 42°1'12""W";Approximate
+#44;NA;Cachoeiro de Itapemirim (ES);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Bahia, Ceará, Pernambuco, Rio Grande do Norte, Sergipe, Alagoas, Paraíba, Rio Grande do Sul, Santa Catarina and Paraná;NE;"20°51'03""S";"41°10'16""W";Approximate
+#44;NA;Caetité (BA);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Bahia, Ceará, Pernambuco, Rio Grande do Norte, Sergipe, Alagoas, Paraíba, Rio Grande do Sul, Santa Catarina and Paraná;NE;"13°50'06""S";"42°28'17""W";Approximate
+#44;NA;Camamu (BA);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Bahia, Ceará, Pernambuco, Rio Grande do Norte, Sergipe, Alagoas, Paraíba, Rio Grande do Sul, Santa Catarina and Paraná;NE;"13°56'56""S";"39°07'41""W";Approximate
+#44;NA;Campos de Goytacazes (RJ);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Bahia, Ceará, Pernambuco, Rio Grande do Norte, Sergipe, Alagoas, Paraíba, Rio Grande do Sul, Santa Catarina and Paraná;NE;"21°49'24""S";"41°40'25.1""W";Approximate
+#44;NA;Cananéia (SP);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Bahia, Ceará, Pernambuco, Rio Grande do Norte, Sergipe, Alagoas, Paraíba, Rio Grande do Sul, Santa Catarina and Paraná;NE;"25°00'28""S";"47°56'32""W";Approximate
+#44;NA;Canela (RS);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Bahia, Ceará, Pernambuco, Rio Grande do Norte, Sergipe, Alagoas, Paraíba, Rio Grande do Sul, Santa Catarina and Paraná;NE;"29°19'39""S";"50°48'11""W";Approximate
+#44;NA;Canguaretama (RN);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Bahia, Ceará, Pernambuco, Rio Grande do Norte, Sergipe, Alagoas, Paraíba, Rio Grande do Sul, Santa Catarina and Paraná;NE;6°22'58''S; 35°7'30''W;Approximate
+#44;NA;Carapebus (RJ);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Bahia, Ceará, Pernambuco, Rio Grande do Norte, Sergipe, Alagoas, Paraíba, Rio Grande do Sul, Santa Catarina and Paraná;NE;"22°11'13""S";"41°39'39""W";Approximate
+#44;NA;Caravelas (BA);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Bahia, Ceará, Pernambuco, Rio Grande do Norte, Sergipe, Alagoas, Paraíba, Rio Grande do Sul, Santa Catarina and Paraná;NE;"17°44'01""S";"39°14'18""W";Approximate
+#44;NA;Casimiro de Abreu (RJ);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Bahia, Ceará, Pernambuco, Rio Grande do Norte, Sergipe, Alagoas, Paraíba, Rio Grande do Sul, Santa Catarina and Paraná;NE;"22°29'14""S";"42°12'42""W";Approximate
+#44;NA;Conceição da Barra (ES);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Bahia, Ceará, Pernambuco, Rio Grande do Norte, Sergipe, Alagoas, Paraíba, Rio Grande do Sul, Santa Catarina and Paraná;NE;"18°34'43""S";"39°44'30""W";Approximate
+#44;NA;Conde (BA);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Bahia, Ceará, Pernambuco, Rio Grande do Norte, Sergipe, Alagoas, Paraíba, Rio Grande do Sul, Santa Catarina and Paraná;NE;"11°48'26""S";"37°37'28""W";Approximate
+#44;NA;Diamante do Norte (PR);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Bahia, Ceará, Pernambuco, Rio Grande do Norte, Sergipe, Alagoas, Paraíba, Rio Grande do Sul, Santa Catarina and Paraná;NE;"22°38'53""S";"52°51'03""W";Approximate
+#44;NA;Domingos Martins (ES);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Bahia, Ceará, Pernambuco, Rio Grande do Norte, Sergipe, Alagoas, Paraíba, Rio Grande do Sul, Santa Catarina and Paraná;NE;"20°21'57""S";"40°39'55""W";Approximate
+#44;NA;Fábrica (RJ);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Bahia, Ceará, Pernambuco, Rio Grande do Norte, Sergipe, Alagoas, Paraíba, Rio Grande do Sul, Santa Catarina and Paraná;NE;"22°36'30.40""S";"43°42'34.58""W";Approximate
+#44;NA;Fortaleza (CE);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Bahia, Ceará, Pernambuco, Rio Grande do Norte, Sergipe, Alagoas, Paraíba, Rio Grande do Sul, Santa Catarina and Paraná;NE;"03°45'52.4""S";"38°29'48.0""W";Approximate
+#44;NA;Guarapari (ES);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Bahia, Ceará, Pernambuco, Rio Grande do Norte, Sergipe, Alagoas, Paraíba, Rio Grande do Sul, Santa Catarina and Paraná;NE;"20°39'4""S";"40°30'24""W";Approximate
+#44;NA;Ilhéus (BA);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Bahia, Ceará, Pernambuco, Rio Grande do Norte, Sergipe, Alagoas, Paraíba, Rio Grande do Sul, Santa Catarina and Paraná;NE;"14°48'29""S";"39°04'15""W";Approximate
+#44;NA;Itacaré (BA);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Bahia, Ceará, Pernambuco, Rio Grande do Norte, Sergipe, Alagoas, Paraíba, Rio Grande do Sul, Santa Catarina and Paraná;NE;"14°16'52""S";"38°59'50""W";Approximate
+#44;NA;Itaguaçu (ES);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Bahia, Ceará, Pernambuco, Rio Grande do Norte, Sergipe, Alagoas, Paraíba, Rio Grande do Sul, Santa Catarina and Paraná;NE;"19°48'08""S";"40°51'09""W";Approximate
+#44;NA;Itamonte (MG);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Bahia, Ceará, Pernambuco, Rio Grande do Norte, Sergipe, Alagoas, Paraíba, Rio Grande do Sul, Santa Catarina and Paraná;NE;"22°17'17""S";"44°52'54""W";Approximate
+#44;NA;Itanhaém (SP);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Bahia, Ceará, Pernambuco, Rio Grande do Norte, Sergipe, Alagoas, Paraíba, Rio Grande do Sul, Santa Catarina and Paraná;NE;"24°10'42""S";"46°50'47""W";Approximate
+#44;NA;Itaparica (BA);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Bahia, Ceará, Pernambuco, Rio Grande do Norte, Sergipe, Alagoas, Paraíba, Rio Grande do Sul, Santa Catarina and Paraná;NE;"12°53'38""S";"38°40'17""W";Approximate
+#44;NA;Itapoá (SC);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Bahia, Ceará, Pernambuco, Rio Grande do Norte, Sergipe, Alagoas, Paraíba, Rio Grande do Sul, Santa Catarina and Paraná;NE;"26°7'3""S";"48°37'0""W";Approximate
+#44;NA;Itaporanga d`Ajuda (SE);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Bahia, Ceará, Pernambuco, Rio Grande do Norte, Sergipe, Alagoas, Paraíba, Rio Grande do Sul, Santa Catarina and Paraná;NE;"10°59'42""S";"37°18'40""W";Approximate
+#44;NA;Itarana (ES);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Bahia, Ceará, Pernambuco, Rio Grande do Norte, Sergipe, Alagoas, Paraíba, Rio Grande do Sul, Santa Catarina and Paraná;NE;"19°52'23""S";"40°52'29""W";Approximate
+#44;NA;Itaúnas (ES);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Bahia, Ceará, Pernambuco, Rio Grande do Norte, Sergipe, Alagoas, Paraíba, Rio Grande do Sul, Santa Catarina and Paraná;NE;"18°26'05""S";"39°43'00""W";Approximate
+#44;NA;João Pessoa (PB);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Bahia, Ceará, Pernambuco, Rio Grande do Norte, Sergipe, Alagoas, Paraíba, Rio Grande do Sul, Santa Catarina and Paraná;NE;"07°09'27""S";"34°51'49""W";Approximate
+#44;NA;Joinville (SC);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Bahia, Ceará, Pernambuco, Rio Grande do Norte, Sergipe, Alagoas, Paraíba, Rio Grande do Sul, Santa Catarina and Paraná;NE;"26°15'24""S";"48°58'46""W";Approximate
+#44;NA;Linhares (ES);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Bahia, Ceará, Pernambuco, Rio Grande do Norte, Sergipe, Alagoas, Paraíba, Rio Grande do Sul, Santa Catarina and Paraná;NE;"19°23'27""S";"40°4'17""W";Approximate
+#44;NA;Macaé (RJ);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Bahia, Ceará, Pernambuco, Rio Grande do Norte, Sergipe, Alagoas, Paraíba, Rio Grande do Sul, Santa Catarina and Paraná;NE;" 22°22'18""S";"41°47'9""W";Approximate
+#44;NA;Maceió (AL);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Bahia, Ceará, Pernambuco, Rio Grande do Norte, Sergipe, Alagoas, Paraíba, Rio Grande do Sul, Santa Catarina and Paraná;NE;"09°34'48""S";"35°40'53""W";Approximate
+#44;NA;Madre de Deus (BA);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Bahia, Ceará, Pernambuco, Rio Grande do Norte, Sergipe, Alagoas, Paraíba, Rio Grande do Sul, Santa Catarina and Paraná;NE;"12°44'22""S";"38°37'17""W";Approximate
+#44;NA;Mangaratiba (RJ);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Bahia, Ceará, Pernambuco, Rio Grande do Norte, Sergipe, Alagoas, Paraíba, Rio Grande do Sul, Santa Catarina and Paraná;NE;"22°57'35""S";"44°2'28""W";Approximate
+#44;NA;Maricá (RJ);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Bahia, Ceará, Pernambuco, Rio Grande do Norte, Sergipe, Alagoas, Paraíba, Rio Grande do Sul, Santa Catarina and Paraná;NE;"22°55'9""S";"42°49'6""W";Approximate
+#44;NA;Mataraca (PB);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Bahia, Ceará, Pernambuco, Rio Grande do Norte, Sergipe, Alagoas, Paraíba, Rio Grande do Sul, Santa Catarina and Paraná;NE;"06°35'49.5""S";"35°03'51.5""W";Approximate
+#44;NA;Mauá (RJ);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Bahia, Ceará, Pernambuco, Rio Grande do Norte, Sergipe, Alagoas, Paraíba, Rio Grande do Sul, Santa Catarina and Paraná;NE;"22°43'22.26""S";"43°12'3.65""W";Approximate
+#44;NA;Niterói (ES);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Bahia, Ceará, Pernambuco, Rio Grande do Norte, Sergipe, Alagoas, Paraíba, Rio Grande do Sul, Santa Catarina and Paraná;NE;"22°55'20""S";"43°00'40""W";Approximate
+#44;NA;Nova Friburgo (RJ);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Bahia, Ceará, Pernambuco, Rio Grande do Norte, Sergipe, Alagoas, Paraíba, Rio Grande do Sul, Santa Catarina and Paraná;NE;"22°16'32""S";"42°33'03""W";Approximate
+#44;NA;Nova Viçosa (BA);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Bahia, Ceará, Pernambuco, Rio Grande do Norte, Sergipe, Alagoas, Paraíba, Rio Grande do Sul, Santa Catarina and Paraná;NE;"17°53'44""S";"39°23'26""W";Approximate
+#44;NA;Palmeiras (RJ);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Bahia, Ceará, Pernambuco, Rio Grande do Norte, Sergipe, Alagoas, Paraíba, Rio Grande do Sul, Santa Catarina and Paraná;NE;"22°52'33.23""S";"42° 2'33.57""W";Approximate
+#44;NA;Paranaguá (PR);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Bahia, Ceará, Pernambuco, Rio Grande do Norte, Sergipe, Alagoas, Paraíba, Rio Grande do Sul, Santa Catarina and Paraná;NE;"25°31'14""S";"48°30'34""W";Approximate
+#44;NA;Paraty (RJ);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Bahia, Ceará, Pernambuco, Rio Grande do Norte, Sergipe, Alagoas, Paraíba, Rio Grande do Sul, Santa Catarina and Paraná;NE;"23°13'0""S";"44°43'4""W";Approximate
+#44;NA;Parque Estadual do Itacolomi (MG);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Bahia, Ceará, Pernambuco, Rio Grande do Norte, Sergipe, Alagoas, Paraíba, Rio Grande do Sul, Santa Catarina and Paraná;NE;"20°24'30""S";"43°30'29""W";Approximate
+#44;NA;Parque Nacional da Restinga de Jurubatiba (RJ);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Bahia, Ceará, Pernambuco, Rio Grande do Norte, Sergipe, Alagoas, Paraíba, Rio Grande do Sul, Santa Catarina and Paraná;Yes;"22°12'34""S";"41°31'05""W";Approximate
+#44;NA;Parque Nacional da Serra de Órgãos (RJ);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Bahia, Ceará, Pernambuco, Rio Grande do Norte, Sergipe, Alagoas, Paraíba, Rio Grande do Sul, Santa Catarina and Paraná;Yes;"22°29'19""S";"43°04'14""W";Approximate
+#44;NA;Parque Nacional do Itatiaia (RJ);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Bahia, Ceará, Pernambuco, Rio Grande do Norte, Sergipe, Alagoas, Paraíba, Rio Grande do Sul, Santa Catarina and Paraná;Yes;"22°22'01""S";"44°38'39""W";Approximate
+#44;NA;Pedras Grandes (SC);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Bahia, Ceará, Pernambuco, Rio Grande do Norte, Sergipe, Alagoas, Paraíba, Rio Grande do Sul, Santa Catarina and Paraná;Yes;"28°26'26""S";"49°10'35""W";Approximate
+#44;NA;Petrópolis (RJ);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Bahia, Ceará, Pernambuco, Rio Grande do Norte, Sergipe, Alagoas, Paraíba, Rio Grande do Sul, Santa Catarina and Paraná;NE;"22°27'34""S";"43°10'39""W";Approximate
+#44;NA;Piraquara (PR);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Bahia, Ceará, Pernambuco, Rio Grande do Norte, Sergipe, Alagoas, Paraíba, Rio Grande do Sul, Santa Catarina and Paraná;NE;"25°27'07""S";"49°01'56""W";Approximate
+#44;NA;Pontal do Paraná (PR);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Bahia, Ceará, Pernambuco, Rio Grande do Norte, Sergipe, Alagoas, Paraíba, Rio Grande do Sul, Santa Catarina and Paraná;NE;25°40'24''S;48°30'39''W;Approximate
+#44;NA;Porto Alegre (RS);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Bahia, Ceará, Pernambuco, Rio Grande do Norte, Sergipe, Alagoas, Paraíba, Rio Grande do Sul, Santa Catarina and Paraná;NE;"30°01'58""S";"51°13'48""W";Approximate
+#44;NA;Porto Seguro (BA);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Bahia, Ceará, Pernambuco, Rio Grande do Norte, Sergipe, Alagoas, Paraíba, Rio Grande do Sul, Santa Catarina and Paraná;NE;"16°35'31""S";"39°07'01""W";Approximate
+#44;NA;Presidente Kennedy (ES);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Bahia, Ceará, Pernambuco, Rio Grande do Norte, Sergipe, Alagoas, Paraíba, Rio Grande do Sul, Santa Catarina and Paraná;NE;"21°05'42""S";"41°03'25""W";Approximate
+#44;NA;Quissamã (RJ);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Bahia, Ceará, Pernambuco, Rio Grande do Norte, Sergipe, Alagoas, Paraíba, Rio Grande do Sul, Santa Catarina and Paraná;NE;"22°05'39""S";"41°28'34""W";Approximate
+#44;NA;Recife (PE);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Bahia, Ceará, Pernambuco, Rio Grande do Norte, Sergipe, Alagoas, Paraíba, Rio Grande do Sul, Santa Catarina and Paraná;NE;"07°57'58""S";"34°58'33""W";Approximate
+#44;NA;Reserva Biológica de Poço das Antas (RJ);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Bahia, Ceará, Pernambuco, Rio Grande do Norte, Sergipe, Alagoas, Paraíba, Rio Grande do Sul, Santa Catarina and Paraná;Yes;"22°30'03""S";"42°16'06""W";Approximate
+#44;NA;Reserva Biológica União (RJ);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Bahia, Ceará, Pernambuco, Rio Grande do Norte, Sergipe, Alagoas, Paraíba, Rio Grande do Sul, Santa Catarina and Paraná;Yes;"22°25'15""S";"42°01'36""W";Approximate
+#44;NA;Rio das Ostras (RJ);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Bahia, Ceará, Pernambuco, Rio Grande do Norte, Sergipe, Alagoas, Paraíba, Rio Grande do Sul, Santa Catarina and Paraná;NE;"22°28'07""S";"41°56'49""W";Approximate
+#44;NA;Rio de Janeiro (RJ);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Bahia, Ceará, Pernambuco, Rio Grande do Norte, Sergipe, Alagoas, Paraíba, Rio Grande do Sul, Santa Catarina and Paraná;NE;"22°54'13""S";"43°12'35""W";Approximate
+#44;NA;Salto (SP);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Bahia, Ceará, Pernambuco, Rio Grande do Norte, Sergipe, Alagoas, Paraíba, Rio Grande do Sul, Santa Catarina and Paraná;NE;"23°10'07""S";"47°17'16""W";Approximate
+#44;NA;Salvador (BA);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Bahia, Ceará, Pernambuco, Rio Grande do Norte, Sergipe, Alagoas, Paraíba, Rio Grande do Sul, Santa Catarina and Paraná;NE;"12°52'30""S";"38°23'53""W";Approximate
+#44;NA;Santa Cruz de Cabrália (BA);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Bahia, Ceará, Pernambuco, Rio Grande do Norte, Sergipe, Alagoas, Paraíba, Rio Grande do Sul, Santa Catarina and Paraná;NE;"16°11'35""S";"39°14'47""W";Approximate
+#44;NA;Santa Leopoldina (ES);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Bahia, Ceará, Pernambuco, Rio Grande do Norte, Sergipe, Alagoas, Paraíba, Rio Grande do Sul, Santa Catarina and Paraná;NE;"20°06'14""S";"40°31'49""W";Approximate
+#44;NA;Santa Maria Madalena (RJ);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Bahia, Ceará, Pernambuco, Rio Grande do Norte, Sergipe, Alagoas, Paraíba, Rio Grande do Sul, Santa Catarina and Paraná;NE;"21°57'25""S";"42°00'13""W";Approximate
+#44;NA;Santa Teresa (ES);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Bahia, Ceará, Pernambuco, Rio Grande do Norte, Sergipe, Alagoas, Paraíba, Rio Grande do Sul, Santa Catarina and Paraná;NE;"19°55'51""S";"40°36'08""W";Approximate
+#44;NA;Santa Tereza (RS);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Bahia, Ceará, Pernambuco, Rio Grande do Norte, Sergipe, Alagoas, Paraíba, Rio Grande do Sul, Santa Catarina and Paraná;NE;"29°10'06""S";"51°43'51""W";Approximate
+#44;NA;Santo Antonio da Barra (BA);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Bahia, Ceará, Pernambuco, Rio Grande do Norte, Sergipe, Alagoas, Paraíba, Rio Grande do Sul, Santa Catarina and Paraná;NE;"16°11'19.08""S";"38°57'56.57""W";Approximate
+#44;NA;São Carlos (SP);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Bahia, Ceará, Pernambuco, Rio Grande do Norte, Sergipe, Alagoas, Paraíba, Rio Grande do Sul, Santa Catarina and Paraná;NE;"22°04'22""S";"47°50'55""W";Approximate
+#44;NA;São Francisco de Itabapoana (RJ);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Bahia, Ceará, Pernambuco, Rio Grande do Norte, Sergipe, Alagoas, Paraíba, Rio Grande do Sul, Santa Catarina and Paraná;NE;"21°28?25""S";"41°7'13""W";Approximate
+#44;NA;São Francisco de Paula (RS);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Bahia, Ceará, Pernambuco, Rio Grande do Norte, Sergipe, Alagoas, Paraíba, Rio Grande do Sul, Santa Catarina and Paraná;NE;"29°26'50""S";"50°33'46""W";Approximate
+#44;NA;São Francisco do Sul (SC);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Bahia, Ceará, Pernambuco, Rio Grande do Norte, Sergipe, Alagoas, Paraíba, Rio Grande do Sul, Santa Catarina and Paraná;NE;"26°14'38""S";"48°38'18""W";Approximate
+#44;NA;São João da Barra (RJ);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Bahia, Ceará, Pernambuco, Rio Grande do Norte, Sergipe, Alagoas, Paraíba, Rio Grande do Sul, Santa Catarina and Paraná;NE;"21°38'56""S";" 41°3'9""W";Approximate
+#44;NA;São Mateus (ES);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Bahia, Ceará, Pernambuco, Rio Grande do Norte, Sergipe, Alagoas, Paraíba, Rio Grande do Sul, Santa Catarina and Paraná;NE;"18°44'12""S";"39°50'49""W";Approximate
+#44;NA;São Sebastião (BA);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Bahia, Ceará, Pernambuco, Rio Grande do Norte, Sergipe, Alagoas, Paraíba, Rio Grande do Sul, Santa Catarina and Paraná;NE;"12°30'53.08""S";"38°29'23.51""W";Approximate
+#44;NA;São Tomé das Letras (MG);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Bahia, Ceará, Pernambuco, Rio Grande do Norte, Sergipe, Alagoas, Paraíba, Rio Grande do Sul, Santa Catarina and Paraná;NE;"21°43'56""S";"44°56'47""W";Approximate
+#44;NA;Saquarema (RJ);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Bahia, Ceará, Pernambuco, Rio Grande do Norte, Sergipe, Alagoas, Paraíba, Rio Grande do Sul, Santa Catarina and Paraná;NE;"22°55'52""S";" 42°29'47""W";Approximate
+#44;NA;Serra do Baturité (CE);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Bahia, Ceará, Pernambuco, Rio Grande do Norte, Sergipe, Alagoas, Paraíba, Rio Grande do Sul, Santa Catarina and Paraná;NE;"04°12'15.1""S";"38°56'20.7""W";Approximate
+#44;NA;Serra do Caparaó (MG);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Bahia, Ceará, Pernambuco, Rio Grande do Norte, Sergipe, Alagoas, Paraíba, Rio Grande do Sul, Santa Catarina and Paraná;NE;"22°28'05""S";"45°00'02""W";Approximate
+#44;NA;Serra do Japi (SP);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Bahia, Ceará, Pernambuco, Rio Grande do Norte, Sergipe, Alagoas, Paraíba, Rio Grande do Sul, Santa Catarina and Paraná;NE;"23°13'51""S";"46°57'15""W";Approximate
+#44;NA;Serra do Macaé (RJ);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Bahia, Ceará, Pernambuco, Rio Grande do Norte, Sergipe, Alagoas, Paraíba, Rio Grande do Sul, Santa Catarina and Paraná;NE;"22°19'01""S";"42°20'01""W";Approximate
+#44;NA;Serra dos Órgãos (RJ);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Bahia, Ceará, Pernambuco, Rio Grande do Norte, Sergipe, Alagoas, Paraíba, Rio Grande do Sul, Santa Catarina and Paraná;NE;"22°24'07""S";"42°49'44""W";Approximate
+#44;NA;Silva Jardim (RJ);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Bahia, Ceará, Pernambuco, Rio Grande do Norte, Sergipe, Alagoas, Paraíba, Rio Grande do Sul, Santa Catarina and Paraná;NE;"22°37'41""S";"42°26'23""W";Approximate
+#44;NA;Sooretama (ES);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Bahia, Ceará, Pernambuco, Rio Grande do Norte, Sergipe, Alagoas, Paraíba, Rio Grande do Sul, Santa Catarina and Paraná;NE;"19°11'17""S";"40°06'55""W";Approximate
+#44;NA;Sorocaba (SP);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Bahia, Ceará, Pernambuco, Rio Grande do Norte, Sergipe, Alagoas, Paraíba, Rio Grande do Sul, Santa Catarina and Paraná;NE;"23°26'35""S";"47°27'34""W";Approximate
+#44;NA;Tapiratiba (SP);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Bahia, Ceará, Pernambuco, Rio Grande do Norte, Sergipe, Alagoas, Paraíba, Rio Grande do Sul, Santa Catarina and Paraná;NE;"21°27'55""S";"46°44'59""W";Approximate
+#44;NA;Teresópolis (RJ);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Bahia, Ceará, Pernambuco, Rio Grande do Norte, Sergipe, Alagoas, Paraíba, Rio Grande do Sul, Santa Catarina and Paraná;NE;"22°26'22""S";"42°57'54""W";Approximate
+#44;NA;Tijuca (RJ);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Bahia, Ceará, Pernambuco, Rio Grande do Norte, Sergipe, Alagoas, Paraíba, Rio Grande do Sul, Santa Catarina and Paraná;NE;"22°56'29""S";"43°14'55""W";Approximate
+#44;NA;Tubarão (SC);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Bahia, Ceará, Pernambuco, Rio Grande do Norte, Sergipe, Alagoas, Paraíba, Rio Grande do Sul, Santa Catarina and Paraná;NE;"28°28'32""S";"49°03'01""W";Approximate
+#44;NA;Ubatuba (SP);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Bahia, Ceará, Pernambuco, Rio Grande do Norte, Sergipe, Alagoas, Paraíba, Rio Grande do Sul, Santa Catarina and Paraná;NE;"23°26'04""S";"45°05'25""W";Approximate
+#44;NA;Uma (BA);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Bahia, Ceará, Pernambuco, Rio Grande do Norte, Sergipe, Alagoas, Paraíba, Rio Grande do Sul, Santa Catarina and Paraná;NE;"15°17'28.39""S";"39°4'39.57""W";Approximate
+#44;NA;Valença (BA);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Bahia, Ceará, Pernambuco, Rio Grande do Norte, Sergipe, Alagoas, Paraíba, Rio Grande do Sul, Santa Catarina and Paraná;NE;"13°22'06""S";"39°04'54""W";Approximate
+#44;NA;Valença (RJ);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Bahia, Ceará, Pernambuco, Rio Grande do Norte, Sergipe, Alagoas, Paraíba, Rio Grande do Sul, Santa Catarina and Paraná;NE;"22°13'52""S";"43°41'36""W";Approximate
+#44;NA;Viçosa (MG);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Bahia, Ceará, Pernambuco, Rio Grande do Norte, Sergipe, Alagoas, Paraíba, Rio Grande do Sul, Santa Catarina and Paraná;NE;"20°45'55""S";"42°52'18""W";Approximate
+#44;NA;Vila Velha (ES);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Bahia, Ceará, Pernambuco, Rio Grande do Norte, Sergipe, Alagoas, Paraíba, Rio Grande do Sul, Santa Catarina and Paraná;NE;"20°23'54""S";"40°19'46""W";Approximate
+#44;NA;Vitória (ES);Rio de Janeiro, São Paulo, Minas Gerais, Espírito Santo, Bahia, Ceará, Pernambuco, Rio Grande do Norte, Sergipe, Alagoas, Paraíba, Rio Grande do Sul, Santa Catarina and Paraná;NE;"20°16'15""S";"40°18'18""W";Approximate
+#45;Seasonal semideciduous rainforest;Morro Redondo (RS);Rio Grande do Sul;No;"31°35'37""S";"52°34'52""W";Informed
+#46;NA;Quissamã (RJ);Rio de Janeiro;NE;"22° 6'27.88""S";"41°27'59.25""W";Approximate
+#46;NA;Macaé (RJ);Rio de Janeiro;NE;"22°12'18""S";"41°29'56""W";Approximate
+#46;NA;Cabo Frio (RJ);Rio de Janeiro;NE;"22°52'11.24""S";"41°59'28.24""W";Approximate
+#46;NA;Araruama (RJ);Rio de Janeiro;NE;"22°52'22.10""S";"42°20'29.02""W";Approximate
+#46;NA;São Gonçalo (RJ);Rio de Janeiro;NE;" 22°49'30.88""S";"43°1'53.08""W";Approximate
+#46;NA;Rio de Janeiro (RJ);Rio de Janeiro;NE;"22°54'40.56""S";"43°12'7.54""W";Approximate
+#46;NA;Petrópolis (RJ);Rio de Janeiro;NE;"22°27'34""S";"43°10'39""W";Approximate
+#46;NA;Casimiro de Abreu (RJ);Rio de Janeiro;NE;"22°28'47.31""S";"42°12'10.55""W";Approximate
+#46;NA;Silva Jardim;Rio de Janeiro;NE;"22°39'8.61""S";"42°23'23.64""W";Approximate
+#46;NA;Paraty (RJ);Rio de Janeiro;NE;"23°12'23.50""S";"44°43'41.52""W";Approximate
+#46;NA;Parque Estadual da Costa do Sol, Arraial do Cabo (RJ);Rio de Janeiro;Yes;"22°58'33.79""S";"42°1'51.22""W";Approximate
+#46;NA;Parque Estadual da Costa do Sol, Saquarema (RJ);Rio de Janeiro;Yes;"22°54'37.52""S";"42°26'8.19""W";Approximate
+#46;NA;Carapebus (RJ);Rio de Janeiro;NE;"22°14'49.12""S";"41°37'33.38""W";Approximate
+#46;NA;Parque Nacional da Restinga de Jurubatiba, Macaé (RJ);Rio de Janeiro;Yes;"22°12'18""S";"41°29'56""W";Approximate
+#46;NA;Guarapari (ES);Espírito Santo;NE;"20°40'30.09""S";" 40°30'37.44""W";Approximate
+#46;NA;Maricá (RJ);Rio de Janeiro;NE;"22°54'58.58""S";"42°49'7.76""W";Approximate
+#46;NA;Reserva de Duas Lagoas, Cabo de Santo Agostinho (PE);Pernambuco;Yes;"08°18'16""S";"34°58'17""W";Approximate
+#46;NA;Reserva Ecológica de Saltinho, Tamandaré (PE);Pernambuco;Yes;"08°43'30""S";"35°10'40""W";Approximate
+#47;Dense rainforest;Serra Negra do Funil, Rio Preto (MG);Minas Gerais;Yes;"21°58'54.35""S";"43°55'16.41""W";Informed
+#49;Seasonal deciduous forest;Parque Nacional de Boa Nova, Boa Nova (BA);Bahia;Yes;"14°23'0.0""S";"40°08'0.0""W";Informed
+#49;Seasonal deciduous forest;Serra do Arrepio, Poções (BA);Bahia;No;"14°31'0.0""S";"40°21'0.0""W";Informed
+#49;Seasonal deciduous forest;Serra do Castanhão, Jequié (BA);Bahia;No;"13°51'0.0""S";"40°04'0.0""W";Informed
+#49;Seasonal deciduous forest;Povoado Lagoa das Flores, Vitória da Conquista (BA);Bahia;No;"14°51'0.0""S";"40°50'0.0""W";Informed
+#50;Seasonal deciduous forest;Botanical Garden of the Museu Nacional, Rio de Janeiro (RJ);Rio de Janeiro;Yes;"22°54'12""S";"43°13'16""W";Informed
+#51;Seasonal semideciduous rainforest;California Farm, Serra da Bodoquena, Bodoquena (MS);Mato Grosso do Sul;No;"20°41'55""S";"56°52'49""W";Informed
+#52;Submontane forest, Montane forest, High Montane forest and High altitude fields;Araçari Camping, Parque Nacional da Serra dos Órgão, Guapimirim (RJ);Rio de Janeiro;Yes;"22°29'44.2""S";"43°0'03.92""W";Informed
+#52;Submontane forest, Montane forest, High Montane forest and High altitude fields;Caninana Trail, Parque Nacional da Serra dos Órgão, Guapimirim (RJ);Rio de Janeiro;Yes;"22°29'41.5""S";"42°59'53.8""W";Informed
+#52;Submontane forest, Montane forest, High Montane forest and High altitude fields;Circular Trail, Parque Nacional da Serra dos Órgão, Guapimirim (RJ);Rio de Janeiro;Yes;"22°29'30.5""S";"43°00'16.2""W";Informed
+#52;Submontane forest, Montane forest, High Montane forest and High altitude fields;Alameda Von Spix, Parque Nacional da Serra dos Órgão, Guapimirim (RJ);Rio de Janeiro;Yes;"22°29'46.0""S";"42°59'47.9""W";Informed
+#52;Submontane forest, Montane forest, High Montane forest and High altitude fields;Mãe d?Água Trail, Parque Nacional da Serra dos Órgão, Guapimirim (RJ);Rio de Janeiro;Yes;"22°29'39.4""S";"42°59'55.8""W";Informed
+#52;Submontane forest, Montane forest, High Montane forest and High altitude fields;Museu Von Martius, Parque Nacional da Serra dos Órgão, Guapimirim (RJ);Rio de Janeiro;Yes;"22°29'39.86""S";"43°00'04.7""W";Informed
+#52;Submontane forest, Montane forest, High Montane forest and High altitude fields;Poço da Capela, Parque Nacional da Serra dos Órgão, Guapimirim (RJ);Rio de Janeiro;Yes;"22°29'42.0""S";"42°59'47.1""W";Informed
+#52;Submontane forest, Montane forest, High Montane forest and High altitude fields;Poço da Preguiça, Parque Nacional da Serra dos Órgão, Guapimirim (RJ);Rio de Janeiro;Yes;"22°29'33.8""S";"43°00'05.6""W";Informed
+#52;Submontane forest, Montane forest, High Montane forest and High altitude fields;Poço Verde, Parque Nacional da Serra dos Órgão, Guapimirim (RJ);Rio de Janeiro;Yes;"22°29'30.5""S";"43°00'16.2""W";Informed
+#52;Submontane forest, Montane forest, High Montane forest and High altitude fields;Ponte Velha, Parque Nacional da Serra dos Órgão, Guapimirim (RJ);Rio de Janeiro;Yes;"22°29'37.3""S";"42°59'54.3""W";Informed
+#52;Submontane forest, Montane forest, High Montane forest and High altitude fields;Recanto das Ruínas, Parque Nacional da Serra dos Órgão, Guapimirim (RJ);Rio de Janeiro;Yes;"22°29'42.0""S";"42°59'50.7""W";Informed
+#52;Submontane forest, Montane forest, High Montane forest and High altitude fields;Barragem Road, Parque Nacional da Serra dos Órgão, Teresópolis (RJ);Rio de Janeiro;Yes;"22°27'04.6""S";"43°00'04.8""W";Informed
+#52;Submontane forest, Montane forest, High Montane forest and High altitude fields;Bosque Santa Helena, Parque Nacional da Serra dos Órgão, Teresópolis (RJ);Rio de Janeiro;Yes;"22°26'53.5""S";"42°59'09.6""W";Informed
+#52;Submontane forest, Montane forest, High Montane forest and High altitude fields;Cachoeira Ceci-Peri, Parque Nacional da Serra dos Órgão, Teresópolis (RJ);Rio de Janeiro;Yes;"22°27'24.3""S";"42°59'53.0""W";Informed
+#52;Submontane forest, Montane forest, High Montane forest and High altitude fields;Cachoeira do Papel, Parque Nacional da Serra dos Órgão, Teresópolis (RJ);Rio de Janeiro;Yes;"22°27'08.8""S";"43°00'55.9""W";Informed
+#52;Submontane forest, Montane forest, High Montane forest and High altitude fields;Cartão Postal Trail, Parque Nacional da Serra dos Órgão, Teresópolis (RJ);Rio de Janeiro;Yes;"22°27'42.0""S";"42°59'43.0""W";Informed
+#52;Submontane forest, Montane forest, High Montane forest and High altitude fields;Casa do Pesquisador, Parque Nacional da Serra dos Órgão, Teresópolis (RJ);Rio de Janeiro;Yes;"22°27'19.4""S";"42°59'51.7""W";Informed
+#52;Submontane forest, Montane forest, High Montane forest and High altitude fields;Mozart-Catão Trail, Parque Nacional da Serra dos Órgão, Teresópolis (RJ);Rio de Janeiro;Yes;"22°27'07.7""S";"42°59'13.4""W";Informed
+#52;Submontane forest, Montane forest, High Montane forest and High altitude fields;Poço do Beija-Flor, Parque Nacional da Serra dos Órgão, Teresópolis (RJ);Rio de Janeiro;Yes;"22°27'05.2""S";"43°00'01.9""W";Informed
+#52;Submontane forest, Montane forest, High Montane forest and High altitude fields;Poço do Castelo, Parque Nacional da Serra dos Órgão, Teresópolis (RJ);Rio de Janeiro;Yes;"22°26'52.92""S";"42°59'04.1""W";Informed
+#52;Submontane forest, Montane forest, High Montane forest and High altitude fields;Poço Dois Irmãos, Parque Nacional da Serra dos Órgão, Teresópolis (RJ);Rio de Janeiro;Yes;"22°26'55.00""S";"42°59'18.6""W";Informed
+#52;Submontane forest, Montane forest, High Montane forest and High altitude fields;Primavera Trail, Parque Nacional da Serra dos Órgão, Teresópolis (RJ);Rio de Janeiro;Yes;"22°26'58.8""S";"42°59'20.8""W";Informed
+#52;Submontane forest, Montane forest, High Montane forest and High altitude fields;Suspensa Trail, Parque Nacional da Serra dos Órgão, Teresópolis (RJ);Rio de Janeiro;Yes;"22°27'24.0""S";"42°59'51.4""W";Informed
+#52;Submontane forest, Montane forest, High Montane forest and High altitude fields;360 Trail, Parque Nacional da Serra dos Órgão, Teresópolis (RJ);Rio de Janeiro;Yes;"22°27'06.3""S";"42°59'19.8""W";Informed
+#53;Restinga;Maricá Environmental Protection Area, Maricá (RJ);Rio de Janeiro;Yes;"22°52'0.0""S";"42°48'0.0""W";Informed
+#48;NA;Acaraí State Park, São Francisco do Sul (RS);Rio Grande do Sul;NE;"26°17'56""S";"48°33'42""W";Approximate
+#48;NA;Aimorés (MG);Minas Gerais;NE;"19°30'10.98""S";"41°4'17""W";Approximate
+#48;NA;Babitonga (SC);Santa Catarina;NE;"26°13'17.61""S";"48°43'0.76""W";Approximate
+#48;NA;Bertioga (SP);São Paulo;NE;"23°46'25.57""S";"46°4'50.52""W";Approximate
+#48;NA;Brumadinho (MG);Minas Gerais;NE;"20°7'53.43""S";"44°15'48.45""W";Approximate
+#48;NA;Cabo Frio (RJ);Rio de Janeiro;NE;"22°52'11.24""S";"41°59'28.24""W";Approximate
+#48;NA;Campus Pampulha - UFMG, Belo Horizonte (MG);Minas Gerais;Yes;"19°52'29.45""S";"43°58'22.04""W";Approximate
+#48;NA;Canela (RS);Rio Grande do Sul;NE;"29°23'2.21""S";"50°47'14.1""W";Approximate
+#48;NA;Carapebus (RJ);Rio de Janeiro;NE;"22°14'49.12""S";"41°37'33.38""W";Approximate
+#48;NA;Delfinópolis (MG);Minas Gerais;NE;"20°20'18.52""S";"46°51'10.98""W";Approximate
+#48;NA;Dores do Indaiá (MG);Minas Gerais;NE;"19°27'52.30""S";"45°34'39.21""W";Approximate
+#48;NA;Grumari (RJ);Rio de Janeiro;NE;"23°2'25.94""S";"43°31'28.59""W";Approximate
+#48;NA;Itaipuaçu (RJ);Rio de Janeiro;NE;"22°57'1.58""S";"43°0'12.16""W";Approximate
+#48;NA;Itirapina (SP);São Paulo;NE;"22°13'52.53""S";"47°50'11.36""W";Approximate
+#48;NA;Marambaia (RJ);Rio de Janeiro;NE;"23°4'7.03""S";"43°58'33.78""W";Approximate
+#48;NA;Maricá (RJ);Rio de Janeiro;NE;"22°53'48.3""S";"42°53'10.93""W";Approximate
+#48;NA;Minas Novas (MG);Minas Gerais;NE;"17°12'53.24""S";"42°35'3.66""W";Approximate
+#48;NA;Paraná (PR);Paraná;NE;NA;NA;NA
+#48;NA;Paraty (RJ);Rio de Janeiro;NE;"23°12'23.50""S";"44°43'41.52""W";Approximate
+#48;NA;Parque Estadual de Itacolomi (MG);Minas Gerais;Yes;"20°24'29.23""S";"43°30'29.80""W";Approximate
+#48;NA;Parque Estadual do Brigadeiro (MG);Minas Gerais;Yes;"20°43'11.92""S";"42°28'45.80""W";Approximate
+#48;NA;Parque Nacional da Serra dos Órgãos (RJ);Rio de Janeiro;Yes;"22°26'53.73""S";"42°59'0.27""W";Approximate
+#48;NA;Parque Nacional da Tijuca (RJ);Rio de Janeiro;Yes;"22°56'55.67""S";"43°16'39.79""W";Approximate
+#48;NA;Parque Nacional de Jurubatiba (RJ);Rio de Janeiro;Yes;"22°11'33.54""S";"41°30'5.76""W";Approximate
+#48;NA;Parque Nacional do Itaiaia (RJ);Rio de Janeiro;Yes;"22°22'0.12""S";"44°38'39.37""W";Approximate
+#48;NA;Parque Nacional do Itatiaia (MG);Minas Gerais;Yes;"22°21'54.39""S";"44°38'48.66""W";Approximate
+#48;NA;Picinguaba (RJ);Rio de Janeiro;NE;"22°55'13.01""S";"43°34'20.03""W";Approximate
+#48;NA;Reserva Biológica de Poço das Antas (RJ);Rio de Janeiro;Yes;"22°29'32.74""S";"42°15'58.89""W";Approximate
+#48;NA;Reserva Biológica União (RJ);Rio de Janeiro;Yes;"22°25'16.53""S";"42°2'10.78""W";Approximate
+#48;NA;Rio Grande do Sul (RS);Rio Grande do Sul;NE;NA;NA;NA
+#48;NA;Reserva Particular do Patrimônio Natural Santuário Caraça (MG);Minas Gerais;Yes;"20°5'34.90""S";"43°29'21.94""W";Approximate
+#48;NA;Santa Teresa (RJ);Rio de Janeiro;NE;"22°56'34.83""S";"43°12'47.44""W";Approximate
+#48;NA;São Francisco do Sul (SC);Rio de Janeiro;NE;"26°17'52.22""S";"48°40'7.21""W";Approximate
+#48;NA;São Thomé das Letras (MG);Minas Gerais;NE;"21°42'57.70""S";"44°59'8.66""W";Approximate
+#48;NA;Serra de São José (MG);Minas Gerais;NE;"21°6'3.31""S";"44°11'41.38""W";Approximate
+#48;NA;Serra do Cipó (MG);Minas Gerais;NE;"19°21'0.07""S";"43°37'4.65""W";Approximate
+#48;NA;Serra do Ibitipoca (MG);Minas Gerais;NE;"21°41'56.4""S";"43°54'0.46""W";Approximate
+#48;NA;Serra do Ouro Branco (MG);Minas Gerais;NE;"20°29'56.22""S";"43°39'58.28""W";Approximate
+#48;NA;Silva Jardim (RJ);Rio de Janeiro;NE;"22°36'46.04""S";"42°26'33.32""W";Approximate
+#48;NA;Sorocaba (SP);São Paulo;NE;"20°47'56.97""S";"42°51'42.19""W";Approximate
+#48;NA;Viçosa (MG);Minas Gerais;NE;"20°45'26.16""S";"42°52'48.92""W";Approximate

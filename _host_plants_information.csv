@@ -1,0 +1,888 @@
+#article_code;establishment;scientific_name_adjusted;complete_scientific_name_adjusted;genus_name;family_name;threat_status;life_form;habitat_type
+#07#15;native;Abarema brachystachya;Abarema brachystachya (DC.) Barneby & J.W.Grimes;Abarema;Fabaceae;NE;Tree;Terrestrial
+#19;native;Abarema laeta;Abarema laeta (Benth.) Barneby & J.W.Grimes;Abarema;Fabaceae;NE;Tree;Terrestrial
+#28;native;Acalypha communis;Acalypha communis Müll.Arg.;Acalypha;Euphorbiaceae;NE;Shrub|Herb|Sub-Shrub;Terrestrial
+#01;native;Acanthospermum australe;Acanthospermum australe (Loefl.) Kuntze;Acanthospermum;Asteraceae;NE;Herb;Terrestrial
+#48;native;Achyrocline albicans;Achyrocline albicans Griseb.;Achyrocline;Asteraceae;NE;Herb|Sub-Shrub;Terrestrial
+#07#15#48;native;Achyrocline satureioides;Achyrocline satureioides (Lam.) DC.;Achyrocline;Asteraceae;NE;Herb;Terrestrial
+#06;native;Acosmium cardenasii;Acosmium cardenasii H.S.Irwin & Arroyo;Acosmium;Fabaceae;NE;Tree;Terrestrial
+#49;native;Actinostemon concolor;Actinostemon concolor (Spreng.) Müll.Arg.;Actinostemon;Euphorbiaceae;NE;Shrub|Tree;Terrestrial
+#49;native;Actinostemon klotzschii;Actinostemon klotzschii (Didr.) Pax;Actinostemon;Euphorbiaceae;NE;Shrub|Tree;Terrestrial
+#21#35;native;Adenocalymma acutissimum;Adenocalymma acutissimum (Cham.) Miers;Adenocalymma;Bignoniaceae;NE;Vine;Terrestrial
+#51;native;Adenocalymma allamandiflorum;Adenocalymma allamandiflorum (Bureau ex K.Schum.) L.G.Lohmann;Adenocalymma;Bignoniaceae;NE;Vine;Terrestrial
+#43;native;Adenocalymma subsessilifolium;Adenocalymma subsessilifolium DC.;Adenocalymma;Bignoniaceae;NE;Shrub;Terrestrial
+#43;native;Adenocalymma validum;Adenocalymma validum L.G.Lohmann;Adenocalymma;Bignoniaceae;NE;Vine;Terrestrial
+#28;native;Adiantum latifolium;Adiantum latifolium Lam.;Adiantum;Pteridaceae;NE;Herb;Terrestrial
+#15#43#44;native;Aegiphila integrifolia;Aegiphila integrifolia (Jacq.) Moldenke;Aegiphila;Lamiaceae;NE;Shrub|Tree;Terrestrial
+#28#31#48;native;Ageratum conyzoides;Ageratum conyzoides L.;Ageratum;Asteraceae;NE;Herb|Sub-Shrub;Rupicole|Terrestrial
+#26#31;native;Aiouea saligna;Aiouea saligna Meisn.;Aiouea;Lauraceae;NE;Tree;Terrestrial
+#07#15#21;native;Alchornea triplinervia;Alchornea triplinervia (Spreng.) Müll.Arg.;Alchornea;Euphorbiaceae;NE;Shrub|Tree|Vine;Terrestrial
+#16#18#33#35#45;native;Allophylus edulis;Allophylus edulis (A.St.-Hil. et al.) Hieron. ex Niederl.;Allophylus;Sapindaceae;NE;Shrub|Tree;Terrestrial
+#18;native;Aloysia gratissima;Aloysia gratissima (Gillies & Hook.) Tronc.;Aloysia;Verbenaceae;NE;Shrub;Terrestrial
+#32;native;Aloysia virgata;Aloysia virgata (Ruiz & Pav.) Juss.;Aloysia;Verbenaceae;NE;Shrub|Tree;Terrestrial
+#14;native;Amaioua guianensis;Amaioua guianensis Aubl.;Amaioua;Rubiaceae;NE;Shrub|Tree;Terrestrial
+#17;native;Amaioua intermedia;Amaioua intermedia Mart. ex Schult. & Schult.f.;Amaioua;Rubiaceae;NE;Shrub|Tree;Terrestrial
+#45;native;Amphilophium crucigerum;Amphilophium crucigerum (L.) L.G.Lohmann;Amphilophium;Bignoniaceae;NE;Vine;Terrestrial
+#36;native;Amphilophium elongatum;Amphilophium elongatum (Vahl) L.G.Lohmann;Amphilophium;Bignoniaceae;NE;Vine;Terrestrial
+#06#14#25;native;Anacardium occidentale;Anacardium occidentale L.;Anacardium;Anacardiaceae;NE;Tree;Terrestrial
+#11#50;native;Anadenanthera peregrina;Anadenanthera peregrina (L.) Speg.;Anadenanthera;Fabaceae;NE;Tree;Terrestrial
+#08#14;native;Anaxagorea dolichocarpa;Anaxagorea dolichocarpa Sprague & Sandwith;Anaxagorea;Annonaceae;NE;Tree;Terrestrial
+#52;native;Anchietea pyrifolia;Anchietea pyrifolia (Mart.) G.Don;Anchietea;Violaceae;NE;Vine;Terrestrial
+#07#14#15#19#21#23#26#31#44#53;native;Andira fraxinifolia;Andira fraxinifolia Benth.;Andira;Fabaceae;NE;Tree;Rupicole
+#32;native;Andira humilis;Andira humilis Mart. ex Benth.;Andira;Fabaceae;NE;Shrub|Tree;Terrestrial
+#23;native;Andira legalis;Andira legalis (Vell.) Toledo;Andira;Fabaceae;NE;Tree;Terrestrial
+#10#15;native;Andira nitida;Andira nitida Mart. ex Benth.;Andira;Fabaceae;NE;Shrub|Tree;Terrestrial
+#07#15#43;native;Anemopaegma chamberlaynii;Anemopaegma chamberlaynii (Sims) Bureau & K.Schum.;Anemopaegma;Bignoniaceae;NE;Vine;Terrestrial
+#15;native;Aniba viridis;Aniba viridis Mez;Aniba;Lauraceae;NE;Tree;Terrestrial
+#32;native;Annona dioica;Annona dioica A.St.-Hil.;Annona;Annonaceae;NE;Shrub;Terrestrial
+#07#15;native;Annona dolabripetala;Annona dolabripetala Raddi;Annona;Annonaceae;NE;Tree;Terrestrial
+#18;native;Annona emarginata;Annona emarginata (Schltdl.) H.Rainer;Annona;Annonaceae;NE;Shrub|Tree;Terrestrial
+#47;native;Anredera cordifolia;Anredera cordifolia (Ten.) Steenis;Anredera;Basellaceae;NE;Vine;Terrestrial
+#49;native;Anthurium pentaphyllum;Anthurium pentaphyllum (Aubl.) G.Don;Anthurium;Araceae;NE;Herb;Hemiepiphyte
+#47;native;Apuleia leiocarpa;Apuleia leiocarpa (Vogel) J.F.Macbr.;Apuleia;Fabaceae;VU;Shrub|Tree;Terrestrial
+#01;native;Aristolochia labiata;Aristolochia labiata Willd.;Aristolochia;Aristolochiaceae;NE;Vine;Terrestrial
+#51;native;Aspidosperma discolor;Aspidosperma discolor A.DC.;Aspidosperma;Apocynaceae;NE;Tree;Terrestrial
+#27;native;Aspidosperma olivaceum;Aspidosperma olivaceum Müll.Arg.;Aspidosperma;Apocynaceae;NE;Shrub;Terrestrial
+#04#15;native;Aspidosperma parvifolium;Aspidosperma parvifolium A.DC.;Aspidosperma;Apocynaceae;EN;Tree;Terrestrial
+#02#09#15#21#23#25#51#53;native;Aspidosperma pyricollum;Aspidosperma pyricollum Müll.Arg.;Aspidosperma;Apocynaceae;NE;Tree;Terrestrial
+#27;native;Aspidosperma subincanum;Aspidosperma subincanum Mart.;Aspidosperma;Apocynaceae;NE;Tree;Terrestrial
+#48;native;Aspilia foliosa;Aspilia foliosa (Gardner) Baker;Aspilia;Asteraceae;NE;Shrub|Sub-Shrub;Terrestrial
+#48;native;Aspilia fruticosa;Aspilia fruticosa (Gardner) Baker;Aspilia;Asteraceae;NE;Shrub|Sub-Shrub;Terrestrial
+#05#06;native;Astronium urundeuva;Astronium urundeuva (M.Allemão) Engl.;Astronium;Anacardiaceae;NE;Tree;Terrestrial
+#28;native;Athenaea anonacea;Athenaea anonacea Sendtn.;Athenaea;Solanaceae;NE;Shrub;Terrestrial
+#02#03#07#15#52;native;Athenaea fasciculata;Athenaea fasciculata (Vell.) I.M.C. Rodrigues & Stehmann;Athenaea;Solanaceae;NE;Shrub;Terrestrial
+#18#45;native;Austroeupatorium inulaefolium;Austroeupatorium inulaefolium (Kunth) R.M.King & H.Rob.;Austroeupatorium;Asteraceae;NE;Shrub|Herb|Sub-Shrub;Rupicole|Terrestrial
+#07#15#25;native;Avicennia schaueriana;Avicennia schaueriana Stapf & Leechm. ex Moldenke;Avicennia;Acanthaceae;NE;Tree;Aquatic|Terrestrial
+#28;native;Baccharis altimontana;Baccharis altimontana G.Heiden et al.;Baccharis;Asteraceae;NE;Sub-Shrub;Rupicole|Terrestrial
+#18;native;Baccharis anomala;Baccharis anomala DC.;Baccharis;Asteraceae;NE;Vine|Sub-Shrub;Terrestrial
+#45;native;Baccharis articulata;Baccharis articulata (Lam.) Pers.;Baccharis;Asteraceae;NE;Shrub|Sub-Shrub;Rupicole|Terrestrial
+#48;native;Baccharis bifrons;Baccharis bifrons Baker;Baccharis;Asteraceae;EN;Vine|Sub-Shrub;Terrestrial
+#07#15;native;Baccharis conyzoides;Baccharis conyzoides (Less.) DC.;Baccharis;Asteraceae;NE;Vine|Sub-Shrub;Terrestrial
+#18#44#45;native;Baccharis crispa;Baccharis crispa Spreng.;Baccharis;Asteraceae;NE;Sub-Shrub;Epiphyte|Rupicole|Terrestrial
+#18;native;Baccharis dentata;Baccharis dentata (Vell.) G.M.Barroso;Baccharis;Asteraceae;NE;Shrub;Rupicole|Terrestrial
+#01#07#15#18#45;native;Baccharis dracunculifolia;Baccharis dracunculifolia DC.;Baccharis;Asteraceae;NE;Shrub;Rupicole|Terrestrial
+#28;native;Baccharis grandimucronata;Baccharis grandimucronata Malag.;Baccharis;Asteraceae;NE;Shrub;Rupicole|Terrestrial
+#44;native;Baccharis lateralis;Baccharis lateralis Baker;Baccharis;Asteraceae;NE;Shrub;Rupicole|Terrestrial
+#31;native;Baccharis longiattenuata;Baccharis longiattenuata A.S.Oliveira;Baccharis;Asteraceae;NE;Shrub|Tree;Terrestrial
+#48;native;Baccharis microcephala;Baccharis microcephala (Less.) DC.;Baccharis;Asteraceae;NE;Shrub|Sub-Shrub;Terrestrial
+#18;native;Baccharis microdonta;Baccharis microdonta DC.;Baccharis;Asteraceae;NE;Shrub;Rupicole|Terrestrial
+#19;native;Baccharis pingraea;Baccharis pingraea DC.;Baccharis;Asteraceae;NE;Sub-Shrub;Terrestrial
+#38#44;native;Baccharis pseudomyriocephala;Baccharis pseudomyriocephala Malag.;Baccharis;Asteraceae;NE;Shrub;Rupicole|Terrestrial
+#45#47;native;Baccharis punctulata;Baccharis punctulata DC.;Baccharis;Asteraceae;NE;Shrub|Sub-Shrub;Rupicole|Terrestrial
+#28;native;Baccharis reticularia;Baccharis reticularia DC.;Baccharis;Asteraceae;NE;Shrub;Rupicole|Terrestrial
+#16;native;Baccharis semiserrata;Baccharis semiserrata DC.;Baccharis;Asteraceae;NE;Shrub|Tree;Terrestrial
+#01;native;Baccharis serrulata;Baccharis serrulata (Lam.) Pers.;Baccharis;Asteraceae;NE;Sub-Shrub;Rupicole|Terrestrial
+#07#15#48;native;Baccharis singularis;Baccharis singularis (Vell.) G.M.Barroso;Baccharis;Asteraceae;NE;Shrub;Terrestrial
+#45;native;Baccharis tridentata;Baccharis tridentata Vahl;Baccharis;Asteraceae;NE;Sub-Shrub;Rupicole|Terrestrial
+#28#43;native;Barrosoa organensis;Barrosoa organensis (Gardner) R.M.King & H.Rob.;Barrosoa;Asteraceae;NE;Shrub;Terrestrial
+#52;native;Bathysa mendoncaei;Bathysa mendoncaei K.Schum.;Bathysa;Rubiaceae;NE;Shrub|Tree;Terrestrial
+#32#33;native;Bauhinia forficata;Bauhinia forficata Link;Bauhinia;Fabaceae;NE;Tree;Terrestrial
+#32#36#47;native;Bauhinia holophylla;Bauhinia holophylla (Bong.) Steud.;Bauhinia;Fabaceae;NE;Shrub;Terrestrial
+#11#47;native;Bauhinia ungulata;Bauhinia ungulata L.;Bauhinia;Fabaceae;NE;Shrub|Tree|Sub-Shrub;Terrestrial
+#18#28;native;Berberis laurina;Berberis laurina Billb.;Berberis;Berberidaceae;NE;Shrub|Tree;Terrestrial
+#52;native;Bertolonia acuminata;Bertolonia acuminata Gardner;Bertolonia;Melastomataceae;NE;Herb;Epiphyte|Rupicole|Terrestrial
+#07#15#37#45;native;Blepharocalyx salicifolius;Blepharocalyx salicifolius (Kunth) O.Berg;Blepharocalyx;Myrtaceae;NE;Shrub|Tree;Terrestrial
+#28;native;Borreria tenera;Borreria tenera DC.;Borreria;Rubiaceae;NE;Herb;Terrestrial
+#01#02#03#15#21#23#43#44#53;native;Borreria verticillata;Borreria verticillata (L.) G.Mey.;Borreria;Rubiaceae;NE;Sub-Shrub;Terrestrial
+#06;native;Bougainvillea praecox;Bougainvillea praecox Griseb.;Bougainvillea;Nyctaginaceae;NE;Shrub;Terrestrial
+#28;native;Bougainvillea spectabilis;Bougainvillea spectabilis Willd.;Bougainvillea;Nyctaginaceae;NE;Tree|Vine;Terrestrial
+#01#32;native;Byrsonima intermedia;Byrsonima intermedia A.Juss.;Byrsonima;Malpighiaceae;NE;Shrub;Terrestrial
+#02#03#04#09#10#12#14#15#21#23#25#34#39#43#44#53;native;Byrsonima sericea;Byrsonima sericea DC.;Byrsonima;Malpighiaceae;NE;Shrub|Tree;Terrestrial
+#13;native;Byrsonima stipulacea;Byrsonima stipulacea A.Juss.;Byrsonima;Malpighiaceae;NE;Tree;Terrestrial
+#01;native;Byrsonima variabilis;Byrsonima variabilis A.Juss.;Byrsonima;Malpighiaceae;NE;Shrub;Terrestrial
+#14#17;native;Byrsonima verbascifolia;Byrsonima verbascifolia (L.) DC.;Byrsonima;Malpighiaceae;NE;Shrub|Tree;Terrestrial
+#18#28#32#48;native;Calea pinnatifida;Calea pinnatifida (R.Br.) Less.;Calea;Asteraceae;NE;Vine;Terrestrial
+#18#33;native;Calea serrata;Calea serrata Less.;Calea;Asteraceae;NE;Shrub|Vine;Terrestrial
+#14;native;Callaeum psilophyllum;Callaeum psilophyllum (A.Juss.) D.M.Johnson;Callaeum;Malpighiaceae;NE;Shrub|Vine;Terrestrial
+#18#28#32;native;Calliandra brevipes;Calliandra brevipes Benth.;Calliandra;Fabaceae;NE;Shrub;Terrestrial
+#18;native;Calliandra tweedii;Calliandra tweedii Benth.;Calliandra;Fabaceae;NE;Shrub|Tree;Terrestrial
+#03#07#15#17#26#31#34#38#39#44;native;Calophyllum brasiliense;Calophyllum brasiliense Cambess.;Calophyllum;Calophyllaceae;NE;Tree;Terrestrial
+#07#37#52;native;Campomanesia guaviroba;Campomanesia guaviroba (DC.) Kiaersk.;Campomanesia;Myrtaceae;NE;Tree;Terrestrial
+#17;native;Campomanesia pubescens;Campomanesia pubescens (Mart. ex DC.) O.Berg;Campomanesia;Myrtaceae;NE;Shrub|Tree;Terrestrial
+#18#33;native;Campomanesia xanthocarpa;Campomanesia xanthocarpa (Mart.) O.Berg;Campomanesia;Myrtaceae;NE;Tree;Terrestrial
+#18;native;Campovassouria cruciata;Campovassouria cruciata (Vell.) R.M.King & H.Rob.;Campovassouria;Asteraceae;NE;Shrub;Rupicole|Terrestrial
+#22#30#41;native;Campyloneurum nitidum;Campyloneurum nitidum (Kaulf.) C.Presl;Campyloneurum;Polypodiaceae;NE;Herb;Epiphyte|Rupicole|Terrestrial
+#32#36;native;Caryocar brasiliense;Caryocar brasiliense Cambess.;Caryocar;Caryocaraceae;NE;Shrub|Tree|Sub-Shrub;Terrestrial
+#28#51;native;Casearia aculeata;Casearia aculeata Jacq.;Casearia;Salicaceae;NE;Shrub|Tree;Terrestrial
+#19#28#43;native;Casearia arborea;Casearia arborea (Rich.) Urb.;Casearia;Salicaceae;NE;Shrub|Tree;Terrestrial
+#51;native;Casearia decandra;Casearia decandra Jacq.;Casearia;Salicaceae;NE;Shrub|Tree;Terrestrial
+#27;native;Casearia gossypiosperma;Casearia gossypiosperma Briq.;Casearia;Salicaceae;NE;Tree;Terrestrial
+#12#13#14;native;Casearia javitensis;Casearia javitensis Kunth;Casearia;Salicaceae;NE;Shrub|Tree;Terrestrial
+#52;native;Casearia obliqua;Casearia obliqua Spreng.;Casearia;Salicaceae;NE;Shrub|Tree;Terrestrial
+#52;native;Casearia pauciflora;Casearia pauciflora Cambess.;Casearia;Salicaceae;NE;Shrub|Tree;Terrestrial
+#14#18#27#28#45#47#51;native;Casearia sylvestris;Casearia sylvestris Sw.;Casearia;Salicaceae;NE;Shrub|Tree|Sub-Shrub;Terrestrial
+#51;native;Casearia ulmifolia;Casearia ulmifolia Vahl ex Vent.;Casearia;Salicaceae;NE;Shrub|Tree;Terrestrial
+#28;native;Cayaponia pilosa;Cayaponia pilosa (Vell.) Cogn.;Cayaponia;Cucurbitaceae;NE;Vine;Terrestrial
+#22;native;Cedrela fissilis;Cedrela fissilis Vell.;Cedrela;Meliaceae;VU;Tree;Terrestrial
+#11#12#18#28#32#33#45;native;Celtis iguanaea;Celtis iguanaea (Jacq.) Sarg.;Celtis;Cannabaceae;NE;Shrub|Tree;Terrestrial
+#27#51;native;Celtis spinosa;Celtis spinosa Spreng.;Celtis;Cannabaceae;NE;Shrub;Terrestrial
+#23#34;native;Centrosema virginianum;Centrosema virginianum (L.) Benth.;Centrosema;Fabaceae;NE;Vine;Terrestrial
+#07#15;native;Cestrum axillare;Cestrum axillare Vell.;Cestrum;Solanaceae;NE;Tree;Terrestrial
+#35;native;Cestrum intermedium;Cestrum intermedium Sendtn.;Cestrum;Solanaceae;NE;Shrub|Tree;Terrestrial
+#18#27#33;native;Cestrum strigilatum;Cestrum strigilatum Ruiz & Pav.;Cestrum;Solanaceae;NE;Shrub|Tree;Terrestrial
+#21;native;Chaetocarpus echinocarpus;Chaetocarpus echinocarpus (Baill.) Ducke;Chaetocarpus;Peraceae;NE;Shrub|Tree;Terrestrial
+#10#14#15;native;Chaetocarpus myrsinites;Chaetocarpus myrsinites Baill.;Chaetocarpus;Peraceae;NE;Shrub|Tree;Terrestrial
+#14;native;Chamaecrista ensiformis;Chamaecrista ensiformis (Vell.) H.S.Irwin & Barneby;Chamaecrista;Fabaceae;NE;Shrub|Tree;Terrestrial
+#16;native;Chamissoa altissima;Chamissoa altissima (Jacq.) Kunth;Chamissoa;Amaranthaceae;NE;Vine|Sub-Shrub;Terrestrial
+#19#31;native;Chiococca alba;Chiococca alba (L.) Hitchc.;Chiococca;Rubiaceae;NE;Shrub;Terrestrial
+#28;native;Chionolaena lychnophorioides;Chionolaena lychnophorioides Sch.Bip.;Chionolaena;Asteraceae;VU;Shrub;Terrestrial
+#28#32;native;Chromolaena laevigata;Chromolaena laevigata (Lam.) R.M.King & H.Rob.;Chromolaena;Asteraceae;NE;Shrub|Sub-Shrub;Terrestrial
+#28#48;native;Chromolaena odorata;Chromolaena odorata (L.) R.M.King & H.Rob.;Chromolaena;Asteraceae;NE;Shrub|Sub-Shrub;Terrestrial
+#23;native;Chromolaena punctulata;Chromolaena punctulata (DC.) R.M.King & H.Robinson;Chromolaena;Asteraceae;NE;Shrub;Terrestrial
+#29;native;Chrysobalanus icaco;Chrysobalanus icaco L.;Chrysobalanus;Chrysobalanaceae;NE;Shrub|Tree;Terrestrial
+#52;native;Chrysophyllum flexuosum;Chrysophyllum flexuosum Mart.;Chrysophyllum;Sapotaceae;NE;Tree;Terrestrial
+#23;native;Chrysophyllum lucentifolium;Chrysophyllum lucentifolium Cronquist;Chrysophyllum;Sapotaceae;NE;Tree;Terrestrial
+#27;native;Chrysophyllum marginatum;Chrysophyllum marginatum (Hook. & Arn.) Radlk.;Chrysophyllum;Sapotaceae;NE;Shrub|Tree;Terrestrial
+#14;native;Chrysophyllum splendens;Chrysophyllum splendens Spreng.;Chrysophyllum;Sapotaceae;NE;Shrub|Tree;Terrestrial
+#18;native;Cissampelos pareira;Cissampelos pareira L.;Cissampelos;Menispermaceae;NE;Vine;Terrestrial
+#28;native;Cissus albida;Cissus albida Cambess.;Cissus;Vitaceae;NE;Vine;Terrestrial
+#33;native;Citronella gongonha;Citronella gongonha (Mart.) R.A.Howard;Citronella;Cardiopteridaceae;NE;Shrub|Tree;Terrestrial
+#18#33#45#52;native;Clematicissus striata;Clematicissus striata (Ruiz & Pav.) Lombardi;Clematicissus;Vitaceae;NE;Vine;Terrestrial
+#18;native;Clematis dioica;Clematis dioica L.;Clematis;Ranunculaceae;NE;Vine;Terrestrial
+#07#15;native;Clethra scabra;Clethra scabra Pers.;Clethra;Clethraceae;NE;Shrub|Tree;Terrestrial
+#16;native;Clethra uleana;Clethra uleana Sleumer;Clethra;Clethraceae;NE;Shrub|Tree;Terrestrial
+#07#08#15#20;native;Clidemia capitellata;Clidemia capitellata (Bonpl.) D.Don;Clidemia;Melastomataceae;NE;Shrub;Terrestrial
+#47;native;Clidemia hirta;Clidemia hirta (L.) D.Don;Clidemia;Melastomataceae;NE;Shrub;Terrestrial
+#01;native;Clidemia urceolata;Clidemia urceolata DC.;Clidemia;Melastomataceae;NE;Shrub;Terrestrial
+#08#25;native;Clitoria laurifolia;Clitoria laurifolia Poir.;Clitoria;Fabaceae;NE;Sub-Shrub;Terrestrial
+#07#15#26#31;native;Clusia criuva;Clusia criuva Cambess.;Clusia;Clusiaceae;NE;Shrub;Terrestrial
+#02#04#15#23#34#44#46#53;native;Clusia fluminensis;Clusia fluminensis Planch. & Triana;Clusia;Clusiaceae;NE;Shrub|Tree;Terrestrial
+#02#03#10#15#23#34#44#46;native;Clusia hilariana;Clusia hilariana Schltdl.;Clusia;Clusiaceae;NE;Shrub|Tree;Terrestrial
+#02#15#34#44#46#52#53;native;Clusia lanceolata;Clusia lanceolata Cambess.;Clusia;Clusiaceae;NE;Shrub|Tree;Terrestrial
+#14#46;native;Clusia nemorosa;Clusia nemorosa G.Mey.;Clusia;Clusiaceae;NE;Shrub|Tree;Terrestrial
+#05;native;Cnidoscolus urens;Cnidoscolus urens (L.) Arthur;Cnidoscolus;Euphorbiaceae;NE;Herb|Sub-Shrub;Terrestrial
+#21;native;Coccoloba alnifolia;Coccoloba alnifolia Casar.;Coccoloba;Polygonaceae;NE;Shrub|Tree;Terrestrial
+#14;native;Coccoloba parimensis;Coccoloba parimensis Benth.;Coccoloba;Polygonaceae;NE;Shrub|Vine;Terrestrial
+#23;native;Coccoloba rigida;Coccoloba rigida Meisn.;Coccoloba;Polygonaceae;EN;Shrub|Vine;Terrestrial
+#07#15;native;Coccoloba salicifolia;Coccoloba salicifolia Wedd.;Coccoloba;Polygonaceae;NE;Shrub|Tree|Vine;Terrestrial
+#07#15;native;Codonanthe gracilis;Codonanthe gracilis (Mart.) Hanst.;Codonanthe;Gesneriaceae;NE;Sub-Shrub;Epiphyte
+#47;native;Colubrina glandulosa;Colubrina glandulosa Perkins;Colubrina;Rhamnaceae;NE;Tree;Terrestrial
+#28;native;Combretum fruticosum;Combretum fruticosum (Loefl.) Stuntz;Combretum;Combretaceae;NE;Shrub|Vine;Terrestrial
+#44;native;Combretum leprosum;Combretum leprosum Mart.;Combretum;Combretaceae;NE;Shrub|Tree|Vine;Terrestrial
+#07#15;native;Condea undulata;Condea undulata (Schrank) Harley & J.F.B.Pastore;Condea;Lamiaceae;NE;Shrub|Herb|Sub-Shrub;Terrestrial
+#14;native;Connarus blanchetii;Connarus blanchetii Planch.;Connarus;Connaraceae;NE;Shrub|Vine;Terrestrial
+#15;native;Connarus rostratus;Connarus rostratus (Vell.) L.B.Sm.;Connarus;Connaraceae;NE;Shrub|Vine;Terrestrial
+#44;native;Conyza canadensis;Conyza canadensis (L.) Cronquist;Conyza;Asteraceae;NE;Sub-Shrub;Terrestrial
+#12#32#36;native;Copaifera langsdorffii;Copaifera langsdorffii Desf.;Copaifera;Fabaceae;NE;Tree;Terrestrial
+#52;native;Copaifera trapezifolia;Copaifera trapezifolia Hayne;Copaifera;Fabaceae;NE;Tree;Terrestrial
+#18#33;native;Cordia americana;Cordia americana (L.) Gottschling & J.S.Mill.;Cordia;Cordiaceae;NE;Tree;Terrestrial
+#33;native;Cordia ecalyculata;Cordia ecalyculata Vell.;Cordia;Cordiaceae;NE;Tree;Terrestrial
+#13#14;native;Cordia nodosa;Cordia nodosa Lam.;Cordia;Cordiaceae;NE;Shrub|Tree;Terrestrial
+#05#07#15;native;Cordia sellowiana;Cordia sellowiana Cham.;Cordia;Cordiaceae;NE;Tree;Terrestrial
+#28;native;Cordiera myrciifolia;Cordiera myrciifolia (K.Schum.) C.H.Perss. & Delprete;Cordiera;Rubiaceae;NE;Shrub;Terrestrial
+#36;native;Couepia grandiflora;Couepia grandiflora (Mart. & Zucc.) Benth.;Couepia;Chrysobalanaceae;NE;Tree;Terrestrial
+#02#10#15#23#39#44#53;native;Couepia ovalifolia;Couepia ovalifolia (Schott) Benth. ex Hook.f.;Couepia;Chrysobalanaceae;NE;Shrub|Tree;Terrestrial
+#07#15;native;Coussapoa microcarpa;Coussapoa microcarpa (Schott) Rizzini;Coussapoa;Urticaceae;NE;Shrub|Tree;Hemiepiphyte|Terrestrial
+#28;native;Croton campanulatus;Croton campanulatus Caruzo & Cordeiro;Croton;Euphorbiaceae;EN;Tree;Terrestrial
+#15#21#23;native;Croton compressus;Croton compressus Lam.;Croton;Euphorbiaceae;NE;Shrub;Terrestrial
+#52;native;Croton echinocarpus;Croton echinocarpus Müll. Arg.;Croton;Euphorbiaceae;NE;Tree;Terrestrial
+#19#21#22#27#28#36#39#44#47#52;native;Croton floribundus;Croton floribundus Spreng.;Croton;Euphorbiaceae;NE;Tree;Terrestrial
+#01;native;Croton splendidus;Croton splendidus Mart.;Croton;Euphorbiaceae;NE;Shrub|Sub-Shrub;Terrestrial
+#18;native;Cryptocarya aschersoniana;Cryptocarya aschersoniana Mez;Cryptocarya;Lauraceae;NE;Tree;Terrestrial
+#28;native;Cupania cinerea;Cupania cinerea Poepp. & Endl.;Cupania;Sapindaceae;NE;Shrub|Tree;Terrestrial
+#12#14#43;native;Cupania racemosa;Cupania racemosa (Vell.) Radlk.;Cupania;Sapindaceae;NE;Tree;Terrestrial
+#28;native;Cupania scrobiculata;Cupania scrobiculata Rich.;Cupania;Sapindaceae;NE;Shrub|Tree;Terrestrial
+#18;native;Cupania vernalis;Cupania vernalis Cambess.;Cupania;Sapindaceae;NE;Tree;Terrestrial
+#44;native;Cuphea carthagenensis;Cuphea carthagenensis (Jacq.) J.F.Macbr.;Cuphea;Lythraceae;NE;Herb|Sub-Shrub;Terrestrial
+#01;native;Cuspidaria sceptrum;Cuspidaria sceptrum (Cham.) L.G.Lohmann;Cuspidaria;Bignoniaceae;NE;Vine;Terrestrial
+#30;native;Cyathea dichromatolepis;Cyathea dichromatolepis (Fée) Domin;Cyathea;Cyatheaceae;NE;Tree;Terrestrial
+#30;native;Cyathea phalerata;Cyathea phalerata Mart.;Cyathea;Cyatheaceae;NE;Shrub;Terrestrial
+#19;native;Cyrtocymura lanuginosa;Cyrtocymura lanuginosa (Gardner) H.Rob.;Cyrtocymura;Asteraceae;NE;Tree|Vine;Terrestrial
+#01;native;Cyrtocymura scorpioides;Cyrtocymura scorpioides (Lam.) H.Rob.;Cyrtocymura;Asteraceae;NE;Sub-Shrub;Terrestrial
+#40;native;Dahlstedtia muehlbergiana;Dahlstedtia muehlbergiana (Hassl.) M.J.Silva & A.M.G.Azevedo;Dahlstedtia;Fabaceae;NE;Tree;Terrestrial
+#28#52;native;Dahlstedtia pinnata;Dahlstedtia pinnata (Benth.) Malme;Dahlstedtia;Fabaceae;NE;Shrub|Tree;Terrestrial
+#17#28#51;native;Dalbergia atropurpurea;Dalbergia atropurpurea Ducke;Dalbergia;Fabaceae;NE;Shrub|Vine;Terrestrial
+#02#03#09#15#21#23#25#31#39#42#44#53;native;Dalbergia ecastaphyllum;Dalbergia ecastaphyllum (L.) Taub.;Dalbergia;Fabaceae;NE;Shrub|Vine;Terrestrial
+#52;native;Dalbergia foliolosa;Dalbergia foliolosa Benth.;Dalbergia;Fabaceae;NE;Tree;Terrestrial
+#07#15#18#26#31#44;native;Dalbergia frutescens;Dalbergia frutescens (Vell.) Britton;Dalbergia;Fabaceae;NE;Shrub|Vine;Terrestrial
+#01;native;Dalbergia miscolobium;Dalbergia miscolobium Benth.;Dalbergia;Fabaceae;NE;Tree;Terrestrial
+#01#06;native;Dalbergia nigra;Dalbergia nigra (Vell.) Allemão ex Benth.;Dalbergia;Fabaceae;VU;Tree;Terrestrial
+#07#15;native;Dalbergia sampaioana;Dalbergia sampaioana Kuhlm. & Hoehne;Dalbergia;Fabaceae;NE;Vine;Terrestrial
+#28;native;Dalbergia subcymosa;Dalbergia subcymosa Ducke;Dalbergia;Fabaceae;NE;Shrub|Vine;Terrestrial
+#44;native;Dalechampia ficifolia;Dalechampia ficifolia Lam.;Dalechampia;Euphorbiaceae;NE;Vine;Terrestrial
+#07#09#15;native;Dalechampia leandrii;Dalechampia leandrii Baill.;Dalechampia;Euphorbiaceae;NE;Vine;Terrestrial
+#23;native;Dalechampia micromeria;Dalechampia micromeria Baill.;Dalechampia;Euphorbiaceae;NE;Vine;Terrestrial
+#28;native;Dalechampia scandens;Dalechampia scandens L.;Dalechampia;Euphorbiaceae;NE;Vine;Terrestrial
+#47;native;Dalechampia triphylla;Dalechampia triphylla Lam.;Dalechampia;Euphorbiaceae;NE;Vine;Terrestrial
+#15;native;Daphnopsis racemosa;Daphnopsis racemosa Griseb.;Daphnopsis;Thymelaeaceae;NE;Shrub|Tree;Terrestrial
+#52;native;Dasyphyllum flagellare;Dasyphyllum flagellare (Casar.) Cabrera;Dasyphyllum;Asteraceae;NE;Shrub;Terrestrial
+#52;native;Dasyphyllum leptacanthum;Dasyphyllum leptacanthum (Gardner) Cabrera;Dasyphyllum;Asteraceae;EN;Shrub;Terrestrial
+#18#28#33#45;native;Dasyphyllum spinescens;Dasyphyllum spinescens (Less.) Cabrera;Dasyphyllum;Asteraceae;NE;Tree;Terrestrial
+#27;native;Davilla elliptica;Davilla elliptica A.St.-Hil.;Davilla;Dilleniaceae;NE;Shrub|Vine|Sub-Shrub;Terrestrial
+#01#17#21#43#44#47;native;Davilla rugosa;Davilla rugosa Poir.;Davilla;Dilleniaceae;NE;Vine|Sub-Shrub;Terrestrial
+#18;native;Deguelia costata;Deguelia costata (Benth.) A.M.G.Azevedo & R.A.Camargo;Deguelia;Fabaceae;NE;Tree;Terrestrial
+#28;native;Dendrophorbium fruticosum;Dendrophorbium fruticosum (Vell.) C.Jeffrey;Dendrophorbium;Asteraceae;NE;Shrub|Sub-Shrub;Terrestrial
+#43;native;Dicliptera ciliaris;Dicliptera ciliaris Juss.;Dicliptera;Acanthaceae;NE;Herb;Rupicole|Terrestrial
+#30#41;native;Dicranopteris flexuosa;Dicranopteris flexuosa (Schrad.) Underw.;Dicranopteris;Gleicheniaceae;NE;Herb;Rupicole|Terrestrial
+#41;native;Dicranopteris nervosa;Dicranopteris nervosa (Kaulf.) Maxon;Dicranopteris;Gleicheniaceae;NE;Herb;Rupicole|Terrestrial
+#19;native;Dictyoloma vandellianum;Dictyoloma vandellianum A.Juss.;Dictyoloma;Rutaceae;NE;Tree;Terrestrial
+#11#12#14;native;Didymopanax morototoni;Didymopanax morototoni (Aubl.) Decne. & Planch.;Didymopanax;Araliaceae;NE;Tree;Terrestrial
+#17;native;Dimerostemma brasilianum;Dimerostemma brasilianum Cass.;Dimerostemma;Asteraceae;NE;Herb|Sub-Shrub;Terrestrial
+#52;native;Dioscorea laxiflora;Dioscorea laxiflora Mart. ex Griseb.;Dioscorea;Dioscoreaceae;NE;Vine;Terrestrial
+#07#15;native;Dioscorea monadelpha;Dioscorea monadelpha (Kunth) Griseb.;Dioscorea;Dioscoreaceae;NE;Vine;Terrestrial
+#45;native;Dioscorea multiflora;Dioscorea multiflora Mart. ex Griseb.;Dioscorea;Dioscoreaceae;NE;Vine;Terrestrial
+#33;native;Dioscorea scabra;Dioscorea scabra Humb. & Bonpl. ex Willd.;Dioscorea;Dioscoreaceae;NE;Vine;Terrestrial
+#07#15;native;Diospyros brasiliensis;Diospyros brasiliensis Mart. ex Miq.;Diospyros;Ebenaceae;NE;Tree;Terrestrial
+#32#36;native;Diplopterys pubipetala;Diplopterys pubipetala (A.Juss.) W.R.Anderson & C.C.Davis;Diplopterys;Malpighiaceae;NE;Vine;Terrestrial
+#28;native;Ditassa crassifolia;Ditassa crassifolia Decne.;Ditassa;Apocynaceae;NE;Vine;Terrestrial
+#07#15;native;Dolichandra unguiculata;Dolichandra unguiculata (Vell.) L.G.Lohmann;Dolichandra;Bignoniaceae;NE;Vine;Terrestrial
+#18#28#33;native;Dolichandra unguis-cati;Dolichandra unguis-cati (L.) L.G.Lohmann;Dolichandra;Bignoniaceae;NE;Vine;Terrestrial
+#44#51;native;Doliocarpus dentatus;Doliocarpus dentatus (Aubl.) Standl.;Doliocarpus;Dilleniaceae;NE;Shrub|Vine;Terrestrial
+#07#15;native;Doliocarpus glomeratus;Doliocarpus glomeratus Eichler;Doliocarpus;Dilleniaceae;NE;Vine;Terrestrial
+#17#32;native;Duguetia furfuracea;Duguetia furfuracea (A.St.-Hil.) Saff.;Duguetia;Annonaceae;NE;Tree;Terrestrial
+#18;native;Duranta vestita;Duranta vestita Cham.;Duranta;Verbenaceae;NE;Shrub|Tree;Terrestrial
+#07#15;native;Elachyptera micrantha;Elachyptera micrantha (Cambess.) A.C.Sm.;Elachyptera;Celastraceae;NE;Vine;Terrestrial
+#07#15#52;native;Emmeorhiza umbellata;Emmeorhiza umbellata (Spreng.) K.Schum.;Emmeorhiza;Rubiaceae;NE;Vine;Terrestrial
+#26#31;native;Endlicheria paniculata;Endlicheria paniculata (Spreng.) J.F.Macbr.;Endlicheria;Lauraceae;NE;Shrub|Tree;Terrestrial
+#23;native;Enydra sessilis;Enydra sessilis (Sw.) DC.;Enydra;Asteraceae;NE;Tree;Terrestrial
+#10#15;native;Epidendrum denticulatum;Epidendrum denticulatum Barb.Rodr.;Epidendrum;Orchidaceae;NE;Herb;Rupicole|Terrestrial
+#01#38#44#47;native;Eremanthus erythropappus;Eremanthus erythropappus (DC.) MacLeish;Eremanthus;Asteraceae;NE;Tree;Terrestrial
+#47;native;Eremanthus incanus;Eremanthus incanus (Less.) Less.;Eremanthus;Asteraceae;NE;Tree;Terrestrial
+#17#48;native;Eremanthus polycephalus;Eremanthus polycephalus (DC.) MacLeish;Eremanthus;Asteraceae;NE;Tree;Terrestrial
+#13;native;Eriotheca macrophylla;Eriotheca macrophylla (K.Schum.) A.Robyns;Eriotheca;Malvaceae;NE;Tree;Terrestrial
+#18;native;Erythroxylum argentinum;Erythroxylum argentinum O.E.Schulz;Erythroxylum;Erythroxylaceae;NE;Shrub|Tree;Terrestrial
+#49;native;Erythroxylum distortum;Erythroxylum distortum Mart.;Erythroxylum;Erythroxylaceae;NE;Shrub;Terrestrial
+#01;native;Erythroxylum gonocladum;Erythroxylum gonocladum (Mart.) O.E.Schulz;Erythroxylum;Erythroxylaceae;NE;Shrub|Sub-Shrub;Terrestrial
+#49;native;Erythroxylum macrocalyx;Erythroxylum macrocalyx Mart.;Erythroxylum;Erythroxylaceae;NE;Shrub|Tree;Terrestrial
+#49;native;Erythroxylum macrochaetum;Erythroxylum macrochaetum Miq.;Erythroxylum;Erythroxylaceae;NE;Shrub|Sub-Shrub;Rupicole|Terrestrial
+#43;native;Erythroxylum macrophyllum;Erythroxylum macrophyllum Cav.;Erythroxylum;Erythroxylaceae;NE;Shrub|Tree;Terrestrial
+#12;native;Erythroxylum mucronatum;Erythroxylum mucronatum Benth.;Erythroxylum;Erythroxylaceae;NE;Shrub|Tree;Terrestrial
+#02#03#04#09#15#19#23#25#34#44#53;native;Erythroxylum ovalifolium;Erythroxylum ovalifolium Peyr.;Erythroxylum;Erythroxylaceae;VU;Shrub;Terrestrial
+#24;native;Erythroxylum pauferrense;Erythroxylum pauferrense Plowman;Erythroxylum;Erythroxylaceae;NE;Shrub|Tree;Terrestrial
+#49;native;Erythroxylum polygonoides;Erythroxylum polygonoides Mart.;Erythroxylum;Erythroxylaceae;NE;Shrub|Tree;Rupicole|Terrestrial
+#14;native;Erythroxylum squamatum;Erythroxylum squamatum Sw.;Erythroxylum;Erythroxylaceae;NE;Shrub|Tree;Terrestrial
+#07#15;native;Erythroxylum umbu;Erythroxylum umbu Costa-Lima;Erythroxylum;Erythroxylaceae;NE;Shrub|Tree;Terrestrial
+#18#45;native;Escallonia bifida;Escallonia bifida Link & Otto;Escallonia;Escalloniaceae;NE;Shrub|Tree;Terrestrial
+#08#13#14;native;Eschweilera ovata;Eschweilera ovata (Cambess.) Mart. ex Miers;Eschweilera;Lecythidaceae;NE;Tree;Terrestrial
+#02#03#04#07#15#21#23#25#34#37#39#44#53;native;Eugenia astringens;Eugenia astringens Cambess.;Eugenia;Myrtaceae;NE;Tree;Terrestrial
+#17;native;Eugenia biflora;Eugenia biflora (L.) DC.;Eugenia;Myrtaceae;NE;Shrub|Tree;Terrestrial
+#32;native;Eugenia bimarginata;Eugenia bimarginata DC.;Eugenia;Myrtaceae;NE;Shrub;Terrestrial
+#24#28;native;Eugenia bunchosiifolia;Eugenia bunchosiifolia Nied.;Eugenia;Myrtaceae;VU;Tree;Terrestrial
+#02#03#15#21#23#37#44#53;native;Eugenia copacabanensis;Eugenia copacabanensis Kiaersk.;Eugenia;Myrtaceae;NE;Tree;Terrestrial
+#18#27#43#50;native;Eugenia florida;Eugenia florida DC.;Eugenia;Myrtaceae;NE;Shrub|Tree;Terrestrial
+#02#15#37;native;Eugenia hiemalis;Eugenia hiemalis Cambess.;Eugenia;Myrtaceae;NE;Shrub|Tree;Terrestrial
+#52;native;Eugenia laruotteana;Eugenia laruotteana Cambess.;Eugenia;Myrtaceae;NE;Shrub|Tree;Terrestrial
+#07#15#37;native;Eugenia monosperma;Eugenia monosperma Vell.;Eugenia;Myrtaceae;NE;Tree;Terrestrial
+#51;native;Eugenia patrisii;Eugenia patrisii Vahl;Eugenia;Myrtaceae;NE;Shrub|Tree;Terrestrial
+#16#32;native;Eugenia pluriflora;Eugenia pluriflora DC.;Eugenia;Myrtaceae;NE;Tree;Terrestrial
+#52;native;Eugenia prasina;Eugenia prasina O.Berg;Eugenia;Myrtaceae;NE;Tree;Terrestrial
+#03#04#15#17#21#23#36#37#53;native;Eugenia punicifolia;Eugenia punicifolia (Kunth) DC.;Eugenia;Myrtaceae;NE;Shrub|Sub-Shrub;Terrestrial
+#18;native;Eugenia pyriformis;Eugenia pyriformis Cambess.;Eugenia;Myrtaceae;NE;Shrub|Tree|Sub-Shrub;Terrestrial
+#18;native;Eugenia rotundicosta;Eugenia rotundicosta D.Legrand;Eugenia;Myrtaceae;EN;Tree;Terrestrial
+#28;native;Eugenia schottiana;Eugenia schottiana O.Berg;Eugenia;Myrtaceae;NE;Tree;Terrestrial
+#23#37;native;Eugenia selloi;Eugenia selloi (O. Berg) B.D. Jacks.;Eugenia;Myrtaceae;NE;Shrub|Tree;Terrestrial
+#07#15#36#37;native;Eugenia speciosa;Eugenia speciosa Cambess.;Eugenia;Myrtaceae;NE;Tree;Terrestrial
+#01;native;Eugenia sphenophylla;Eugenia sphenophylla O.Berg;Eugenia;Myrtaceae;NE;Shrub|Tree;Terrestrial
+#15;native;Eugenia stigmatosa;Eugenia stigmatosa DC.;Eugenia;Myrtaceae;NE;Shrub|Tree;Terrestrial
+#07#15#37;native;Eugenia sulcata;Eugenia sulcata Spring ex Mart.;Eugenia;Myrtaceae;NE;Tree;Terrestrial
+#02#03#04#07#09#15#18#20#21#23#25#28#33#34#37#38#42#44#45#47#50#52#53;native;Eugenia uniflora;Eugenia uniflora L.;Eugenia;Myrtaceae;NE;Shrub;Terrestrial
+#18;native;Eugenia uruguayensis;Eugenia uruguayensis Cambess.;Eugenia;Myrtaceae;NE;Tree;Terrestrial
+#15#18;native;Eugenia verticillata;Eugenia verticillata (Vell.) Angely;Eugenia;Myrtaceae;NE;Shrub;Terrestrial
+#01;native;Eumachia cephalantha;Eumachia cephalantha (Müll. Arg.) Delprete & J.H. Kirkbr.;Eumachia;Rubiaceae;NE;Shrub|Sub-Shrub;Terrestrial
+#23;native;Euploca polyphylla;Euploca polyphylla (Lehm.) J.I.M.Melo & Semir;Euploca;Heliotropiaceae;NE;Herb|Sub-Shrub;Terrestrial
+#18;native;Ficus cestrifolia;Ficus cestrifolia Schott ex Spreng.;Ficus;Moraceae;NE;Tree;Terrestrial
+#50;native;Ficus crocata;Ficus crocata (Miq.) Miq.;Ficus;Moraceae;NE;Tree;Hemiepiphyte
+#07#15#47#50;native;Ficus enormis;Ficus enormis Mart. ex Miq.;Ficus;Moraceae;NE;Tree;Hemiepiphyte
+#18;native;Ficus eximia;Ficus eximia Schott;Ficus;Moraceae;NE;Tree;Terrestrial
+#07#15;native;Ficus guaranitica;Ficus guaranitica Chodat;Ficus;Moraceae;NE;Tree;Hemiepiphyte|Terrestrial
+#18;native;Ficus luschnathiana;Ficus luschnathiana (Miq.) Miq.;Ficus;Moraceae;NE;Tree;Hemiepiphyte
+#07#15;native;Forsteronia leptocarpa;Forsteronia leptocarpa (Hook. & Arn.) A.DC.;Forsteronia;Apocynaceae;NE;Vine;Terrestrial
+#27;native;Forsteronia rufa;Forsteronia rufa Müll.Arg.;Forsteronia;Apocynaceae;NE;Vine;Terrestrial
+#27;native;Fridericia caudigera;Fridericia caudigera (S.Moore) L.G.Lohmann;Fridericia;Bignoniaceae;NE;Vine;Terrestrial
+#01#06#27;native;Fridericia chica;Fridericia chica (Bonpl.) L.G.Lohmann;Fridericia;Bignoniaceae;NE;Vine;Terrestrial
+#02#03#04#15#21#23#25#34#43#44#53;native;Fridericia conjugata;Fridericia conjugata (Vell.) L.G.Lohmann;Fridericia;Bignoniaceae;NE;Vine;Terrestrial
+#21;native;Fridericia rego;Fridericia rego (Vell.) L.G.Lohmann;Fridericia;Bignoniaceae;NE;Vine;Terrestrial
+#01;native;Fridericia speciosa;Fridericia speciosa Mart.;Fridericia;Bignoniaceae;NE;Shrub;Terrestrial
+#52;native;Fuchsia regia;Fuchsia regia (Vell.) Munz;Fuchsia;Onagraceae;NE;Shrub|Vine;Terrestrial
+#02#03#15#23#44;native;Galianthe palustris;Galianthe palustris (Cham. & Schltdl.) Cabaña Fader & E. L. Cabral,;Galianthe;Rubiaceae;NE;Herb;Terrestrial|Aquatic
+#15;native;Garcinia gardneriana;Garcinia gardneriana (Planch. & Triana) Zappi;Garcinia;Clusiaceae;NE;Shrub|Tree;Terrestrial
+#28#48;native;Graphistylis itatiaiae;Graphistylis itatiaiae (Dusén) B.Nord.;Graphistylis;Asteraceae;NE;Shrub|Herb|Sub-Shrub;Terrestrial
+#28#48;native;Grazielia gaudichaudeana;Grazielia gaudichaudeana (DC.) R.M.King & H.Rob.;Grazielia;Asteraceae;NE;Shrub|Sub-Shrub;Rupicole|Terrestrial
+#16;native;Grazielia serrata;Grazielia serrata (Spreng.) R.M.King & H.Rob.;Grazielia;Asteraceae;NE;Sub-Shrub;Terrestrial
+#49;native;Guapira graciliflora;Guapira graciliflora (Mart. ex Schmidt) Lundell;Guapira;Nyctaginaceae;NE;Shrub|Tree;Terrestrial
+#12;native;Guapira laxa;Guapira laxa (Netto) Furlan;Guapira;Nyctaginaceae;NE;Shrub|Tree;Terrestrial
+#07#15;native;Guapira nitida;Guapira nitida (Mart. ex J.A.Schmidt) Lundell;Guapira;Nyctaginaceae;NE;Tree;Terrestrial
+#02#03#07#09#10#14#15#18#19#21#22#23#25#26#31#33#38#39#43#44#45#52#53;native;Guapira opposita;Guapira opposita (Vell.) Reitz;Guapira;Nyctaginaceae;NE;Shrub|Tree;Terrestrial
+#04#10#15;native;Guapira pernambucensis;Guapira pernambucensis (Casar.) Lundell;Guapira;Nyctaginaceae;NE;Shrub;Terrestrial
+#01#12#19#21#36#43#51#52;native;Guarea guidonia;Guarea guidonia (L.) Sleumer;Guarea;Meliaceae;NE;Tree;Terrestrial
+#43;native;Guarea kunthiana;Guarea kunthiana A.Juss.;Guarea;Meliaceae;NE;Tree;Terrestrial
+#07#15#18#26#31#44#52;native;Guarea macrophylla;Guarea macrophylla Vahl;Guarea;Meliaceae;NE;Tree;Terrestrial
+#07#15#26#31;native;Guatteria australis;Guatteria australis A.St.-Hil.;Guatteria;Annonaceae;NE;Shrub|Tree;Terrestrial
+#28;native;Guatteria latifolia;Guatteria latifolia R.E.Fr.;Guatteria;Annonaceae;EN;Tree;Terrestrial
+#01;native;Guatteria villosissima;Guatteria villosissima A.St.-Hil.;Guatteria;Annonaceae;NE;Tree;Terrestrial
+#35;native;Guazuma ulmifolia;Guazuma ulmifolia Lam.;Guazuma;Malvaceae;NE;Tree;Terrestrial
+#27;native;Guettarda pohliana;Guettarda pohliana Müll.Arg.;Guettarda;Rubiaceae;NE;Shrub;Terrestrial
+#18;native;Guettarda uruguensis;Guettarda uruguensis Cham. & Schltdl.;Guettarda;Rubiaceae;NE;Shrub;Terrestrial
+#21;native;Gymnanthes gaudichaudii;Gymnanthes gaudichaudii Müll. Arg.;Gymnanthes;Euphorbiaceae;NE;Shrub|Tree;Terrestrial
+#18#45;native;Gymnanthes klotzschiana;Gymnanthes klotzschiana Müll.Arg.;Gymnanthes;Euphorbiaceae;NE;Shrub|Tree;Terrestrial
+#05#06;native;Handroanthus chrysotrichus;Handroanthus chrysotrichus (Mart. ex DC.) Mattos;Handroanthus;Bignoniaceae;NE;Tree;Terrestrial
+#01;native;Handroanthus ochraceus;Handroanthus ochraceus (Cham.) Mattos;Handroanthus;Bignoniaceae;NE;Tree;Terrestrial
+#52;native;Handroanthus serratifolius;Handroanthus serratifolius (Vahl) S.Grose;Handroanthus;Bignoniaceae;NE;Tree;Terrestrial
+#18#45;native;Heimia apetala;Heimia apetala (Spreng.) S.A.Graham & Gandhi;Heimia;Lythraceae;NE;Shrub|Sub-Shrub;Terrestrial
+#12#13#14;native;Henriettea succosa;Henriettea succosa (Aubl.) DC.;Henriettea;Melastomataceae;NE;Tree;Terrestrial
+#28;native;Hesperozygis myrtoides;Hesperozygis myrtoides (A.St.-Hil. ex Benth.) Epling;Hesperozygis;Lamiaceae;NE;Sub-Shrub;Terrestrial
+#19;native;Heteropsis linearis;Heteropsis linearis A.C.Sm.;Heteropsis;Araceae;NE;Vine;Hemiepiphyte
+#19;native;Heteropsis salicifolia;Heteropsis salicifolia Kunth;Heteropsis;Araceae;NE;Vine;Hemiepiphyte
+#02#03#07#15#21#25#44;native;Heteropterys nitida;Heteropterys nitida (Lam.) DC.;Heteropterys;Malpighiaceae;NE;Vine;Terrestrial
+#23;native;Hexasepalum apiculatum;Hexasepalum apiculatum (Willd.) Delprete & J.H.Kirkbr.;Hexasepalum;Rubiaceae;NE;Sub-Shrub;Terrestrial
+#04#15;native;Hexasepalum radula;Hexasepalum radula (Willd.) Delprete & J.H.Kirkbr.;Hexasepalum;Rubiaceae;NE;Sub-Shrub;Terrestrial
+#13;native;Himatanthus bracteatus;Himatanthus bracteatus (A. DC.) Woodson;Himatanthus;Apocynaceae;NE;Tree;Terrestrial
+#04#14#15#32;native;Hippocratea volubilis;Hippocratea volubilis L.;Hippocratea;Celastraceae;NE;Vine;Terrestrial
+#14;native;Hirtella ciliata;Hirtella ciliata Mart. & Zucc.;Hirtella;Chrysobalanaceae;NE;Shrub|Tree;Terrestrial
+#01;native;Hortia brasiliana;Hortia brasiliana Vand. ex DC.;Hortia;Rutaceae;NE;Shrub|Tree;Terrestrial
+#07#15;native;Huberia ovalifolia;Huberia ovalifolia DC.;Huberia;Melastomataceae;NE;Tree;Terrestrial
+#23;native;Humiria balsamifera;Humiria balsamifera (Aubl.) A.St.-Hil.;Humiria;Humiriaceae;NE;Shrub|Tree;Terrestrial
+#31;native;Hydrocotyle bonariensis;Hydrocotyle bonariensis Lam.;Hydrocotyle;Araliaceae;NE;Herb;Terrestrial
+#11;native;Hymenaea stigonocarpa;Hymenaea stigonocarpa Mart. ex Hayne;Hymenaea;Fabaceae;NE;Tree;Terrestrial
+#47;native;Hymenolobium janeirense;Hymenolobium janeirense Kuhlm.;Hymenolobium;Fabaceae;NE;Tree;Terrestrial
+#41;native;Hymenophyllum hirsutum;Hymenophyllum hirsutum (L.) Sw.;Hymenophyllum;Hymenophyllaceae;NE;Herb;Epiphyte|Rupicole
+#41;native;Hymenophyllum plumosum;Hymenophyllum plumosum Kaulf.;Hymenophyllum;Hymenophyllaceae;NE;Herb;Epiphyte|Rupicole
+#41;native;Hymenophyllum pulchellum;Hymenophyllum pulchellum Schltdl. & Cham.;Hymenophyllum;Hymenophyllaceae;NE;Herb;Epiphyte|Rupicole
+#41;native;Hymenophyllum rufum;Hymenophyllum rufum Fée;Hymenophyllum;Hymenophyllaceae;NE;Herb;Epiphyte
+#44;native;Hypochaeris chillensis;Hypochaeris chillensis (Kunth) Britton;Hypochaeris;Asteraceae;NE;Herb;Terrestrial
+#07#15;native;Hyptis lacustris;Hyptis lacustris A.St.-Hil. ex Benth.;Hyptis;Lamiaceae;NE;Herb;Terrestrial
+#17;native;Hyptis recurvata;Hyptis recurvata Poit.;Hyptis;Lamiaceae;NE;Herb;Terrestrial
+#18;native;Ilex brevicuspis;Ilex brevicuspis Reissek;Ilex;Aquifoliaceae;NE;Tree;Terrestrial
+#01;native;Ilex cerasifolia;Ilex cerasifolia Reissek;Ilex;Aquifoliaceae;NE;Shrub|Tree;Terrestrial
+#16#18;native;Ilex microdonta;Ilex microdonta Reissek;Ilex;Aquifoliaceae;NE;Shrub|Tree;Terrestrial
+#07#15;native;Ilex pseudobuxus;Ilex pseudobuxus Reissek;Ilex;Aquifoliaceae;NE;Shrub|Tree;Terrestrial
+#28;native;Ilex taubertiana;Ilex taubertiana Loes.;Ilex;Aquifoliaceae;NE;Tree;Terrestrial
+#07#15#18#40;native;Ilex theezans;Ilex theezans Mart. ex Reissek;Ilex;Aquifoliaceae;NE;Shrub|Tree;Terrestrial
+#23;native;Indigofera sabulicola;Indigofera sabulicola Benth.;Indigofera;Fabaceae;NE;Herb;Terrestrial
+#35;native;Inga acuminata;Inga acuminata Benth.;Inga;Fabaceae;NE;Tree;Terrestrial
+#43;native;Inga alba;Inga alba (Sw.) Willd.;Inga;Fabaceae;NE;Tree;Terrestrial
+#28#52;native;Inga barbata;Inga barbata Benth.;Inga;Fabaceae;NE;Tree;Terrestrial
+#14#43;native;Inga capitata;Inga capitata Desv.;Inga;Fabaceae;NE;Tree;Terrestrial
+#11;native;Inga cylindrica;Inga cylindrica (Vell.) Mart.;Inga;Fabaceae;NE;Tree;Terrestrial
+#07#12#15#17#32#43#44#47;native;Inga edulis;Inga edulis Mart.;Inga;Fabaceae;NE;Tree;Terrestrial
+#28;native;Inga gracilifolia;Inga gracilifolia Ducke;Inga;Fabaceae;NE;Tree;Terrestrial
+#17#28;native;Inga grandiflora;Inga grandiflora Ducke;Inga;Fabaceae;NE;Tree;Terrestrial
+#12;native;Inga ingoides;Inga ingoides (Rich.) Willd.;Inga;Fabaceae;NE;Tree;Terrestrial
+#52;native;Inga lanceifolia;Inga lanceifolia Benth.;Inga;Fabaceae;NE;Shrub|Tree;Terrestrial
+#15#23#53;native;Inga laurina;Inga laurina (Sw.) Willd.;Inga;Fabaceae;NE;Tree;Terrestrial
+#18#22#28#33#52;native;Inga marginata;Inga marginata Willd.;Inga;Fabaceae;NE;Tree;Terrestrial
+#02#04#15#23#25#53;native;Inga maritima;Inga maritima Benth.;Inga;Fabaceae;EN;Shrub|Tree;Terrestrial
+#07#15;native;Inga sellowiana;Inga sellowiana Benth.;Inga;Fabaceae;NE;Shrub|Tree;Terrestrial
+#52;native;Inga sessilis;Inga sessilis (Vell.) Mart.;Inga;Fabaceae;NE;Tree;Terrestrial
+#12;native;Inga striata;Inga striata Benth.;Inga;Fabaceae;NE;Tree;Terrestrial
+#14;native;Inga thibaudiana;Inga thibaudiana DC.;Inga;Fabaceae;NE;Tree;Terrestrial
+#11#27#44;native;Inga vera;Inga vera Willd.;Inga;Fabaceae;NE;Tree;Terrestrial
+#28;native;Iochroma arborescens;Iochroma arborescens (L.) J.M.H. Shaw;Iochroma;Solanaceae;NE;Shrub|Tree;Terrestrial
+#27;native;Ipomoea alba;Ipomoea alba L.;Ipomoea;Convolvulaceae;NE;Vine;Terrestrial
+#43;native;Ipomoea hederifolia;Ipomoea hederifolia L.;Ipomoea;Convolvulaceae;NE;Vine;Terrestrial
+#28;native;Jacaranda copaia;Jacaranda copaia (Aubl.) D.Don;Jacaranda;Bignoniaceae;NE;Tree;Terrestrial
+#02#15#25#44#53;native;Jacquemontia holosericea;Jacquemontia holosericea (Weinm.) O'Donell;Jacquemontia;Convolvulaceae;NE;Vine;Terrestrial
+#32;native;Janusia guaranitica;Janusia guaranitica (A.St.-Hil.) A.Juss.;Janusia;Malpighiaceae;NE;Shrub|Vine;Terrestrial
+#05;native;Joannesia princeps;Joannesia princeps Vell.;Joannesia;Euphorbiaceae;NE;Tree;Terrestrial
+#18#33;native;Justicia brasiliana;Justicia brasiliana Roth;Justicia;Acanthaceae;NE;Sub-Shrub;Terrestrial
+#12;native;Lacistema robustum;Lacistema robustum Schnizl.;Lacistema;Lacistemataceae;NE;Shrub|Tree;Terrestrial
+#43;native;Lacistema serrulatum;Lacistema serrulatum Mart.;Lacistema;Lacistemataceae;NE;Shrub|Tree;Terrestrial
+#23;native;Ladenbergia hexandra;Ladenbergia hexandra (Pohl) Klotzsch;Ladenbergia;Rubiaceae;NE;Tree;Terrestrial
+#28;native;Lamanonia ternata;Lamanonia ternata Vell.;Lamanonia;Cunoniaceae;NE;Shrub|Tree;Terrestrial
+#21#23;native;Lantana fucata;Lantana fucata Lindl.;Lantana;Verbenaceae;NE;Shrub;Terrestrial
+#18#45;native;Lantana montevidensis;Lantana montevidensis (Spreng.) Briq.;Lantana;Verbenaceae;NE;Sub-Shrub;Terrestrial
+#52;native;Lantana robusta;Lantana robusta Schauer;Lantana;Verbenaceae;NE;Shrub;Terrestrial
+#07#15;native;Lantana undulata;Lantana undulata Schrank;Lantana;Verbenaceae;NE;Shrub;Terrestrial
+#07#15;native;Laplacea fruticosa;Laplacea fruticosa (Schrad.) Kobuski;Laplacea;Theaceae;NE;Shrub|Tree;Terrestrial
+#52;native;Leandra acutiflora;Leandra acutiflora (Naudin) Cogn.;Leandra;Melastomataceae;NE;Shrub|Tree;Terrestrial
+#47;native;Leandra aurea;Leandra aurea (Cham.) Cogn.;Leandra;Melastomataceae;NE;Shrub|Tree;Terrestrial
+#18;native;Leandra australis;Leandra australis (Cham.) Cogn.;Leandra;Melastomataceae;NE;Shrub|Sub-Shrub;Terrestrial
+#19;native;Leandra capilliflora;Leandra capilliflora (Naudin) Reginato;Leandra;Melastomataceae;NE;Shrub;Terrestrial
+#18;native;Leandra carassana;Leandra carassana (DC.) Cogn.;Leandra;Melastomataceae;NE;Shrub|Tree;Terrestrial
+#28;native;Leandra hirta;Leandra hirta Raddi;Leandra;Melastomataceae;NE;Shrub;Terrestrial
+#01#19;native;Leandra melastomoides;Leandra melastomoides Raddi;Leandra;Melastomataceae;NE;Shrub|Tree;Terrestrial
+#33;native;Leandra regnellii;Leandra regnellii (Triana) Cogn.;Leandra;Melastomataceae;NE;Shrub|Tree;Terrestrial
+#28;native;Leandra sericea;Leandra sericea DC.;Leandra;Melastomataceae;NE;Shrub;Terrestrial
+#28;native;Leandra sulfurea;Leandra sulfurea (Naudin) Cogn.;Leandra;Melastomataceae;NE;Shrub|Sub-Shrub;Terrestrial
+#05#06;native;Lecythis lurida;Lecythis lurida (Miers) S.A.Mori;Lecythis;Lecythidaceae;NE;Tree;Terrestrial
+#12#43;native;Lecythis pisonis;Lecythis pisonis Cambess.;Lecythis;Lecythidaceae;NE;Tree;Terrestrial
+#02#03#15#21#23#48;native;Lepidaploa rufogrisea;Lepidaploa rufogrisea (A.St.-Hil.) H.Rob.;Lepidaploa;Asteraceae;NE;Shrub;Terrestrial
+#47;native;Licania kunthiana;Licania kunthiana Hook.f.;Licania;Chrysobalanaceae;NE;Tree;Terrestrial
+#07#15;native;Licania nitida;Licania nitida Hook.f.;Licania;Chrysobalanaceae;NE;Shrub|Tree;Terrestrial
+#52;native;Licania spicata;Licania spicata Hook.f.;Licania;Chrysobalanaceae;NE;Tree;Terrestrial
+#16#18#23#45;native;Lithraea brasiliensis;Lithraea brasiliensis Marchand;Lithraea;Anacardiaceae;NE;Shrub|Tree;Terrestrial
+#32;native;Lithraea molleoides;Lithraea molleoides (Vell.) Engl.;Lithraea;Anacardiaceae;NE;Shrub|Tree;Terrestrial
+#12;native;Lonchocarpus cultratus;Lonchocarpus cultratus (Vell.) A.M.G.Azevedo & H.C.Lima;Lonchocarpus;Fabaceae;NE;Tree;Terrestrial
+#18;native;Lonchocarpus nitidus;Lonchocarpus nitidus (Vogel) Benth.;Lonchocarpus;Fabaceae;NE;Tree;Terrestrial
+#07#15;native;Ludwigia octovalvis;Ludwigia octovalvis (Jacq.) P.H.Raven;Ludwigia;Onagraceae;NE;Shrub|Sub-Shrub;Terrestrial
+#47;native;Ludwigia peruviana;Ludwigia peruviana (L.) H.Hara;Ludwigia;Onagraceae;NE;Shrub|Sub-Shrub;Terrestrial
+#01#18#21#33#45;native;Luehea divaricata;Luehea divaricata  Mart.;Luehea;Malvaceae;NE;Tree;Terrestrial
+#06#17;native;Luehea grandiflora;Luehea grandiflora Mart.;Luehea;Malvaceae;NE;Shrub|Tree;Terrestrial
+#28;native;Luetzelburgia auriculata;Luetzelburgia auriculata (Allemão) Ducke;Luetzelburgia;Fabaceae;NE;Tree;Terrestrial
+#52;native;Lundia damazioi;Lundia damazioi C. DC.;Lundia;Bignoniaceae;NE;Vine;Terrestrial
+#07#15;native;Lundia nitidula;Lundia nitidula DC.;Lundia;Bignoniaceae;NE;Vine;Terrestrial
+#05;native;Mabea fistulifera;Mabea fistulifera Mart.;Mabea;Euphorbiaceae;NE;Shrub|Tree;Terrestrial
+#43;native;Mabea piriri;Mabea piriri Aubl.;Mabea;Euphorbiaceae;NE;Tree;Terrestrial
+#43;native;Mabea speciosa;Mabea speciosa Müll. Arg.;Mabea;Euphorbiaceae;NE;Shrub|Tree;Terrestrial
+#47;native;Machaerium brasiliense;Machaerium brasiliense Vogel;Machaerium;Fabaceae;NE;Shrub|Tree|Vine;Terrestrial
+#06;native;Machaerium fulvovenosum;Machaerium fulvovenosum H.C.Lima;Machaerium;Fabaceae;NE;Tree;Terrestrial
+#01#44;native;Machaerium hirtum;Machaerium hirtum (Vell.) Stellfeld;Machaerium;Fabaceae;NE;Tree;Terrestrial
+#23;native;Machaerium lanceolatum;Machaerium lanceolatum (Vell.) J.F.Macbr.;Machaerium;Fabaceae;NE;Vine;Terrestrial
+#44;native;Machaerium macaense;Machaerium macaense C.V. Mendonça, A.M.G. Azevedo & H.C. Lima;Machaerium;Fabaceae;EN;Tree;Terrestrial
+#28#52;native;Machaerium nyctitans;Machaerium nyctitans (Vell.) Benth.;Machaerium;Fabaceae;NE;Tree;Terrestrial
+#52;native;Machaerium oblongifolium;Machaerium oblongifolium Vogel;Machaerium;Fabaceae;NE;Vine;Terrestrial
+#47;native;Machaerium ovalifolium;Machaerium ovalifolium Glaz. ex Rudd;Machaerium;Fabaceae;NE;Tree;Terrestrial
+#33;native;Machaerium paraguariense;Machaerium paraguariense Hassl.;Machaerium;Fabaceae;NE;Tree;Terrestrial
+#18#22;native;Machaerium stipitatum;Machaerium stipitatum Vogel;Machaerium;Fabaceae;NE;Tree;Terrestrial
+#07#15;native;Machaerium uncinatum;Machaerium uncinatum (Vell.) Benth.;Machaerium;Fabaceae;NE;Shrub|Vine;Terrestrial
+#06#44#51;native;Maclura tinctoria;Maclura tinctoria (L.) D.Don ex Steud.;Maclura;Moraceae;NE;Shrub|Tree;Terrestrial
+#28;native;Maieta guianensis;Maieta guianensis Aubl.;Maieta;Melastomataceae;NE;Shrub;Terrestrial
+#19;native;Malanea macrophylla;Malanea macrophylla Bartl. ex Griseb.;Malanea;Rubiaceae;NE;Vine;Terrestrial
+#44;native;Manihot caerulescens;Manihot caerulescens Pohl;Manihot;Euphorbiaceae;NE;Shrub|Tree;Terrestrial
+#28#44;native;Manihot esculenta;Manihot esculenta Crantz;Manihot;Euphorbiaceae;NE;Shrub;Terrestrial
+#02#03#04#09#10#15#23#25#34#44#53;native;Manilkara subsericea;Manilkara subsericea (Mart.) Dubard;Manilkara;Sapotaceae;NE;Shrub|Tree;Terrestrial
+#43;native;Mansoa angustidens;Mansoa angustidens (DC.) Bureau & K.Schum.;Mansoa;Bignoniaceae;NE;Vine;Terrestrial
+#28;native;Mansoa difficilis;Mansoa difficilis (Cham.) Bureau & K.Schum.;Mansoa;Bignoniaceae;NE;Vine;Terrestrial
+#15;native;Maprounea guianensis;Maprounea guianensis Aubl.;Maprounea;Euphorbiaceae;NE;Tree;Terrestrial
+#07#15;native;Marsypianthes chamaedrys;Marsypianthes chamaedrys (Vahl) Kuntze;Marsypianthes;Lamiaceae;NE;Herb|Sub-Shrub;Terrestrial
+#24;native;Martinella obovata;Martinella obovata (Kunth) Bureau & K.Schum.;Martinella;Bignoniaceae;NE;Vine;Terrestrial
+#18;native;Matayba elaeagnoides;Matayba elaeagnoides Radlk.;Matayba;Sapindaceae;NE;Shrub|Tree;Terrestrial
+#01#07#15#21#44;native;Matayba guianensis;Matayba guianensis Aubl.;Matayba;Sapindaceae;NE;Shrub|Tree;Terrestrial
+#35;native;Meliosma sellowii;Meliosma sellowii Urb.;Meliosma;Sabiaceae;NE;Tree;Terrestrial
+#28;native;Mendoncia hoffmannseggiana;Mendoncia hoffmannseggiana Nees;Mendoncia;Acanthaceae;NE;Vine;Terrestrial
+#18;native;Mendoncia puberula;Mendoncia puberula Mart.;Mendoncia;Acanthaceae;NE;Vine;Terrestrial
+#52;native;Mendoncia velloziana;Mendoncia velloziana Mart.;Mendoncia;Acanthaceae;NE;Vine;Terrestrial
+#52;native;Meriania paniculata;Meriania paniculata (DC.) Triana;Meriania;Melastomataceae;NE;Tree;Terrestrial
+#49;native;Metrodorea maracasana;Metrodorea maracasana Kaastra;Metrodorea;Rutaceae;VU;Shrub|Tree;Terrestrial
+#52;native;Miconia buddlejoides;Miconia buddlejoides Triana;Miconia;Melastomataceae;NE;Tree;Terrestrial
+#28;native;Miconia ceramicarpa;Miconia ceramicarpa (DC.) Cogn.;Miconia;Melastomataceae;NE;Shrub;Terrestrial
+#28;native;Miconia chrysophylla;Miconia chrysophylla (Rich.) Urb.;Miconia;Melastomataceae;NE;Shrub|Tree;Terrestrial
+#18;native;Miconia cinerascens;Miconia cinerascens Miq.;Miconia;Melastomataceae;NE;Tree;Terrestrial
+#02#03#14#15#21#23#34#44;native;Miconia cinnamomifolia;Miconia cinnamomifolia (DC.) Naudin;Miconia;Melastomataceae;NE;Shrub|Tree;Terrestrial
+#13;native;Miconia compressa;Miconia compressa Naudin;Miconia;Melastomataceae;NE;Shrub;Terrestrial
+#01;native;Miconia corallina;Miconia corallina Spring;Miconia;Melastomataceae;NE;Tree;Terrestrial
+#28#47;native;Miconia cuspidata;Miconia cuspidata Naudin;Miconia;Melastomataceae;NE;Tree;Terrestrial
+#07#15#52;native;Miconia fasciculata;Miconia fasciculata Gardner;Miconia;Melastomataceae;NE;Tree;Terrestrial
+#01;native;Miconia flammea;Miconia flammea Casar.;Miconia;Melastomataceae;NE;Tree;Terrestrial
+#16#18#45;native;Miconia hyemalis;Miconia hyemalis A.St.-Hil. & Naudin;Miconia;Melastomataceae;NE;Shrub|Tree;Terrestrial
+#14;native;Miconia hypoleuca;Miconia hypoleuca (Benth.) Triana;Miconia;Melastomataceae;NE;Tree;Terrestrial
+#17;native;Miconia ligustroides;Miconia ligustroides (DC.) Naudin;Miconia;Melastomataceae;NE;Shrub|Tree;Terrestrial
+#28;native;Miconia myriantha;Miconia myriantha Benth.;Miconia;Melastomataceae;NE;Shrub|Tree;Terrestrial
+#52;native;Miconia paniculata;Miconia paniculata (DC.) Naudin;Miconia;Melastomataceae;NE;Shrub|Tree;Terrestrial
+#28;native;Miconia paucidens;Miconia paucidens DC.;Miconia;Melastomataceae;NE;Shrub|Tree;Terrestrial
+#08#13#14#43;native;Miconia prasina;Miconia prasina (Sw.) DC.;Miconia;Melastomataceae;NE;Shrub|Tree;Terrestrial
+#07#15#16#26#28#31#43#45;native;Miconia pusilliflora;Miconia pusilliflora (DC.) Naudin;Miconia;Melastomataceae;NE;Shrub|Tree;Terrestrial
+#19;native;Miconia pyrifolia;Miconia pyrifolia Naudin;Miconia;Melastomataceae;NE;Tree;Terrestrial
+#40;native;Miconia sellowiana;Miconia sellowiana Naudin;Miconia;Melastomataceae;NE;Shrub|Tree;Terrestrial
+#36;native;Miconia stenostachya;Miconia stenostachya DC.;Miconia;Melastomataceae;NE;Shrub;Terrestrial
+#28;native;Miconia urophylla;Miconia urophylla DC.;Miconia;Melastomataceae;NE;Shrub|Tree;Terrestrial
+#18#30;native;Microgramma squamulosa;Microgramma squamulosa (Kaulf.) de la Sota;Microgramma;Polypodiaceae;NE;Herb;Epiphyte|Rupicole
+#15#30#44#53;native;Microgramma vacciniifolia;Microgramma vacciniifolia (Langsd. & Fisch.) Copel.;Microgramma;Polypodiaceae;NE;Herb;Epiphyte
+#02#03#15#23#34#44#53;native;Microstachys corniculata;Microstachys corniculata (Vahl) Griseb.;Microstachys;Euphorbiaceae;NE;Sub-Shrub;Terrestrial
+#40;native;Microstachys serrulata;Microstachys serrulata (Mart.) F.Dietr;Microstachys;Euphorbiaceae;NE;Herb|Sub-Shrub;Terrestrial
+#07#15#21#48;native;Mikania argyreiae;Mikania argyreiae DC.;Mikania;Asteraceae;VU;Vine;Terrestrial
+#21;native;Mikania biformis;Mikania biformis DC.;Mikania;Asteraceae;NE;Vine;Terrestrial
+#28;native;Mikania buddleiaefolia;Mikania buddleiaefolia DC.;Mikania;Asteraceae;NE;Vine;Terrestrial
+#18;native;Mikania burchellii;Mikania burchellii Baker;Mikania;Asteraceae;NE;Vine;Terrestrial
+#16#18;native;Mikania campanulata;Mikania campanulata Gardner;Mikania;Asteraceae;NE;Vine;Terrestrial
+#01;native;Mikania campos-portoana;Mikania campos-portoana G.M.Barroso;Mikania;Asteraceae;EN;Vine;Terrestrial
+#14;native;Mikania duckei;Mikania duckei G.M.Barroso;Mikania;Asteraceae;NE;Vine;Terrestrial
+#43;native;Mikania gleasonii;Mikania gleasonii B.L.Rob.;Mikania;Asteraceae;NE;Vine;Terrestrial
+#04#15#18#28#33#34#38#42#43#44#45#48;native;Mikania glomerata;Mikania glomerata Spreng.;Mikania;Asteraceae;NE;Vine;Terrestrial
+#45;native;Mikania hastato-cordata;Mikania hastato-cordata Malme;Mikania;Asteraceae;VU;Vine;Terrestrial
+#01#28#52;native;Mikania hirsutissima;Mikania hirsutissima DC.;Mikania;Asteraceae;NE;Vine;Terrestrial
+#02#15#23#48#53;native;Mikania hoehnei;Mikania hoehnei B.L.Rob.;Mikania;Asteraceae;NE;Vine;Terrestrial
+#07#15#18#48;native;Mikania involucrata;Mikania involucrata Hook. & Arn.;Mikania;Asteraceae;NE;Vine;Terrestrial
+#18;native;Mikania laevigata;Mikania laevigata Sch.Bip. ex Baker;Mikania;Asteraceae;NE;Vine;Terrestrial
+#28;native;Mikania lasiandrae;Mikania lasiandrae DC.;Mikania;Asteraceae;NE;Vine;Terrestrial
+#28;native;Mikania lindbergii;Mikania lindbergii Baker;Mikania;Asteraceae;NE;Vine;Terrestrial
+#21#28#33#44;native;Mikania micrantha;Mikania micrantha Kunth;Mikania;Asteraceae;NE;Vine;Terrestrial
+#16;native;Mikania paranensis;Mikania paranensis Dusén;Mikania;Asteraceae;NE;Vine;Terrestrial
+#28#48;native;Mikania periplocifolia;Mikania periplocifolia Hook. & Arn.;Mikania;Asteraceae;NE;Vine;Terrestrial
+#43;native;Mikania pilosa;Mikania pilosa Baker;Mikania;Asteraceae;NE;Vine;Terrestrial
+#28#48;native;Mikania pseudohoffmanniana;Mikania pseudohoffmanniana G.M.Barroso;Mikania;Asteraceae;NE;Vine;Terrestrial
+#28;native;Mikania setigera;Mikania setigera Sch. Bip. ex Baker;Mikania;Asteraceae;NE;Vine;Terrestrial
+#07#15#33;native;Mikania ternata;Mikania ternata (Vell.) B.L.Rob.;Mikania;Asteraceae;NE;Vine;Terrestrial
+#26#31#44;native;Mikania trinervis;Mikania trinervis Hook. & Arn.;Mikania;Asteraceae;NE;Vine;Terrestrial
+#04#15;native;Mimosa bimucronata;Mimosa bimucronata (DC.) Kuntze;Mimosa;Fabaceae;NE;Shrub|Tree;Terrestrial
+#28;native;Mimosa candollei;Mimosa candollei R.Grether;Mimosa;Fabaceae;NE;Herb;Terrestrial
+#18;native;Mimosa incana;Mimosa incana Benth.;Mimosa;Fabaceae;NE;Shrub;Terrestrial
+#28;native;Mimosa itatiaiensis;Mimosa itatiaiensis Dusén;Mimosa;Fabaceae;EN;Shrub|Sub-Shrub;Terrestrial
+#28;native;Mimosa melanocarpa;Mimosa melanocarpa Benth.;Mimosa;Fabaceae;NE;Shrub;Terrestrial
+#16#18;native;Mimosa scabrella;Mimosa scabrella Benth.;Mimosa;Fabaceae;NE;Tree;Terrestrial
+#22;native;Mollinedia clavigera;Mollinedia clavigera Tul.;Mollinedia;Monimiaceae;NE;Tree;Terrestrial
+#33;native;Mollinedia elegans;Mollinedia elegans Tul.;Mollinedia;Monimiaceae;NE;Shrub|Tree;Terrestrial
+#52;native;Mollinedia glabra;Mollinedia glabra (Spreng.) Perkins;Mollinedia;Monimiaceae;NE;Shrub|Tree;Terrestrial
+#12;native;Mollinedia ovata;Mollinedia ovata Ruiz & Pav.;Mollinedia;Monimiaceae;NE;Shrub|Tree;Terrestrial
+#18#33#52;native;Mollinedia schottiana;Mollinedia schottiana (Spreng.) Perkins;Mollinedia;Monimiaceae;NE;Shrub|Tree;Terrestrial
+#18;native;Monteverdia aquifolium;Monteverdia aquifolium (Mart.) Biral;Monteverdia;Celastraceae;NE;Shrub|Tree;Terrestrial
+#01#07#15#26#31;native;Monteverdia gonoclada;Monteverdia gonoclada (Mart.) Biral;Monteverdia;Celastraceae;NE;Shrub|Tree;Terrestrial
+#02#03#04#15#21#23#25#34#44#53;native;Monteverdia obtusifolia;Monteverdia obtusifolia (Mart.) Biral;Monteverdia;Celastraceae;NE;Shrub|Tree;Terrestrial
+#11;native;Moquilea tomentosa;Moquilea tomentosa Benth.;Moquilea;Chrysobalanaceae;NE;Tree;Terrestrial
+#48;native;Moquiniastrum paniculatum;Moquiniastrum paniculatum (Less.) G. Sancho;Moquiniastrum;Asteraceae;NE;Shrub;Terrestrial
+#18#32#33#45;native;Moquiniastrum polymorphum;Moquiniastrum polymorphum (Less.) G. Sancho;Moquiniastrum;Asteraceae;NE;Tree;Terrestrial
+#36;native;Moquiniastrum pulchrum;Moquiniastrum pulchrum (Cabrera) G.Sancho;Moquiniastrum;Asteraceae;NE;Shrub;Terrestrial
+#18;native;Muellera campestris;Muellera campestris (Mart. ex Benth.) M.J. Silva & A.M.G. Azevedo;Muellera;Fabaceae;NE;Tree;Terrestrial
+#16;native;Myrceugenia euosma;Myrceugenia euosma (O.Berg) D.Legrand;Myrceugenia;Myrtaceae;NE;Tree;Terrestrial
+#16#18;native;Myrceugenia mesomischa;Myrceugenia mesomischa (Burret) D.Legrand & Kausel;Myrceugenia;Myrtaceae;NE;Tree;Terrestrial
+#16#18;native;Myrceugenia miersiana;Myrceugenia miersiana (Gardner) D.Legrand & Kausel;Myrceugenia;Myrtaceae;NE;Tree;Terrestrial
+#16;native;Myrceugenia myrcioides;Myrceugenia myrcioides (Cambess.) O.Berg;Myrceugenia;Myrtaceae;NE;Tree;Terrestrial
+#16;native;Myrceugenia oxysepala;Myrceugenia oxysepala (Burret) D.Legrand & Kausel;Myrceugenia;Myrtaceae;NE;Shrub|Tree;Terrestrial
+#03#15#34#37;native;Myrcia amazonica;Myrcia amazonica DC.;Myrcia;Myrtaceae;NE;Shrub|Tree;Terrestrial
+#36;native;Myrcia bella;Myrcia bella Cambess.;Myrcia;Myrtaceae;NE;Shrub|Tree;Terrestrial
+#07#15#31#37#53;native;Myrcia brasiliensis;Myrcia brasiliensis Kiaersk.;Myrcia;Myrtaceae;NE;Tree;Terrestrial
+#28;native;Myrcia fenzliana;Myrcia fenzliana O.Berg;Myrcia;Myrtaceae;NE;Tree;Terrestrial
+#14#16#18;native;Myrcia glomerata;Myrcia glomerata (Cambess.) G.P.Burton & E.Lucas;Myrcia;Myrtaceae;NE;Tree;Terrestrial
+#16#18;native;Myrcia guianensis;Myrcia guianensis (Aubl.) DC.;Myrcia;Myrtaceae;NE;Shrub|Tree|Sub-Shrub;Terrestrial
+#16#18;native;Myrcia hartwegiana;Myrcia hartwegiana (O.Berg) Kiaersk.;Myrcia;Myrtaceae;NE;Tree;Terrestrial
+#07#15#37#53;native;Myrcia ilheosensis;Myrcia ilheosensis Kiaersk.;Myrcia;Myrtaceae;NE;Shrub|Tree;Terrestrial
+#21#37;native;Myrcia loranthifolia;Myrcia loranthifolia (DC.) G.P.Burton & E.Lucas;Myrcia;Myrtaceae;NE;Shrub|Tree;Terrestrial
+#15;native;Myrcia macrocarpa;Myrcia macrocarpa DC.;Myrcia;Myrtaceae;NE;Tree;Terrestrial
+#01#07#15#37#40;native;Myrcia multiflora;Myrcia multiflora (Lam.) DC.;Myrcia;Myrtaceae;NE;Shrub|Tree;Terrestrial
+#02#15#19#23#34#37#44#53;native;Myrcia ovata;Myrcia ovata Cambess.;Myrcia;Myrtaceae;NE;Tree;Terrestrial
+#07#15#16#18#37;native;Myrcia palustris;Myrcia palustris DC.;Myrcia;Myrtaceae;NE;Tree;Terrestrial
+#18#20;native;Myrcia pubipetala;Myrcia pubipetala Miq.;Myrcia;Myrtaceae;NE;Tree;Terrestrial
+#21#37;native;Myrcia racemosa;Myrcia racemosa (O.Berg) Kiaersk.;Myrcia;Myrtaceae;NE;Shrub|Tree;Terrestrial
+#06#16#18;native;Myrcia retorta;Myrcia retorta Cambess.;Myrcia;Myrtaceae;NE;Tree;Terrestrial
+#50;native;Myrcia selloi;Myrcia selloi (Spreng.) N.Silveira;Myrcia;Myrtaceae;NE;Shrub|Tree;Terrestrial
+#07#11#13#15#17#20#21#28#32#37#43#47;native;Myrcia splendens;Myrcia splendens (Sw.) DC.;Myrcia;Myrtaceae;NE;Tree;Terrestrial
+#01#26#31;native;Myrcia subcordata;Myrcia subcordata DC.;Myrcia;Myrtaceae;NE;Shrub|Tree|Sub-Shrub;Terrestrial
+#12#14#17#28;native;Myrcia sylvatica;Myrcia sylvatica (G.Mey.) DC.;Myrcia;Myrtaceae;NE;Tree;Terrestrial
+#17;native;Myrcia tomentosa;Myrcia tomentosa (Aubl.) DC.;Myrcia;Myrtaceae;NE;Shrub|Tree;Terrestrial
+#45;native;Myrcianthes gigantea;Myrcianthes gigantea (D.Legrand) D.Legrand;Myrcianthes;Myrtaceae;NE;Tree;Terrestrial
+#33;native;Myrcianthes pungens;Myrcianthes pungens (O.Berg) D.Legrand;Myrcianthes;Myrtaceae;NE;Tree;Terrestrial
+#18;native;Myrciaria cuspidata;Myrciaria cuspidata O.Berg;Myrciaria;Myrtaceae;NE;Tree;Terrestrial
+#18#44;native;Myrciaria delicatula;Myrciaria delicatula (DC.) O.Berg;Myrciaria;Myrtaceae;NE;Tree;Terrestrial
+#52;native;Myrciaria disticha;Myrciaria disticha O.Berg;Myrciaria;Myrtaceae;NE;Tree;Terrestrial
+#02#03#10#15#17#19#23#34#37#42#44#53;native;Myrciaria floribunda;Myrciaria floribunda (H.West ex Willd.) O.Berg;Myrciaria;Myrtaceae;NE;Tree;Terrestrial
+#23#37;native;Myrciaria tenella;Myrciaria tenella (DC.) O.Berg;Myrciaria;Myrtaceae;NE;Tree;Terrestrial
+#43;native;Myriopus candidulus;Myriopus candidulus (Miers) Feuillet;Myriopus;Heliotropiaceae;NE;Shrub|Vine|Sub-Shrub;Terrestrial
+#23;native;Myriopus villosus;Myriopus villosus (Salzm. ex DC.) J.I.M.Melo;Myriopus;Heliotropiaceae;NE;Shrub|Vine;Terrestrial
+#52;native;Myrocarpus frondosus;Myrocarpus frondosus Allemão;Myrocarpus;Fabaceae;NE;Tree;Terrestrial
+#43;native;Myroxylon peruiferum;Myroxylon peruiferum L.f.;Myroxylon;Fabaceae;NE;Tree;Terrestrial
+#07#15#16#18#28#32#33#45#47;native;Myrsine coriacea;Myrsine coriacea (Sw.) R.Br. ex Roem. & Schult.;Myrsine;Primulaceae;NE;Shrub|Tree;Terrestrial
+#45;native;Myrsine laetevirens;Myrsine laetevirens (Mez) Arechav.;Myrsine;Primulaceae;NE;Tree;Terrestrial
+#28;native;Myrsine lineata;Myrsine lineata (Mez) Imkhan.;Myrsine;Primulaceae;NE;Tree;Terrestrial
+#02#03#15#18#23#53;native;Myrsine parvifolia;Myrsine parvifolia A.DC.;Myrsine;Primulaceae;NE;Shrub;Terrestrial
+#16#18#28;native;Myrsine parvula;Myrsine parvula (Mez) Otegui;Myrsine;Primulaceae;NE;Tree;Terrestrial
+#18#32#33#45;native;Myrsine umbellata;Myrsine umbellata Mart.;Myrsine;Primulaceae;NE;Tree;Terrestrial
+#11#14;native;Nectandra cuspidata;Nectandra cuspidata Nees;Nectandra;Lauraceae;NE;Tree;Terrestrial
+#16#26#31#32;native;Nectandra grandiflora;Nectandra grandiflora Nees & Mart;Nectandra;Lauraceae;NE;Tree;Terrestrial
+#18#33;native;Nectandra megapotamica;Nectandra megapotamica (Spreng.) Mez;Nectandra;Lauraceae;NE;Tree;Terrestrial
+#26#28#31;native;Nectandra membranacea;Nectandra membranacea (Sw.) Griseb.;Nectandra;Lauraceae;NE;Tree;Terrestrial
+#07#15#26#40;native;Nectandra oppositifolia;Nectandra oppositifolia Nees & Mart.;Nectandra;Lauraceae;NE;Tree;Terrestrial
+#28;native;Neea oppositifolia;Neea oppositifolia Ruiz & Pav.;Neea;Nyctaginaceae;NE;Shrub|Tree;Terrestrial
+#52;native;Nematanthus crassifolius;Nematanthus crassifolius (Schott) Wiehler;Nematanthus;Gesneriaceae;NE;Sub-Shrub;Epiphyte
+#07#15;native;Nematanthus fritschii;Nematanthus fritschii Hoehne;Nematanthus;Gesneriaceae;NE;Sub-Shrub;Epiphyte
+#02#03#10#15#23#25#34#37#44#53;native;Neomitranthes obscura;Neomitranthes obscura (DC.) N.Silveira;Neomitranthes;Myrtaceae;NE;Tree;Terrestrial
+#19;native;Neoregelia ampullacea;Neoregelia ampullacea (E.Morren) L.B.Sm.;Neoregelia;Bromeliaceae;NE;Herb;Epiphyte
+#28;native;Niedenzuella acutifolia;Niedenzuella acutifolia (Cav.) W.R.Anderson;Niedenzuella;Malpighiaceae;NE;Vine;Terrestrial
+#32;native;Niedenzuella multiglandulosa;Niedenzuella multiglandulosa (A.Juss.) W.R.Anderson;Niedenzuella;Malpighiaceae;NE;Vine;Terrestrial
+#52;native;Niedenzuella poeppigiana;Niedenzuella poeppigiana (A.Juss.) W.R.Anderson;Niedenzuella;Malpighiaceae;NE;Vine;Terrestrial
+#28#30#41#52;native;Niphidium crassifolium;Niphidium crassifolium (L.) Lellinger;Niphidium;Polypodiaceae;NE;Herb;Epiphyte|Rupicole
+#45;native;Ocimum carnosum;Ocimum carnosum (Spreng.) Link & Otto ex Benth.;Ocimum;Lamiaceae;NE;Herb|Sub-Shrub;Terrestrial
+#15;native;Ocotea aciphylla;Ocotea aciphylla (Nees & Mart.) Mez;Ocotea;Lauraceae;NE;Tree;Terrestrial
+#26#31;native;Ocotea catharinensis;Ocotea catharinensis Mez;Ocotea;Lauraceae;VU;Tree;Terrestrial
+#17#20;native;Ocotea cernua;Ocotea cernua (Nees) Mez;Ocotea;Lauraceae;NE;Tree;Terrestrial
+#16;native;Ocotea corymbosa;Ocotea corymbosa (Meisn.) Mez;Ocotea;Lauraceae;NE;Tree;Terrestrial
+#01;native;Ocotea dispersa;Ocotea dispersa (Nees & Mart.) Mez;Ocotea;Lauraceae;NE;Tree;Terrestrial
+#14;native;Ocotea glomerata;Ocotea glomerata (Nees) Mez;Ocotea;Lauraceae;NE;Tree;Terrestrial
+#35;native;Ocotea indecora;Ocotea indecora (Schott) Mez;Ocotea;Lauraceae;NE;Shrub|Tree;Terrestrial
+#07#15;native;Ocotea lobbii;Ocotea lobbii (Meisn.) Rohwer;Ocotea;Lauraceae;NE;Shrub|Tree;Terrestrial
+#14;native;Ocotea longifolia;Ocotea longifolia Kunth;Ocotea;Lauraceae;NE;Shrub|Tree;Terrestrial
+#01;native;Ocotea macropoda;Ocotea macropoda (Kunth) Mez;Ocotea;Lauraceae;NE;Tree;Terrestrial
+#02#03#10#15#21#23#44#53;native;Ocotea notata;Ocotea notata (Nees & Mart.) Mez;Ocotea;Lauraceae;NE;Shrub|Tree;Terrestrial
+#18#33;native;Ocotea puberula;Ocotea puberula (Rich.) Nees;Ocotea;Lauraceae;NE;Tree;Terrestrial
+#07#15#18#23#26#31#40#44;native;Ocotea pulchella;Ocotea pulchella (Nees & Mart.) Mez;Ocotea;Lauraceae;NE;Tree;Terrestrial
+#15;native;Ocotea teleiandra;Ocotea teleiandra (Meisn.) Mez;Ocotea;Lauraceae;NE;Tree;Terrestrial
+#03#15;native;Ormosia arborea;Ormosia arborea (Vell.) Harms;Ormosia;Fabaceae;NE;Tree;Terrestrial
+#02#03#04#09#10#15#21#23#25#53;native;Ouratea cuspidata;Ouratea cuspidata (A.St.-Hil.) Engl.;Ouratea;Ochnaceae;NE;Tree;Terrestrial
+#35;native;Ouratea stipulata;Ouratea stipulata (Vell.) Engl.;Ouratea;Ochnaceae;NE;Shrub|Tree;Terrestrial
+#03#15#23#32;native;Oxypetalum banksii;Oxypetalum banksii R.Br. ex Schult.;Oxypetalum;Apocynaceae;NE;Vine;Terrestrial
+#28;native;Pachystroma longifolium;Pachystroma longifolium (Nees) I.M.Johnst.;Pachystroma;Euphorbiaceae;NE;Tree;Terrestrial
+#13#14;native;Palicourea crocea;Palicourea crocea (Sw.) Roem. & Schult.;Palicourea;Rubiaceae;NE;Shrub;Aquatic|Terrestrial
+#19;native;Palicourea guianensis;Palicourea guianensis Aubl.;Palicourea;Rubiaceae;NE;Shrub|Tree;Terrestrial
+#07#12#15#29;native;Palicourea hoffmannseggiana;Palicourea hoffmannseggiana (Schult.) Borhidi;Palicourea;Rubiaceae;NE;Shrub;Terrestrial
+#17;native;Palicourea rigida;Palicourea rigida Kunth;Palicourea;Rubiaceae;NE;Shrub|Sub-Shrub;Rupicole|Terrestrial
+#12#19#52;native;Palicourea sessilis ;Palicourea sessilis (Vell.) C.M.Taylor;Palicourea;Rubiaceae;NE;Shrub;Terrestrial
+#01#47;native;Palicourea tetraphylla;Palicourea tetraphylla Cham. & Schltdl.;Palicourea;Rubiaceae;NE;Shrub;Rupicole
+#01;native;Palicourea triphylla;Palicourea triphylla DC.;Palicourea;Rubiaceae;NE;Shrub|Sub-Shrub;Terrestrial
+#39#44;native;Paspalum conjugatum;Paspalum conjugatum P.J.Bergius;Paspalum;Poaceae;NE;Herb;Terrestrial
+#07#15;native;Paspalum maritimum;Paspalum maritimum Trin.;Paspalum;Poaceae;NE;Herb;Terrestrial
+#02#03#15#23;native;Passiflora mucronata;Passiflora mucronata Lam.;Passiflora;Passifloraceae;NE;Vine;Terrestrial
+#23;native;Passiflora pentagona;Passiflora pentagona Mast.;Passiflora;Passifloraceae;NE;Vine;Terrestrial
+#32;native;Passiflora pohlii;Passiflora pohlii Mast.;Passiflora;Passifloraceae;NE;Vine;Terrestrial
+#52;native;Paullinia carpopoda;Paullinia carpopoda Cambess.;Paullinia;Sapindaceae;NE;Vine;Terrestrial
+#07#15;native;Paullinia micrantha;Paullinia micrantha Cambess.;Paullinia;Sapindaceae;NE;Vine;Terrestrial
+#12#14#51;native;Paullinia pinnata;Paullinia pinnata L.;Paullinia;Sapindaceae;NE;Vine;Terrestrial
+#23#51;native;Paullinia pseudota;Paullinia pseudota Radlk.;Paullinia;Sapindaceae;NE;Shrub|Vine;Terrestrial
+#01;native;Paullinia rubiginosa;Paullinia rubiginosa Cambess.;Paullinia;Sapindaceae;NE;Vine;Terrestrial
+#12#13#26#31;native;Paullinia trigonia;Paullinia trigonia Vell.;Paullinia;Sapindaceae;NE;Vine;Terrestrial
+#02#03#15#23#34#44#53;native;Paullinia weinmanniifolia;Paullinia weinmanniifolia Mart.;Paullinia;Sapindaceae;NE;Shrub|Vine;Terrestrial
+#18;native;Pavonia arechavaletana;Pavonia arechavaletana Krapov. & Fryxell;Pavonia;Malvaceae;NE;Shrub;Terrestrial
+#18;native;Pavonia communis;Pavonia communis A.St.-Hil.;Pavonia;Malvaceae;NE;Shrub|Sub-Shrub;Terrestrial
+#19;native;Pavonia makoyana;Pavonia makoyana E. Morren;Pavonia;Malvaceae;NE;Shrub|Tree;Terrestrial
+#12;native;Paypayrola blanchetiana;Paypayrola blanchetiana Tul.;Paypayrola;Violaceae;NE;Shrub|Tree;Terrestrial
+#16#28;native;Pentacalia desiderabilis;Pentacalia desiderabilis (Vell.) Cuatrec.;Pentacalia;Asteraceae;NE;Vine;Terrestrial
+#07#15;native;Peperomia glabella;Peperomia glabella (Sw.) A.Dietr.;Peperomia;Piperaceae;NE;Herb;Epiphyte
+#02#03#15#44#53;native;Peplonia asteria;Peplonia asteria (Vell.) Fontella & E.A.Schwarz;Peplonia;Apocynaceae;NE;Vine;Terrestrial
+#07#15#23#32;native;Pera glabrata;Pera glabrata (Schott) Baill.;Pera;Peraceae;NE;Shrub|Tree;Terrestrial
+#32;native;Persea willdenovii;Persea willdenovii Kosterm.;Persea;Lauraceae;NE;Tree;Terrestrial
+#07#15#42;native;Philodendron appendiculatum;Philodendron appendiculatum Nadruz & Mayo;Philodendron;Araceae;NE;Herb;Hemiepiphyte
+#28;native;Philodendron cordatum;Philodendron cordatum Kunth ex Schott;Philodendron;Araceae;NE;Herb;Hemiepiphyte|Rupicole
+#08;native;Philodendron imbe;Philodendron imbe Schott ex Kunth.;Philodendron;Araceae;NE;Vine;Hemiepiphyte
+#52;native;Philodendron propinquum;Philodendron propinquum Schott;Philodendron;Araceae;NE;Herb;Hemiepiphyte
+#52;native;Philodendron roseopetiolatum;Philodendron roseopetiolatum Nadruz & Mayo;Philodendron;Araceae;NE;Herb|Vine;Hemiepiphyte
+#28;native;Philodendron rudgeanum;Philodendron rudgeanum Schott;Philodendron;Araceae;NE;Vine;Hemiepiphyte
+#26#31;native;Philodendron surinamense;Philodendron surinamense (Miq.) Engl.;Philodendron;Araceae;NE;Herb|Vine;Hemiepiphyte
+#15#53;native;Phoradendron piperoides;Phoradendron piperoides (Kunth) Trel.;Phoradendron;Santalaceae;NE;Herb;Hemiparasite
+#23;native;Phoradendron quadrangulare;Phoradendron quadrangulare (Kunth) Griseb.;Phoradendron;Santalaceae;NE;Herb;Hemiparasite
+#28;native;Phyllostemonodaphne geminiflora;Phyllostemonodaphne geminiflora (Mez) Kosterm.;Phyllostemonodaphne;Lauraceae;NE;Tree;Terrestrial
+#07#15;native;Picramnia gardneri;Picramnia gardneri Planch.;Picramnia;Picramniaceae;NE;Shrub|Tree;Terrestrial
+#52;native;Picramnia glazioviana;Picramnia glazioviana Engl.;Picramnia;Picramniaceae;NE;Shrub|Tree;Terrestrial
+#19;native;Picrolemma sprucei;Picrolemma sprucei Hook.f.;Picrolemma;Simaroubaceae;NE;Shrub|Tree;Terrestrial
+#49;native;Pilocarpus spicatus;Pilocarpus spicatus A.St.-Hil.;Pilocarpus;Rutaceae;NE;Shrub|Tree;Terrestrial
+#01#14#18#28#33#43;native;Piper aduncum;Piper aduncum L.;Piper;Piperaceae;NE;Shrub|Tree;Terrestrial
+#04#15#35;native;Piper amalago;Piper amalago L.;Piper;Piperaceae;NE;Shrub;Terrestrial
+#52;native;Piper anisum;Piper anisum (Spreng.) Angely;Piper;Piperaceae;NE;Sub-Shrub;Terrestrial
+#07#11#15#19#28#52;native;Piper arboreum;Piper arboreum Aubl.;Piper;Piperaceae;NE;Shrub;Terrestrial
+#52;native;Piper cernuum;Piper cernuum Vell.;Piper;Piperaceae;NE;Shrub;Terrestrial
+#28;native;Piper chimonanthifolium;Piper chimonanthifolium Kunth;Piper;Piperaceae;NE;Shrub;Terrestrial
+#02#15;native;Piper divaricatum;Piper divaricatum G.Mey.;Piper;Piperaceae;NE;Shrub;Terrestrial
+#28;native;Piper marginatum;Piper marginatum Jacq.;Piper;Piperaceae;NE;Shrub;Terrestrial
+#18#33;native;Piper mikanianum;Piper mikanianum (Kunth) Steud.;Piper;Piperaceae;NE;Shrub;Terrestrial
+#19;native;Piper mollicomum;Piper mollicomum Kunth;Piper;Piperaceae;NE;Shrub;Terrestrial
+#19#52;native;Piper pseudopothifolium;Piper pseudopothifolium C.DC.;Piper;Piperaceae;NE;Shrub;Terrestrial
+#28;native;Piper richardiifolium;Piper richardiifolium Kunth;Piper;Piperaceae;NE;Shrub;Terrestrial
+#52;native;Piper rioense;Piper rioense Yunck.;Piper;Piperaceae;EN;Shrub;Terrestrial
+#26#31;native;Piper solmsianum;Piper solmsianum C.DC.;Piper;Piperaceae;NE;Shrub;Terrestrial
+#52;native;Piper sprengelianum;Piper sprengelianum C.DC.;Piper;Piperaceae;NE;Shrub;Terrestrial
+#28#43;native;Piper tuberculatum;Piper tuberculatum Jacq.;Piper;Piperaceae;NE;Shrub;Terrestrial
+#43;native;Piper vicosanum;Piper vicosanum Yunck.;Piper;Piperaceae;NE;Shrub;Terrestrial
+#45;native;Piper xylosteoides;Piper xylosteoides (Kunth) Steud.;Piper;Piperaceae;NE;Shrub;Terrestrial
+#16#18;native;Piptocarpha axillaris;Piptocarpha axillaris (Less.) Baker;Piptocarpha;Asteraceae;NE;Tree;Terrestrial
+#28;native;Piptocarpha leprosa;Piptocarpha leprosa (Less.) Baker;Piptocarpha;Asteraceae;NE;Shrub|Vine;Terrestrial
+#43;native;Piptocarpha lundiana;Piptocarpha lundiana (Less.) Baker;Piptocarpha;Asteraceae;NE;Vine;Terrestrial
+#28;native;Piptocarpha macropoda;Piptocarpha macropoda (DC.) Baker;Piptocarpha;Asteraceae;NE;Tree;Terrestrial
+#16;native;Piptocarpha notata;Piptocarpha notata (Less.) Baker;Piptocarpha;Asteraceae;NE;Shrub|Vine;Terrestrial
+#52;native;Piptocarpha quadrangularis;Piptocarpha quadrangularis (Vell.) Baker;Piptocarpha;Asteraceae;NE;Shrub|Vine;Terrestrial
+#15;native;Pleiochiton blepharodes;Pleiochiton blepharodes (DC.) Reginato et al.;Pleiochiton;Melastomataceae;NE;Shrub|Vine;Epiphyte
+#47;native;Pleonotoma tetraquetra;Pleonotoma tetraquetra (Cham.) Bureau;Pleonotoma;Bignoniaceae;NE;Vine;Terrestrial
+#30#41;native;Pleopeltis hirsutissima;Pleopeltis hirsutissima (Raddi) de la Sota;Pleopeltis;Polypodiaceae;NE;Herb;Epiphyte|Rupicole|Terrestrial
+#30;native;Pleopeltis minima;Pleopeltis minima (Bory) J. Prado & R.Y. Hirai;Pleopeltis;Polypodiaceae;NE;Herb;Epiphyte
+#44;native;Pleroma candolleanum;Pleroma candolleanum (Mart. ex DC.) Triana;Pleroma;Melastomataceae;NE;Shrub|Tree;Terrestrial
+#28#43;native;Pleroma estrellense;Pleroma estrellense (Raddi) P.J.F.Guim. & Michelang.;Pleroma;Melastomataceae;NE;Tree;Terrestrial
+#28;native;Pleroma fothergillii;Pleroma fothergillii (Schrank et Mart. ex DC.) Triana;Pleroma;Melastomataceae;NE;Shrub;Terrestrial
+#17;native;Pleroma granulosum;Pleroma granulosum (Desr.) D. Don;Pleroma;Melastomataceae;NE;Shrub;Terrestrial
+#28;native;Pleroma hospitum;Pleroma hospitum (Schrank et Mart. ex DC.) Triana;Pleroma;Melastomataceae;NE;Shrub;Terrestrial
+#01;native;Pleroma martiusianum;Pleroma martiusianum (DC.) P.J.F.Guim. &Michelang.;Pleroma;Melastomataceae;NE;Shrub|Sub-Shrub;Terrestrial
+#15;native;Pleroma mutabile;Pleroma mutabile (Vell.) Triana;Pleroma;Melastomataceae;NE;Tree;Terrestrial
+#07#15#26#31;native;Pleroma raddianum;Pleroma raddianum (DC.) Gardner;Pleroma;Melastomataceae;NE;Tree;Terrestrial
+#16;native;Pleroma sellowianum;Pleroma sellowianum (Cham.) P.J.F.Guim. & Michelang.;Pleroma;Melastomataceae;NE;Tree;Terrestrial
+#28;native;Pleroma semidecandrum;Pleroma semidecandrum (Schrank et Mart. ex DC.) Triana;Pleroma;Melastomataceae;NE;Shrub;Terrestrial
+#07#15;native;Pleroma trichopodum;Pleroma trichopodum DC.;Pleroma;Melastomataceae;NE;Shrub;Terrestrial
+#52;native;Plinia martinellii;Plinia martinellii G.M.Barroso & M.Peron;Plinia;Myrtaceae;EN;Tree;Terrestrial
+#09#15#37;native;Plinia peruviana;Plinia peruviana (Poir.) Govaerts;Plinia;Myrtaceae;NE;Tree;Terrestrial
+#28;native;Pluchea sagittalis;Pluchea sagittalis (Lam.) Cabrera;Pluchea;Asteraceae;NE;Herb|Sub-Shrub;Terrestrial
+#52;native;Plukenetia serrata;Plukenetia serrata (Vell.) L.J.Gillespie;Plukenetia;Euphorbiaceae;NE;Vine;Terrestrial
+#19;native;Plumbago zeylanica;Plumbago zeylanica L.;Plumbago;Plumbaginaceae;NE;Sub-Shrubs ou Shrubs ;Terrestrial
+#16#18;native;Podocarpus lambertii;Podocarpus lambertii Klotzsch ex Endl.;Podocarpus;Podocarpaceae;NE;Tree;Terrestrial
+#14;native;Pogonophora schomburgkiana;Pogonophora schomburgkiana Miers ex Benth.;Pogonophora;Peraceae;NE;Shrub|Tree;Terrestrial
+#45;native;Polygonum acuminatum;Polygonum acuminatum Kunth;Polygonum;Polygonaceae;NE;Herb;Aquatic|Terrestrial
+#15;native;Polygonum punctatum;Polygonum punctatum Elliott;Polygonum;Polygonaceae;NE;Herb;Aquatic
+#21#48;native;Porophyllum ruderale;Porophyllum ruderale (Jacq.) Cass.;Porophyllum;Asteraceae;NE;Herb;Terrestrial
+#19;native;Pourouma guianensis;Pourouma guianensis Aubl.;Pourouma;Urticaceae;NE;Tree;Terrestrial
+#19;native;Pourouma velutina;Pourouma velutina Mart. ex Miq.;Pourouma;Urticaceae;NE;Tree;Terrestrial
+#26#31;native;Pouteria beaurepairei;Pouteria beaurepairei (Glaz. & Raunk.) Baehni;Pouteria;Sapotaceae;NE;Shrub|Tree;Terrestrial
+#02#04#15#21#23#34#44#53;native;Pouteria caimito;Pouteria caimito (Ruiz & Pav.) Radlk.;Pouteria;Sapotaceae;NE;Shrub|Tree;Terrestrial
+#15;native;Pouteria grandiflora;Pouteria grandiflora (A.DC.) Baehni;Pouteria;Sapotaceae;NE;Tree;Terrestrial
+#04#15#53;native;Pouteria psammophila;Pouteria psammophila (Mart.) Radlk.;Pouteria;Sapotaceae;NE;Tree;Terrestrial
+#45;native;Pouteria salicifolia;Pouteria salicifolia (Spreng.) Radlk.;Pouteria;Sapotaceae;NE;Tree;Terrestrial
+#02#07#15#21#23#25#34#44#53;native;Pouteria venosa;Pouteria venosa (Mart.) Baehni;Pouteria;Sapotaceae;NE;Shrub|Tree;Terrestrial
+#36;native;Praxelis diffusa;Praxelis diffusa (Rich.) Pruski;Praxelis;Asteraceae;NE;Herb;Terrestrial
+#28;native;Prestonia bahiensis;Prestonia bahiensis Müll.Arg.;Prestonia;Apocynaceae;NE;Vine;Terrestrial
+#18;native;Prosopis nigra;Prosopis nigra (Griseb.) Hiron.;Prosopis;Fabaceae;NE;Tree;Terrestrial
+#14;native;Protium aracouchini;Protium aracouchini (Aubl.) Marchand;Protium;Burseraceae;NE;Tree;Terrestrial
+#02#15#21#34#44#53;native;Protium brasiliense;Protium brasiliense (Spreng.) Engl.;Protium;Burseraceae;NE;Shrub|Tree;Terrestrial
+#14;native;Protium catuaba;Protium catuaba (Soares da Cunha) Daly & P.Fine;Protium;Burseraceae;VU;Tree;Terrestrial
+#28;native;Protium crassipetalum;Protium crassipetalum Cuatrec.;Protium;Burseraceae;NE;Tree;Terrestrial
+#01#02#03#08#11#14#15#17#20#23#29#32#34#38#39#44#53;native;Protium heptaphyllum;Protium heptaphyllum (Aubl.) Marchand;Protium;Burseraceae;NE;Tree;Terrestrial
+#02#03#10#15#21#23#34#38#44;native;Protium icicariba;Protium icicariba (DC.) Marchand;Protium;Burseraceae;NE;Tree;Terrestrial
+#01;native;Protium spruceanum;Protium spruceanum (Benth.) Engl.;Protium;Burseraceae;NE;Tree;Terrestrial
+#28;native;Protium tenuifolium;Protium tenuifolium (Engl.) Engl.;Protium;Burseraceae;NE;Tree;Terrestrial
+#18#28;native;Prunus myrtifolia;Prunus myrtifolia (L.) Urb.;Prunus;Rosaceae;NE;Tree;Terrestrial
+#17;native;Pseudolmedia macrophylla;Pseudolmedia macrophylla Trécul;Pseudolmedia;Moraceae;NE;Tree;Terrestrial
+#52;native;Pseudopiptadenia inaequalis;Pseudopiptadenia inaequalis (Benth.) Rauschert;Pseudopiptadenia;Fabaceae;NE;Tree;Terrestrial
+#49;native;Psidium brownianum;Psidium brownianum Mart. ex DC.;Psidium;Myrtaceae;NE;Shrub|Tree;Terrestrial
+#07#09#15#18#23#26#31#33#34#37#44#45;native;Psidium cattleyanum;Psidium cattleyanum Sabine;Psidium;Myrtaceae;NE;Shrub|Tree;Terrestrial
+#01#43;native;Psidium guineense;Psidium guineense Sw.;Psidium;Myrtaceae;NE;Shrub|Tree;Terrestrial
+#43;native;Psidium laruotteanum;Psidium laruotteanum Cambess.;Psidium;Myrtaceae;NE;Shrub|Sub-Shrub;Terrestrial
+#02#15#34#39#44#53;native;Psittacanthus dichroos;Psittacanthus dichroos (Mart.) Mart.;Psittacanthus;Loranthaceae;NE;Herb;Hemiparasite
+#52;native;Psychotria appendiculata;Psychotria appendiculata Müll.Arg.;Psychotria;Rubiaceae;NE;Shrub;Terrestrial
+#51;native;Psychotria borjensis;Psychotria borjensis Kunth;Psychotria;Rubiaceae;NE;Shrub|Tree;Terrestrial
+#07#12#14#15#18#19#23#26#27#31#33#45;native;Psychotria carthagenensis;Psychotria carthagenensis Jacq.;Psychotria;Rubiaceae;NE;Shrub|Tree;Terrestrial
+#07#15#28#52;native;Psychotria leiocarpa;Psychotria leiocarpa Cham. & Schltdl.;Psychotria;Rubiaceae;NE;Shrub;Terrestrial
+#35#43#52;native;Psychotria nuda;Psychotria nuda (Cham. & Schltdl.) Wawra;Psychotria;Rubiaceae;NE;Shrub;Terrestrial
+#52;native;Psychotria pallens;Psychotria pallens Gardner;Psychotria;Rubiaceae;NE;Shrub;Terrestrial
+#15;native;Psychotria pedunculosa;Psychotria pedunculosa Rich.;Psychotria;Rubiaceae;NE;Shrub|Tree;Terrestrial
+#01;native;Psychotria stachyoides;Psychotria stachyoides Benth.;Psychotria;Rubiaceae;NE;Shrub|Sub-Shrub;Terrestrial
+#52;native;Psychotria suterella;Psychotria suterella Müll.Arg.;Psychotria;Rubiaceae;NE;Shrub;Terrestrial
+#28#48;native;Pterocaulon virgatum;Pterocaulon virgatum (L.) DC.;Pterocaulon;Asteraceae;NE;Herb;Terrestrial
+#07#15;native;Pterolepis glomerata;Pterolepis glomerata (Rottb.) Miq.;Pterolepis;Melastomataceae;NE;Herb;Terrestrial
+#18;native;Pyrostegia venusta;Pyrostegia venusta (Ker Gawl.) Miers;Pyrostegia;Bignoniaceae;NE;Vine;Terrestrial
+#51;native;Qualea parviflora;Qualea parviflora Mart.;Qualea;Vochysiaceae;NE;Shrub|Tree;Terrestrial
+#27#52;native;Randia armata;Randia armata (Sw.) DC.;Randia;Rubiaceae;NE;Tree;Terrestrial
+#01;native;Reissekia smilacina;Reissekia smilacina (Sm.) Steud.;Reissekia;Rhamnaceae;NE;Vine;Terrestrial
+#28;native;Rhabdocaulon coccineum;Rhabdocaulon coccineum (Benth.) Epling;Rhabdocaulon;Lamiaceae;NE;Herb;Terrestrial
+#52;native;Rhipsalis olivifera;Rhipsalis olivifera N.P.Taylor & Zappi;Rhipsalis;Cactaceae;NE;Herb|Sub-shrub;Epiphyte
+#16#17#20#28#35;native;Roupala montana;Roupala montana Aubl.;Roupala;Proteaceae;NE;Shrub|Tree;Terrestrial
+#16#18;native;Rubus erythroclados;Rubus erythroclados Mart. ex Hook.f.;Rubus;Rosaceae;NE;Vine|Sub-Shrub;Terrestrial
+#52;native;Rudgea jasminoides;Rudgea jasminoides (Cham.) Müll.Arg.;Rudgea;Rubiaceae;NE;Shrub|Tree;Terrestrial
+#16#18#33;native;Rudgea parquioides;Rudgea parquioides (Cham.) Müll.Arg.;Rudgea;Rubiaceae;NE;Shrub|Sub-Shrub;Terrestrial
+#17;native;Sabicea brasiliensis;Sabicea brasiliensis Wernham;Sabicea;Rubiaceae;NE;Sub-Shrub;Terrestrial
+#51;native;Salix humboldtiana;Salix humboldtiana Willd.;Salix;Salicaceae;NE;Tree;Terrestrial
+#45;native;Salvia guaranitica;Salvia guaranitica A.St.-Hil. ex Benth.;Salvia;Lamiaceae;NE;Shrub|Sub-Shrub;Terrestrial
+#28;native;Salvia oligantha;Salvia oligantha Dúsen;Salvia;Lamiaceae;NE;Shrub|Sub-Shrub;Terrestrial
+#28;native;Salvia sellowiana;Salvia sellowiana Benth.;Salvia;Lamiaceae;NE;Shrub;Terrestrial
+#10#15;native;Salzmannia nitida;Salzmannia nitida DC.;Salzmannia;Rubiaceae;NE;Shrub;Terrestrial
+#16#18#45#47#52;native;Sapium glandulosum;Sapium glandulosum (L.) Morong;Sapium;Euphorbiaceae;NE;Shrub|Tree;Terrestrial
+#18;native;Sapium haematospermum;Sapium haematospermum Müll.Arg.;Sapium;Euphorbiaceae;NE;Shrub|Tree;Terrestrial
+#31;native;Scaevola plumieri;Scaevola plumieri (L.) Vahl;Scaevola;Goodeniaceae;NE;Shrub|Sub-Shrub;Terrestrial
+#04#07#09#15#21#23#24#25#26#31#32#42#53;native;Schinus terebinthifolia;Schinus terebinthifolia Raddi;Schinus;Anacardiaceae;NE;Shrub|Tree;Terrestrial
+#14;native;Schubertia grandiflora;Schubertia grandiflora Mart.;Schubertia;Apocynaceae;NE;Vine;Terrestrial
+#25;native;Schwartzia brasiliensis;Schwartzia brasiliensis (Choisy) Bedell ex Gir.-Cañas;Schwartzia;Marcgraviaceae;NE;Vine;Hemiepiphyte|Terrestrial
+#23;native;Scutia arenicola;Scutia arenicola (Casar.) Reissek;Scutia;Rhamnaceae;EN;Shrub;Terrestrial
+#18#45;native;Scutia buxifolia;Scutia buxifolia Reissek;Scutia;Rhamnaceae;NE;Shrub|Tree;Terrestrial
+#18;native;Sebastiania brasiliensis;Sebastiania brasiliensis Spreng.;Sebastiania;Euphorbiaceae;NE;Shrub|Tree;Rupicole|Terrestrial
+#18#33;native;Seguieria aculeata;Seguieria aculeata Jacq.;Seguieria;Phytolaccaceae;NE;Tree;Terrestrial
+#02#03#09#15#21#23#34#44#53;native;Selenicereus setaceus;Selenicereus setaceus (Salm-Dyck) Berg;Selenicereus;Cactaceae;NE;Vine;Epiphyte|Hemiepiphyte|Rupicole|Terrestrial
+#45;native;Senecio brasiliensis;Senecio brasiliensis (Spreng.) Less.;Senecio;Asteraceae;NE;Shrub;Terrestrial
+#35;native;Senefeldera verticillata;Senefeldera verticillata (Vell.) Croizat;Senefeldera;Euphorbiaceae;NE;Tree;Terrestrial
+#23#43;native;Senegalia lacerans;Senegalia lacerans (Benth.) Seigler & Ebinger;Senegalia;Fabaceae;NE;Vine;Terrestrial
+#05#06;native;Senegalia polyphylla;Senegalia polyphylla (DC.) Britton & Rose;Senegalia;Fabaceae;NE;Shrub|Tree;Terrestrial
+#43;native;Senna obtusifolia;Senna obtusifolia (L.) H.S.Irwin & Barneby;Senna;Fabaceae;NE;Herb|Sub-Shrub;Terrestrial
+#01#52;native;Serjania caracasana;Serjania caracasana (Jacq.) Willd.;Serjania;Sapindaceae;NE;Vine;Terrestrial
+#07#15#17#28;native;Serjania communis;Serjania communis Cambess.;Serjania;Sapindaceae;NE;Vine;Terrestrial
+#52;native;Serjania corrugata;Serjania corrugata Radlk.;Serjania;Sapindaceae;NE;Vine;Terrestrial
+#28;native;Serjania deflexa;Serjania deflexa Gardner;Serjania;Sapindaceae;NE;Vine;Terrestrial
+#17#28;native;Serjania glutinosa;Serjania glutinosa Radlk.;Serjania;Sapindaceae;NE;Vine;Terrestrial
+#01#28#32#43#47;native;Serjania lethalis;Serjania lethalis A.St.-Hil.;Serjania;Sapindaceae;NE;Vine;Terrestrial
+#17#18#28;native;Serjania meridionalis;Serjania meridionalis Cambess.;Serjania;Sapindaceae;NE;Vine;Terrestrial
+#11;native;Serjania obtusidentata;Serjania obtusidentata Radlk.;Serjania;Sapindaceae;NE;Vine;Terrestrial
+#28;native;Serjania paucidentata;Serjania paucidentata DC.;Serjania;Sapindaceae;NE;Vine;Terrestrial
+#36;native;Serjania reticulata;Serjania reticulata Cambess.;Serjania;Sapindaceae;NE;Vine;Terrestrial
+#30;native;Serpocaulon catharinae;Serpocaulon catharinae (Langsd. & Fisch.) A.R.Sm.;Serpocaulon;Polypodiaceae;NE;Herb;Epiphyte|Rupicole
+#43;native;Sida acuta;Sida acuta Burm.f.;Sida;Malvaceae;NE;Sub-Shrub;Terrestrial
+#18;native;Sida rhombifolia;Sida rhombifolia L.;Sida;Malvaceae;NE;Herb;Terrestrial
+#15#21#23#44#53;native;Sideroxylon obtusifolium;Sideroxylon obtusifolium (Roem. & Schult.) T.D.Penn.;Sideroxylon;Sapotaceae;NE;Shrub|Tree;Terrestrial
+#14#43;native;Simarouba amara;Simarouba amara Aubl.;Simarouba;Simaroubaceae;NE;Tree;Terrestrial
+#01#11#13#14#17#43;native;Siparuna guianensis;Siparuna guianensis Aubl.;Siparuna;Siparunaceae;NE;Shrub|Tree;Terrestrial
+#16;native;Siphoneugena reitzii;Siphoneugena reitzii D.Legrand;Siphoneugena;Myrtaceae;NE;Tree;Terrestrial
+#07#15#35;native;Sloanea guianensis;Sloanea guianensis (Aubl.) Benth.;Sloanea;Elaeocarpaceae;NE;Tree;Terrestrial
+#33;native;Sloanea hirsuta;Sloanea hirsuta (Schott) Planch. ex Benth.;Sloanea;Elaeocarpaceae;NE;Tree;Terrestrial
+#18#26#31;native;Smilax campestris;Smilax campestris Griseb.;Smilax;Smilacaceae;NE;Vine;Terrestrial
+#17;native;Smilax cissoides;Smilax cissoides Mart. ex Griseb.;Smilax;Smilacaceae;NE;Vine;Terrestrial
+#18;native;Smilax cognata;Smilax cognata Kunth;Smilax;Smilacaceae;NE;Vine;Terrestrial
+#52;native;Smilax fluminensis;Smilax fluminensis Steud.;Smilax;Smilacaceae;NE;Vine;Terrestrial
+#36;native;Smilax oblongifolia;Smilax oblongifolia Pohl ex Griseb.;Smilax;Smilacaceae;NE;Shrub|Vine|Sub-Shrub;Terrestrial
+#07#12#15#18#32;native;Smilax quinquenervia;Smilax quinquenervia Vell.;Smilax;Smilacaceae;NE;Vine;Terrestrial
+#02#03#04#09#10#15#21#23#25#44#53;native;Smilax rufescens;Smilax rufescens Griseb.;Smilax;Smilacaceae;NE;Vine|Sub-Shrub;Terrestrial
+#02#15#23#53;native;Solanum affine;Solanum affine Sendtn.;Solanum;Solanaceae;NE;Shrub;Terrestrial
+#28;native;Solanum asperum;Solanum asperum Rich.;Solanum;Solanaceae;NE;Shrub|Tree;Terrestrial
+#43;native;Solanum campaniforme;Solanum campaniforme Roem. & Schult.;Solanum;Solanaceae;NE;Shrub;Terrestrial
+#01;native;Solanum cernuum;Solanum cernuum Vell.;Solanum;Solanaceae;NE;Shrub|Tree;Terrestrial
+#01;native;Solanum cladotrichum;Solanum cladotrichum Dunal;Solanum;Solanaceae;NE;Shrub;Terrestrial
+#28;native;Solanum didymum;Solanum didymum Dunal;Solanum;Solanaceae;NE;Shrub;Terrestrial
+#04#15;native;Solanum jussiaei;Solanum jussiaei Dunal;Solanum;Solanaceae;NE;Shrub|Vine;Terrestrial
+#17;native;Solanum lycocarpum;Solanum lycocarpum A.St.-Hil.;Solanum;Solanaceae;NE;Shrub|Tree;Terrestrial
+#27;native;Solanum paniculatum;Solanum paniculatum L.;Solanum;Solanaceae;NE;Shrub;Terrestrial
+#52;native;Solanum piluliferum;Solanum piluliferum Dunal;Solanum;Solanaceae;NE;Shrub;Terrestrial
+#02#03#15#18#22#26#31;native;Solanum pseudoquina;Solanum pseudoquina A.St.-Hil.;Solanum;Solanaceae;NE;Tree;Terrestrial
+#18#45;native;Solanum ramulosum;Solanum ramulosum Sendtn.;Solanum;Solanaceae;NE;Shrub;Terrestrial
+#28;native;Solanum scuticum;Solanum scuticum M.Nee;Solanum;Solanaceae;NE;Shrub|Tree;Terrestrial
+#01#19#28#52;native;Solanum swartzianum;Solanum swartzianum Roem. & Schult.;Solanum;Solanaceae;NE;Tree;Terrestrial
+#28;native;Solanum uncinellum;Solanum uncinellum Lindl.;Solanum;Solanaceae;NE;Vine;Terrestrial
+#45;native;Solidago chilensis;Solidago chilensis Meyen;Solidago;Asteraceae;NE;Sub-Shrub;Terrestrial
+#33;native;Sorocea bonplandii;Sorocea bonplandii (Baill.) W.C.Burger et al.;Sorocea;Moraceae;NE;Shrub|Tree;Terrestrial
+#52;native;Sorocea guilleminiana;Sorocea guilleminiana Gaudich.;Sorocea;Moraceae;NE;Shrub|Tree;Terrestrial
+#01;native;Sparattosperma leucanthum;Sparattosperma leucanthum (Vell.) K.Schum.;Sparattosperma;Bignoniaceae;NE;Tree;Terrestrial
+#44;native;Stachytarpheta cayennensis;Stachytarpheta cayennensis (Rich.) Vahl;Stachytarpheta;Verbenaceae;NE;Herb|Sub-Shrub;Terrestrial
+#07#15;native;Stigmaphyllon arenicola;Stigmaphyllon arenicola C.E.Anderson;Stigmaphyllon;Malpighiaceae;NE;Vine;Terrestrial
+#21;native;Stigmaphyllon ciliatum;Stigmaphyllon ciliatum (Lam.) A.Juss.;Stigmaphyllon;Malpighiaceae;NE;Vine;Terrestrial
+#32;native;Stigmaphyllon lalandianum;Stigmaphyllon lalandianum A.Juss.;Stigmaphyllon;Malpighiaceae;NE;Vine;Terrestrial
+#15#23#53;native;Stigmaphyllon paralias;Stigmaphyllon paralias A.Juss.;Stigmaphyllon;Malpighiaceae;NE;Shrub;Terrestrial
+#52;native;Stizophyllum perforatum;Stizophyllum perforatum (Cham.) Miers;Stizophyllum;Bignoniaceae;NE;Vine;Terrestrial
+#17#20;native;Stizophyllum riparium;Stizophyllum riparium (Kunth) Sandwith;Stizophyllum;Bignoniaceae;NE;Vine;Terrestrial
+#07#15#21#28;native;Struthanthus acuminatus;Struthanthus acuminatus (Ruiz & Pav.) Kuijt;Struthanthus;Loranthaceae;NE;Herb;Hemiparasite
+#02#15#44#53;native;Struthanthus taubatensis;Struthanthus taubatensis Eichler;Struthanthus;Loranthaceae;NE;Herb;Hemiparasite
+#27;native;Strychnos parvifolia;Strychnos parvifolia A.DC.;Strychnos;Loganiaceae;NE;Shrub|Vine;Terrestrial
+#17#20;native;Stylosanthes gracilis;Stylosanthes gracilis Kunth;Stylosanthes;Fabaceae;NE;Sub-Shrub;Terrestrial
+#02#03#15#21;native;Stylosanthes guianensis;Stylosanthes guianensis (Aubl.) Sw.;Stylosanthes;Fabaceae;NE;Sub-Shrub;Terrestrial
+#07#15;native;Styrax glaber;Styrax glaber Sw.;Styrax;Styracaceae;NE;Tree;Terrestrial
+#18#45;native;Styrax leprosus;Styrax leprosus Hook. & Arn.;Styrax;Styracaceae;NE;Tree;Terrestrial
+#11;native;Styrax pohlii;Styrax pohlii A.DC.;Styrax;Styracaceae;NE;Shrub|Tree;Terrestrial
+#23;native;Swartzia apetala;Swartzia apetala Raddi;Swartzia;Fabaceae;NE;Tree;Terrestrial
+#07#15#19#44;native;Swartzia langsdorffii;Swartzia langsdorffii Raddi;Swartzia;Fabaceae;NE;Tree;Terrestrial
+#28;native;Symphyopappus itatiayensis;Symphyopappus itatiayensis (Hieron.) R.M.King & H.Rob.;Symphyopappus;Asteraceae;NE;Shrub;Terrestrial
+#18#28#48;native;Symphyopappus reticulatus;Symphyopappus reticulatus Baker;Symphyopappus;Asteraceae;NE;Sub-Shrub;Terrestrial
+#18#45;native;Symplocos uniflora;Symplocos uniflora (Pohl) Benth.;Symplocos;Symplocaceae;NE;Shrub|Tree;Terrestrial
+#27;native;Tabebuia roseoalba;Tabebuia roseoalba (Ridl.) Sandwith;Tabebuia;Bignoniaceae;NE;Tree;Terrestrial
+#52;native;Tanaecium pyramidatum;Tanaecium pyramidatum (Rich.) L.G.Lohmann;Tanaecium;Bignoniaceae;NE;Vine;Terrestrial
+#01#07#12#15#28#32#36#49;native;Tapirira guianensis;Tapirira guianensis Aubl.;Tapirira;Anacardiaceae;NE;Tree;Terrestrial
+#12;native;Terminalia tetraphylla;Terminalia tetraphylla (Aubl.) Gere & Boatwr.;Terminalia;Combretaceae;NE;Tree;Terrestrial
+#31;native;Ternstroemia brasiliensis;Ternstroemia brasiliensis Cambess.;Ternstroemia;Pentaphylacaceae;NE;Shrub|Tree;Terrestrial
+#02#15#44#53;native;Tetrapterys phlomoides;Tetrapterys phlomoides (Spreng.) Nied.;Tetrapterys;Malpighiaceae;NE;Vine;Terrestrial
+#14;native;Thaumatophyllum lundii;Thaumatophyllum lundii (Warm.) Sakur., Calazans & Mayo;Thaumatophyllum;Araceae;NE;Herb;Terrestrial
+#14;native;Thyrsodium spruceanum;Thyrsodium spruceanum Benth.;Thyrsodium;Anacardiaceae;NE;Tree;Terrestrial
+#14#46;native;Tovomita guianensis;Tovomita guianensis Aubl.;Tovomita;Clusiaceae;NE;Shrub|Tree;Terrestrial
+#13;native;Tovomita mangle;Tovomita mangle G. Mariz;Tovomita;Clusiaceae;NE;Shrub|Tree;Terrestrial
+#52;native;Tovomitopsis paniculata;Tovomitopsis paniculata (Spreng.) Planch. & Triana;Tovomitopsis;Clusiaceae;NE;Shrub|Tree;Terrestrial
+#11#33;native;Trema micranthum;Trema micranthum (L.) Blume;Trema;Cannabaceae;NE;Shrub|Tree;Terrestrial
+#45;native;Trichilia catigua;Trichilia catigua A.Juss.;Trichilia;Meliaceae;NE;Shrub|Tree;Terrestrial
+#33;native;Trichilia clausseni;Trichilia clausseni C.DC.;Trichilia;Meliaceae;NE;Tree;Terrestrial
+#24;native;Trichilia elegans;Trichilia elegans A.Juss.;Trichilia;Meliaceae;NE;Shrub|Tree;Terrestrial
+#13;native;Trichilia lepidota;Trichilia lepidota Mart.;Trichilia;Meliaceae;NE;Tree;Terrestrial
+#14;native;Trichilia quadrijuga;Trichilia quadrijuga Kunth;Trichilia;Meliaceae;NE;Tree;Terrestrial
+#52;native;Trichilia silvatica;Trichilia silvatica C.DC.;Trichilia;Meliaceae;NE;Shrub|Tree;Terrestrial
+#05;native;Trigonia nivea;Trigonia nivea Cambess.;Trigonia;Trigoniaceae;NE;Vine;Terrestrial
+#01;native;Trigonia paniculata;Trigonia paniculata Warm.;Trigonia;Trigoniaceae;NE;Shrub|Vine;Terrestrial
+#01;native;Triplaris americana;Triplaris americana L.;Triplaris;Polygonaceae;NE;Tree;Terrestrial
+#18#33#45;native;Trixis praestans;Trixis praestans (Vell.) Cabrera;Trixis;Asteraceae;NE;Shrub;Terrestrial
+#40;native;Urera nitida;Urera nitida (Vell.) P.Brack;Urera;Urticaceae;NE;Shrub|Sub-Shrub;Terrestrial
+#04#15;native;Urvillea stipitata;Urvillea stipitata Radlk.;Urvillea;Sapindaceae;NE;Vine;Terrestrial
+#18;native;Vachellia caven;Vachellia caven (Molina) Seigler & Ebinger;Vachellia;Fabaceae;NE;Shrub;Terrestrial
+#26#31;native;Vanilla chamissonis;Vanilla chamissonis Klotzsch;Vanilla;Orchidaceae;NE;Vine;Hemiepiphyte
+#01#02#03#07#10#15#19#23#31#34#43#44#53;native;Varronia curassavica;Varronia curassavica Jacq.;Varronia;Cordiaceae;NE;Shrub;Terrestrial
+#14;native;Varronia multispicata;Varronia multispicata (Cham.) Borhidi;Varronia;Cordiaceae;NE;Shrub|Sub-Shrub;Terrestrial
+#18;native;Varronia polycephala;Varronia polycephala Lam.;Varronia;Cordiaceae;NE;Shrub|Sub-Shrub;Terrestrial
+#28;native;Verbesina glabrata;Verbesina glabrata Hook. & Arn.;Verbesina;Asteraceae;NE;Shrub|Tree;Terrestrial
+#07#15#48;native;Vernonanthura beyrichii;Vernonanthura beyrichii (Less.) H.Rob.;Vernonanthura;Asteraceae;NE;Shrub;Terrestrial
+#27#51;native;Vernonanthura brasiliana;Vernonanthura brasiliana (L.) H.Rob.;Vernonanthura;Asteraceae;NE;Shrub;Terrestrial
+#18#45;native;Vernonanthura discolor;Vernonanthura discolor (Spreng.) H.Rob.;Vernonanthura;Asteraceae;NE;Tree;Terrestrial
+#28#48;native;Vernonanthura membranacea;Vernonanthura membranacea (Gardner) H.Rob.;Vernonanthura;Asteraceae;NE;Shrub;Terrestrial
+#19#28;native;Vernonanthura montevidensis;Vernonanthura montevidensis (Spreng.) H.Rob.;Vernonanthura;Asteraceae;NE;Sub-Shrub;Terrestrial
+#01#05#06#27#47#48;native;Vernonanthura polyanthes;Vernonanthura polyanthes (Sprengel) Vega & Dematteis;Vernonanthura;Asteraceae;NE;Shrub;Terrestrial
+#18;native;Vernonanthura puberula;Vernonanthura puberula (Less.) H.Rob.;Vernonanthura;Asteraceae;NE;Shrub;Terrestrial
+#13;native;Virola gardneri;Virola gardneri (A.DC.) Warb.;Virola;Myristicaceae;NE;Tree;Terrestrial
+#08#14;native;Vismia guianensis;Vismia guianensis (Aubl.) Choisy;Vismia;Hypericaceae;NE;Shrub|Tree;Terrestrial
+#47;native;Vismia micrantha;Vismia micrantha A.St.-Hil.;Vismia;Hypericaceae;NE;Shrub|Tree;Terrestrial
+#18;native;Vitex megapotamica;Vitex megapotamica (Spreng.) Moldenke;Vitex;Lamiaceae;NE;Shrub|Tree;Terrestrial
+#01;native;Vochysia tucanorum;Vochysia tucanorum Mart.;Vochysia;Vochysiaceae;NE;Tree;Terrestrial
+#01;native;Waltheria communis;Waltheria communis A.St.-Hil.;Waltheria;Malvaceae;NE;Sub-Shrub;Terrestrial
+#06#17#38#44;native;Waltheria indica;Waltheria indica L.;Waltheria;Malvaceae;NE;Herb|Sub-Shrub;Terrestrial
+#28;native;Weinmannia humilis;Weinmannia humilis Engl.;Weinmannia;Cunoniaceae;NE;Shrub|Tree;Terrestrial
+#02#15#21#23#34#44#53;native;Ximenia americana;Ximenia americana L.;Ximenia;Ximeniaceae;NE;Shrub|Tree;Hemiparasita|Terrestrial
+#21;native;Xylopia involucrata;Xylopia involucrata M.C.Dias & Kinoshita;Xylopia;Annonaceae;VU;Tree;Terrestrial
+#43;native;Xylopia sericea;Xylopia sericea A.St.-Hil.;Xylopia;Annonaceae;NE;Shrub|Tree;Terrestrial
+#33;native;Xylosma pseudosalzmannii;Xylosma pseudosalzmannii Sleumer;Xylosma;Salicaceae;NE;Shrub|Tree;Terrestrial
+#27#32;native;Zanthoxylum riedelianum;Zanthoxylum riedelianum Engl.;Zanthoxylum;Rutaceae;NE;Tree;Terrestrial
+#21;native;Zollernia glabra;Zollernia glabra (Spreng.) Yakovlev;Zollernia;Fabaceae;NE;Shrub|Tree;Terrestrial
+#39#44;exotic;Mangifera indica;Mangifera indica L.;Mangifera;Anacardiaceae;NA;Tree;Terrestrial
+#18#45;exotic;Schinus polygama;Schinus polygama (Cav.) Cabrera;Schinus ;Anacardiaceae ;NA;Shrub|Tree;Terrestrial
+#07#15#48;exotic;Baccharis pedunculata;Baccharis pedunculata (Mill.) Cabrera;Baccharis;Asteraceae;NA;Shrub|Sub-Shrub;Terrestrial
+#28#32#47;exotic;Bidens squarrosa;Bidens squarrosa Kunth;Bidens;Asteraceae;NA;Vine;Terrestrial
+#51;exotic;Vernonia esculenta;Vernonia esculenta Hemsl.;Vernonia;Asteraceae;NA;Shrub|Tree;Terrestrial
+#07#15;exotic;Commelina diffusa;Commelina diffusa Burm.f.;Commelina;Commelinaceae;NA;Herb;Aquatic|Terrestrial
+#12;exotic;Mabea occidentalis;Mabea occidentalis Benth.;Mabea;Euphorbiaceae;NA;Tree;Terrestrial
+#25;exotic;Clitoria ternatea;Clitoria ternatea L.;Clitoria;Fabaceae;NA;Vine;Terrestrial
+#07#15;exotic;Desmodium adscendens;Desmodium adscendens (Sw.) DC.;Desmodium;Fabaceae;NA;Sub-Shrub;Terrestrial
+#15#44#53;exotic;Senna bicapsularis;Senna bicapsularis (L.) Roxb.;Senna;Fabaceae;NA;Tree;Terrestrial
+#15#44#53;exotic;Melissa officinalis;Melissa officinalis L.;Melissa;Lamiaceae;NA;Herb|Sub-Shrub;Terrestrial
+#50;exotic;Ficus microcarpa;Ficus microcarpa L.f.;Ficus;Moraceae;NA;Tree;Hemiepiphyte
+#06#21#27;exotic;Psidium guajava;Psidium guajava L.;Psidium;Myrtaceae;NA;Tree;Terrestrial
+#32;exotic;Passiflora crassifolia;Passiflora crassifolia Killip;Passiflora;Passifloraceae;NA;Herb;Terrestrial
+#31;exotic;Portulaca oleracea;Portulaca oleracea L.;Portulaca;Portulacaceae;NA;Herb;Rupicole|Terrestrial
+#28;exotic;Rubus rosifolius;Rubus rosifolius Sm.;Rubus;Rosaceae;NA;Sub-Shrub;Terrestrial
+#43;exotic;Paullinia glomerulosa;Paullinia glomerulosa Radlk;Paullinia;Sapindaceae;NA;Vine;Terrestrial
+#44;exotic;Physalis angulata;Physalis angulata L.;Physalis;Solanaceae;NA;Herb;Terrestrial
+#01#02#05#06#15#17#18#21#23#24#28#38#43#44#45#47#52#53;exotic;Lantana camara;Lantana camara L.;Lantana;Verbenaceae;NA;Shrub;Terrestrial
